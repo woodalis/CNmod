@@ -1,0 +1,23 @@
+#2216 - Semnan
+
+owner = SLJ
+controller = SLJ
+add_core = SLJ
+add_core = QOM
+add_core = KHO
+
+culture = persian
+religion = shiite
+capital = "Semnan"
+
+trade_goods = gems #Turquoise
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group

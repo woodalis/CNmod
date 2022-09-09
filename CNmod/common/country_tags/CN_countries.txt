@@ -1,0 +1,7 @@
+#Central Asia
+LIA = "countries/WesternLiao.txt"
+LIU = "countries/Liu.txt"
+SMR = "countries/Samarqand.txt"
+
+#Middle East
+SLJ = "countries/Seljuqids.txt"

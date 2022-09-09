@@ -1,0 +1,13 @@
+vassal = {
+	first = LIA
+	second = LIU
+	start_date = 1444.1.1
+	end_date = 1822.1.1
+}
+
+vassal = {
+	first = LIA
+	second = SMR
+	start_date = 1444.1.1
+	end_date = 1822.1.1
+}

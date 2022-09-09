@@ -1,0 +1,50 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 203  169  86 }
+
+revolutionary_colors = { 1 2 3 } #placeholder
+
+historical_idea_groups = { #placeholder
+	maritime_ideas
+	naval_ideas
+	defensive_ideas
+	administrative_ideas
+	humanist_ideas
+	quantity_ideas
+	influence_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+		"placeholder #0" = 10
+}
+
+leader_names = {
+	placeholder
+}
+
+ship_names = {
+	placeholder
+}

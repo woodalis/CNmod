@@ -1,0 +1,45 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 190  194  96 }
+
+revolutionary_colors = { 1 0 1 }
+
+historical_idea_groups = { #placeholder
+	maritime_ideas
+	naval_ideas
+	defensive_ideas
+	administrative_ideas
+	humanist_ideas
+	quantity_ideas
+	influence_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	muslim_cavalry_archers
+	shaybani
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+		"placeholder #0" = 10
+}
+
+leader_names = {
+	placeholder
+}
+
+ship_names = {
+	placeholder
+}

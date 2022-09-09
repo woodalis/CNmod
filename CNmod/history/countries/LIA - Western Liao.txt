@@ -1,0 +1,29 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+technology_group = chinese
+
+religion = confucianism
+add_harmonized_religion = sunni
+add_harmonized_religion = vajrayana
+add_harmonized_religion = tengri_pagan_reformed
+
+primary_culture = khitan
+add_accepted_culture = uyghur
+add_accepted_culture = uzbehk
+
+capital = 2125	#Balashagun
+fixed_capital = 410 #Baghdad
+
+historical_rival = SLJ
+historical_rival = YUA
+
+1443.11.23 = { #todo: monarchs
+	monarch = {
+		name = "Fen"
+		dynasty = "Yelü"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

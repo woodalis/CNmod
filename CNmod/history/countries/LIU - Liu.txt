@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = chinese
+
+religion = confucianism
+add_harmonized_religion = sunni
+add_harmonized_religion = vajrayana
+add_harmonized_religion = buddhism
+
+primary_culture = uyghur
+add_accepted_culture = tibetan
+add_accepted_culture = kashmiri
+
+capital = 739	#Kashgar
+
+historical_friend = LIA
+
+1443.11.23 = { #todo: monarchs
+	monarch = {
+		name = "placeholder"
+		dynasty = "Liu"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

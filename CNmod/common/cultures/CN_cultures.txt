@@ -1,0 +1,48 @@
+
+western_chinese = { #Liao Group
+	graphical_culture = asiangfx
+	
+	khitan = {
+		primary = LIA
+		dynasty_names = {
+			Yelü
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
+	}
+	
+	hui = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
+	}
+	
+	wuqiang = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
+	}
+}
+

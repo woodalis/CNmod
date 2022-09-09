@@ -1,0 +1,24 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 3
+technology_group = muslim
+
+religion = sunni
+religious_school = hanafi_school
+
+primary_culture = turkish
+add_accepted_culture = persian
+
+capital = 429 #Isfahan
+
+historical_rival = LIA
+
+1405.1.1 = {
+	monarch = {
+		name = "placeholder"
+		dynasty = "Seljuqid"
+		adm = 1
+		dip = 3	
+		mil = 2
+	}
+}
