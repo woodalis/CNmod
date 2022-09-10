@@ -12,7 +12,7 @@ capital = 327 #Adana
 
 1405.1.1 = {
 	monarch = {
-		name = "Levon #4"
+		name = "Levon V"
 		dynasty = "Hetum"
 		adm = 3
 		dip = 2
