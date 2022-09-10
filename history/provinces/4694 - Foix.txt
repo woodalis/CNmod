@@ -1,5 +1,5 @@
-owner = AQT
-controller = AQT
+owner = TOU
+controller = TOU
 capital = "Foix"
 is_city = yes
 culture = gascon
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 trade_goods = wool
 base_manpower = 2
-add_core = AQT
+add_core = TOU
 
 discovered_by = eastern
 discovered_by = western

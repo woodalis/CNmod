@@ -4,9 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = LON
+controller = LON
 add_core = LON
 add_core = ASU
 culture = leonese

@@ -1,5 +1,5 @@
-owner = SAV
-controller = SAV
+owner = PRO
+controller = PRO
 culture = occitain
 religion = catholic
 hre = yes
@@ -9,7 +9,7 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Bourg-en-Bresse"
 is_city = yes	
-add_core = SAV
+add_core = PRO
 
 
 

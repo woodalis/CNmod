@@ -1,8 +1,8 @@
 #224 - Andalucía
 
-owner = CAS	#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = ADU 
+controller = ADU
+add_core = ADU
 culture = andalucian
 religion = catholic
 hre = no
