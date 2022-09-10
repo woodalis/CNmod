@@ -7,3 +7,6 @@ SMR = "countries/Samarqand.txt"
 SLJ = "countries/Seljuqids.txt"
 AKG = "countries/Akgulids.txt"
 HTM = "countries/Hetumids.txt"
+
+#Russia
+BJA = "countries/Bjarmaland.txt"

@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+
+religion = sunni
+religious_school = hanafi_school
+
+primary_culture = wu
+
+capital = 1955	#Arkhangelsk/Kaijakar
+
+1414.11.23 = {
+	monarch = {
+		name = "placeholder"
+		dynasty = "al-Placeholder"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
