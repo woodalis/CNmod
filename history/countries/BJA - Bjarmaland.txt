@@ -1,5 +1,5 @@
-government = monarchy
-add_government_reform = iqta
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 technology_group = muslim
 
@@ -12,10 +12,10 @@ capital = 1955	#Arkhangelsk/Kaijakar
 
 1414.11.23 = {
 	monarch = {
-		name = "placeholder"
-		dynasty = "al-Placeholder"
-		adm = 3
-		dip = 3
+		name = "Biatari"
+		dynasty = "Buki"
+		adm = 5
+		dip = 5
 		mil = 3
 	}
 }

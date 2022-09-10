@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = muslim
 
 religion = sunni
-religious_school = hanafi_school #lore check
+religious_school = shafii_school
 
 primary_culture = armenian
 
@@ -12,10 +12,10 @@ capital = 327 #Adana
 
 1405.1.1 = {
 	monarch = {
-		name = "Placeholder"
-		dynasty = "Hetumid"
-		adm = 4
-		dip = 6
+		name = "Levon #4"
+		dynasty = "Hetum"
+		adm = 3
+		dip = 2
 		mil = 1
 	}
 }
