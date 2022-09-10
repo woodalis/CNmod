@@ -1,23 +1,23 @@
 government = monarchy
-add_government_reform = igta
+add_government_reform = iqta
 government_rank = 1
 technology_group = muslim
 
 religion = sunni
 religious_school = hanafi_school
 
-primary_culture = uzbehk
+primary_culture = uzbek
 
 capital = 454	#Samarqand
 
 historical_friend = LIA
 
-1443.11.23 = { #todo: monarchs
+1443.11.23 = {
 	monarch = {
-		name = "placeholder"
-		dynasty = "al-Placeholder"
-		adm = 1
-		dip = 1
+		name = "Yunus"
+		dynasty = "al-Farisi al-Estakhri"
+		adm = 3
+		dip = 6
 		mil = 1
 	}
 }

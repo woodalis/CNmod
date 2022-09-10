@@ -1,22 +1,22 @@
 government = monarchy
 add_government_reform = iqta
-government_rank = 2
+government_rank = 1
 technology_group = muslim
 
 religion = sunni
-religious_school = shafii_school
+religious_school = hanafi_school
 
-primary_culture = al_misr_arabic
-add_accepted_culture = persian
+primary_culture = turkish
+add_accepted_culture = al_misr_arabic
 
 capital = 361 #Cairo
 
 1405.1.1 = {
 	monarch = {
-		name = "placeholder"
+		name = "Kayahan"
 		dynasty = "Akgul"
-		adm = 3
-		dip = 3	
-		mil = 3
+		adm = 4
+		dip = 4	
+		mil = 2
 	}
 }

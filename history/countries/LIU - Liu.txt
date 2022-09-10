@@ -6,7 +6,6 @@ technology_group = chinese
 religion = confucianism
 add_harmonized_religion = sunni
 add_harmonized_religion = vajrayana
-add_harmonized_religion = buddhism
 
 primary_culture = uyghur
 add_accepted_culture = tibetan
@@ -16,12 +15,12 @@ capital = 739	#Kashgar
 
 historical_friend = LIA
 
-1443.11.23 = { #todo: monarchs
+1443.11.23 = {
 	monarch = {
-		name = "placeholder"
+		name = "Mertazhao"
 		dynasty = "Liu"
-		adm = 1
+		adm = 3
 		dip = 1
-		mil = 1
+		mil = 2
 	}
 }

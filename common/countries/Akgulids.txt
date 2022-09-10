@@ -2,19 +2,19 @@
 
 graphical_culture = muslimgfx
 
-color = { 194  75  35 }
+color = { 204  66  20 }
 
 revolutionary_colors = { 1 2 3 } #placeholder
 
-historical_idea_groups = { #placeholder
-	maritime_ideas
-	naval_ideas
-	defensive_ideas
-	administrative_ideas
-	humanist_ideas
+historical_idea_groups = {
+	quality_ideas
+	economic_ideas
+	diplomatic_ideas
 	quantity_ideas
+	administrative_ideas
 	influence_ideas
-	offensive_ideas
+	aristocratic_ideas
+	humanist_ideas
 }
 
 historical_units = {
@@ -32,7 +32,37 @@ historical_units = {
 }
 
 monarch_names = {
-		"placeholder #0" = 10
+		"Boran #1" = 50
+		"Kayahan #1" = 40
+		"Abdullah #0" = 40
+		"Habib #0" = 30
+		"Utku #0" = 30
+		"Hamit #0" = 30
+		"Vecdi #0" = 30
+		"Hayri #0" = 20
+		"Halik #0" = 20
+		"Akilli #0" = 20
+		"Sercan #0" = 20
+		"Dolunay #0" = 20
+		"Altinhan #0" = 20
+		"Mengi #0" = 20
+		"Fahri #0" = 20
+		"Halil #0" = 10
+		"Aksunar #0" = 10
+		"Abdul #0" = 10
+		"Jaad #0" = 10
+		"Abdur #0" = 10
+		"Hamad #0" = 10
+		"Taamir #0" = 10
+		"Saabiq #0" = 10
+		"Fikri #0" = 10
+		"Shaamil #0" = 10
+		"Munsif #0" = 10
+		"Hazm #0" = 10
+		"Ali #0" = 10
+		"Naser #0" = 10
+		"Firooz #0" = 10
+		"Khashayar #0" = 10
 }
 
 leader_names = {

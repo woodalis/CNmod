@@ -2,19 +2,19 @@
 
 graphical_culture = asiangfx
 
-color = { 190  194  96 }
+color = { 200  204  91 }
 
-revolutionary_colors = { 1 0 1 }
+revolutionary_colors = { 1 0 1 } #placeholder
 
-historical_idea_groups = { #placeholder
-	maritime_ideas
-	naval_ideas
-	defensive_ideas
-	administrative_ideas
+historical_idea_groups = {
+	aristocratic_ideas
 	humanist_ideas
+	diplomatic_ideas
 	quantity_ideas
-	influence_ideas
+	administrative_ideas
+	trade_ideas
 	offensive_ideas
+	economic_ideas
 }
 
 historical_units = {
@@ -35,7 +35,37 @@ historical_units = {
 }
 
 monarch_names = {
-		"placeholder #0" = 10
+		"Mertazhao #1" = 50
+		"Ablad #0" = 40
+		"Yushupjang #0" = 40
+		"Satug #0" = 30
+		"Bayurjak #0" = 30
+		"Maomud #0" = 30
+		"Shouyad #0" = 30
+		"Shoyed #0" = 20
+		"Yayangi #0" = 20
+		"Shodun #0" = 20
+		"Zhumad #0" = 20
+		"Ali #0" = 20
+		"Saliyan #0" = 20
+		"Magshad #0" = 20
+		"Tushunbao #0" = 20
+		"Yami #0" = 10
+		"Medao #0" = 10
+		"Abushamad #0" = 10
+		"Shabubek #0" = 10
+		"Bad #0" = 10
+		"Taogajin #0" = 10
+		"Yabuga #0" = 10
+		"Dayan #0" = 10
+		"Shigugetu #0" = 10
+		"Kishiyu #0" = 10
+		"Huang #0" = 10
+		"Min #0" = 10
+		"Yang #0" = 10
+		"Luoyang #0" = 10
+		"Jie #0" = 10
+		"Kun #0" = 10
 }
 
 leader_names = {
