@@ -1,0 +1,7 @@
+#Vassals
+vassal = {
+	first = AQT
+	second = AUV
+	start_date = 1444.1.1
+	end_date = 1822.1.1
+}

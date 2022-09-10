@@ -1,7 +1,7 @@
 # 4112 - Cahors
 
-owner = AQT
-controller = AQT
+owner = TOU
+controller = TOU
 capital = "Cahors"
 is_city = yes
 culture = gascon
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 3
-add_core = FRA
-add_core = AQT
+add_core = TOU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

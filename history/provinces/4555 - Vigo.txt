@@ -1,8 +1,8 @@
 #Pontevedra
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = LON
+controller = LON
+add_core = LON
 add_core = GAL
 culture = galician
 religion = catholic
