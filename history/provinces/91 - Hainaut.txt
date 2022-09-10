@@ -1,8 +1,7 @@
 # 91 Hainaut - Principal cities: Mons & Tournai
 
-owner = BUR
-controller = BUR
-add_core = BUR
+owner = HAI
+controller = HAI
 capital = "Mons"
 is_city = yes
 culture = wallonian

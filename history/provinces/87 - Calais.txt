@@ -1,16 +1,16 @@
 # 87 Calais - Principal cities: Calais
 
-owner = ENG
-controller = ENG 
+owner = FLA
+controller = FLA
 capital = "Calais"
 culture = wallonian
 religion = catholic
-hre = no
+hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = fish
 base_manpower = 3
-add_core = ENG
+add_core = FLA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
