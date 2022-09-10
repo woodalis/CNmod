@@ -12,9 +12,9 @@ historical_idea_groups = {
 	economic_ideas
 	offensive_ideas
 	diplomatic_ideas
-	innovative_ideas
+	innovativeness_ideas
 	aristocratic_ideas
-	espionage_ideas
+	spy_ideas
 }
 
 historical_units = {
