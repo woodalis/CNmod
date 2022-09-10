@@ -4,17 +4,17 @@ graphical_culture = muslimgfx
 
 color = { 239  203  112 }
 
-revolutionary_colors = { 0 1 2 }
+revolutionary_colors = { 0 1 2 } #placeholder
 
-historical_idea_groups = { #placeholder
-	defensive_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	maritime_ideas
-	economic_ideas
-	diplomatic_ideas
+historical_idea_groups = {
 	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	humanist_ideas
+	quality_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
 }
 
 historical_units = { 

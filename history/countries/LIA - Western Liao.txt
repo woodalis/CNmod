@@ -18,7 +18,7 @@ fixed_capital = 410 #Baghdad
 historical_rival = SLJ
 historical_rival = YUA
 
-1443.11.23 = { #todo: monarchs
+1405.11.23 = { #todo: monarchs
 	monarch = {
 		name = "Fen"
 		dynasty = "Yelü"

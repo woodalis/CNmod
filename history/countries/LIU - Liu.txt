@@ -15,7 +15,7 @@ capital = 739	#Kashgar
 
 historical_friend = LIA
 
-1443.11.23 = {
+1405.11.23 = {
 	monarch = {
 		name = "Mertazhao"
 		dynasty = "Liu"
