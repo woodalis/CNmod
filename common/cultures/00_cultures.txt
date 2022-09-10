@@ -9488,15 +9488,4 @@ lost_cultures_group = {
 			Rivka Salampsio Sarah Shayna Tamar Tirtza Yael Yocheved
 		}
 	}
-	scythian = { #EU Rome
-		dynasty_names = {
-			Abeacid Galatid Madyid Palacid Partatid
-		}
-		male_names = {
-			Abeacus Apsyrtos Arpharnes Askhkadar Atheas Galat Kuluk Madyes Oltak Palacus Partatua Skilurus Skunxa Spadines Tasius Zanticus Respendial
-		}
-		female_names = {
-			Amage Ghadani Opoin Polemakratia
-		}
-	}
 }
