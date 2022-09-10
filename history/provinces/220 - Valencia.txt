@@ -1,8 +1,7 @@
 #220 - València
 
-owner = ARA	#Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = VAL
+controller = VAL
 add_core = VAL
 culture = catalan
 religion = catholic

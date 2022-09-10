@@ -1,12 +1,11 @@
 # - Urgell
 
-owner = ARA		#Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = CAT
+controller = CAT
 add_core = CAT
 culture = catalan
 religion = catholic
-hre = no
+hre = yes
 base_tax = 3
 base_production = 3
 trade_goods = wool 
