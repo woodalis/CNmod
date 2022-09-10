@@ -40,7 +40,7 @@ monarch_names = {
 		"Pusuwan #0" = 40
 		"Zhilugu #0" = 30
 		"Kuchlug #0" = 30
-		"JulÃ¼ #0" = 30
+		"Julü #0" = 30
 		"Zongzhen #0" = 30
 		"Abaoji #0" = 20
 		"Deguang #0" = 20
@@ -69,7 +69,7 @@ monarch_names = {
 }
 
 leader_names = {
-	Dashi Tabuyan Pusuwan Zhilugu Kuchlug JulÃ¼ Zongzhen Abaoji 
+	Dashi Tabuyan Pusuwan Zhilugu Kuchlug Julü Zongzhen Abaoji 
 }
 
 ship_names = {

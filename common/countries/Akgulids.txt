@@ -38,7 +38,7 @@ monarch_names = {
 		"Habib #0" = 30
 		"Utku #0" = 30
 		"Hamit #0" = 30
-		"ErtaÃ§ #0" = 30
+		"Ertaç #0" = 30
 		"Hayri #0" = 20
 		"Halik #0" = 20
 		"Akilli #0" = 20
@@ -83,8 +83,8 @@ leader_names = {
 }
 
 ship_names = {
-	"Allah'Ä±n GazabÄ±" "YÃ¼zen Kale" "MÄ±sÄ±r'Ä±n Gururu" Kahire Odun Teb "KÃ¼Ã§Ã¼k Bot" TanrÄ±'nÄ±n GÃ¼Ã§lÃ¼
-	"IslamÄ±n Gelgiti" Akgul'Ã¼n Hanife Hazm'Ã¼n Shaamil'Ã¼n Nural'Ã¼n Tuba'Ã¼n Shabeeba'Ã¼n Firooz'Ã¼n
-	Miqdaad'Ã¼n Hanlala'Ã¼n Akilli'Ã¼n Jumail'Ã¼n Zuraara'Ã¼n Kum Nil "BÃ¼yÃ¼k Nil" "Qabdat Albahaar"
+	"Allah'in Gazabi" "Yüzen Kale" "Misir'in Gururu" Kahire Odun Teb "Küçük Bot" Tanri'nin Güçlü
+	"Islamin Gelgiti" Akgul'ün Hanife Hazm'ün Shaamil'ün Nural'ün Tuba'ün Shabeeba'ün Firooz'ün
+	Miqdaad'ün Hanlala'ün Akilli'ün Jumail'ün Zuraara'ün Kum Nil "Büyük Nil" "Qabdat Albahaar"
 	"Al'iilah Aleazim" "Alqarib Al'ahmar" "Wahsh Alma'" Taniyn Nar "Dima' Alshuhada'" "Sayf
 }
