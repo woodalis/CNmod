@@ -1,11 +1,11 @@
 #332 - Marash
 
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = HTM
+controller = HTM
+add_core = HTM
 
 culture = armenian
-religion = coptic
+religion = sunni
 capital = "Maras"
 
 trade_goods = wool

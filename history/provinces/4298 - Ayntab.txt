@@ -1,12 +1,11 @@
 #4398 - Ayntab
 
-owner = ARM
-controller = ARM
-add_core = ARM
-add_core = DUL
+owner = HTM
+controller = HTM
+add_core = HTM
 
 culture = armenian
-religion = coptic
+religion = sunni
 capital = "Ayntab"
 
 trade_goods = wool

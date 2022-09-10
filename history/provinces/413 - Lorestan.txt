@@ -4,7 +4,6 @@ owner = SLJ
 controller = SLJ
 add_core = SLJ
 add_core = MSY
-add_core = TIM
 add_core = LRI
 
 culture = luri

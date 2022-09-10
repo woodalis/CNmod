@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+
+religion = sunni
+religious_school = hanafi_school #lore check
+
+primary_culture = armenian
+
+capital = 327 #Adana
+
+1405.1.1 = {
+	monarch = {
+		name = "Placeholder"
+		dynasty = "Hetumid"
+		adm = 4
+		dip = 6
+		mil = 1
+	}
+}

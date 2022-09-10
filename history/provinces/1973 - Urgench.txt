@@ -4,6 +4,7 @@ owner = LIA
 controller = LIA
 add_core = LIA
 add_core = KHI
+add_core = TIM
 
 culture = uzbehk
 religion = sunni

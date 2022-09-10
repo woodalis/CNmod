@@ -5,7 +5,6 @@ controller = SLJ
 add_core = SLJ
 add_core = ORM
 add_core = FRS
-add_core = TIM
 
 culture = persian
 religion = sunni

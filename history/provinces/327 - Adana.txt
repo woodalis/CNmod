@@ -1,11 +1,11 @@
 #327 - Adana
 
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = HTM
+controller = HTM
+add_core = HTM
 
 culture = armenian
-religion = coptic
+religion = sunni
 capital = "Adana"
 
 trade_goods = cotton

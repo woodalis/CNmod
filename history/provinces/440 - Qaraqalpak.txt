@@ -3,6 +3,7 @@
 owner = LIA
 controller = LIA
 add_core = LIA
+add_core = TIM
 add_core = SHY
 add_core = KHI
 add_core = TRS

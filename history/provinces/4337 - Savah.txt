@@ -3,7 +3,6 @@
 owner = SLJ
 controller = SLJ
 add_core = SLJ
-add_core = TIM
 add_core = QOM
 
 culture = persian
