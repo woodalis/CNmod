@@ -1,7 +1,7 @@
 #118 - Roma
 
-owner = PAP
-controller = PAP
+owner = ROM
+controller = ROM
 culture = umbrian 
 religion = catholic 
 hre = no
@@ -12,6 +12,7 @@ base_manpower = 7
 capital = "Roma"
 is_city = yes
 fort_15th = yes #Castel Sant'Angelo
+add_core = ROM
 add_core = PAP
 discovered_by = western
 discovered_by = eastern
@@ -22,9 +23,6 @@ add_province_triggered_modifier = non_catholic_rome
 extra_cost = 8
 center_of_trade = 1
 
-
-1408.1.1 = { owner = NAP controller = NAP add_core = NAP } # Ladislas takes control of Ancona
-1414.8.6 = { owner = PAP controller = PAP remove_core = NAP }
 1750.1.1 = { add_core = ITA } 
 1809.4.10 = { controller = FRA } # Occupied by French troops
 1809.10.14 = { owner = FRA add_core = FRA } # Treaty of Schönbrunn

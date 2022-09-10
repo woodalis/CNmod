@@ -1,0 +1,15 @@
+bookmark =
+{
+	name = "CHARLEMAGNESNIGHTMARE_NAME"
+	desc = "CHARLEMAGNESNIGHTMARE_DESC"
+	date = 1415.1.1
+	
+	country = ADU
+	country = ENG
+	country = AQT
+	country = LIA
+	country = SLJ
+	
+	default = yes
+	
+}

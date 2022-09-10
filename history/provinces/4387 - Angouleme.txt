@@ -2,6 +2,7 @@
 
 owner = AQT
 controller = AQT
+add_core = AQT
 capital = "Angoulême"
 is_city = yes
 culture = cosmopolitan_french

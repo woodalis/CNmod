@@ -1,7 +1,7 @@
 # 4725 - Arborea
 
-owner = SAR
-controller = SAR
+owner = ROM
+controller = ROM
 culture = sardinian 
 religion = catholic 
 hre = no 
@@ -11,17 +11,14 @@ trade_goods = grain
 base_manpower = 2
 capital = "Arborea" 
 is_city = yes # Estimated 
+add_core = ROM
 add_core = SAR
-
-
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1420.1.1 = { owner = ARA add_core = ARA controller = ARA } # Conquered by Aragon
 1516.1.23 = {	owner = SPA
 	controller = SPA
 	add_core = SPA
