@@ -38,7 +38,7 @@ monarch_names = {
 		"Habib #0" = 30
 		"Utku #0" = 30
 		"Hamit #0" = 30
-		"Vecdi #0" = 30
+		"Ertaç #0" = 30
 		"Hayri #0" = 20
 		"Halik #0" = 20
 		"Akilli #0" = 20
@@ -63,12 +63,28 @@ monarch_names = {
 		"Naser #0" = 10
 		"Firooz #0" = 10
 		"Khashayar #0" = 10
+
+		"Nural #0" = -50
+		"Seniha #0" = -30
+		"Behiye #0" = -30
+		"Tuba #0" = -10
+		"Nastaran #0" = -10
+		"Razeena #0" = -10
+		"Shabeeba #0" = -10
 }
 
 leader_names = {
-	placeholder
+	Boran Kayahan Abdullah Habib Utku Hamit Vecdi Hayri Halik Akilli Sercan Dolunay Altinhan Mengi 
+	Fahri Hali Aksunar Abdul Jaad Abdur Hamad Taamir Saabiq Fikri Shaamil Munsif Hazm Ali Naser
+	Firooz Khashayar Faheem Shawqi Fahd "Abdul Khaliq" Adeeb Hamdaan "Abdul Noor" Jumail Zuraara
+	Arshad Sharaf Naasif Hanlala Hakam Hasan Luwai Mujahid Saalim "Abdut Tawwab" Mufeed Ghaalib
+	Rasheeq Mudrik "Abdul Haadi" Zainudeen Kaleem Faaiq Mutasim Salaah Saabir Ismad Nazmi Bishr
+	Miqdaad Rajaa Fayyaad Thaamir Daifallah Dhaahir "Abdur Raqeeb" Aarif Shaheed Samir Haajid
 }
 
 ship_names = {
-	placeholder
+	"Allah'ın Gazabı" "Yüzen Kale" "Mısır'ın Gururu" Kahire Odun Teb "Küçük Bot" Tanrı'nın Güçlü
+	"Islamın Gelgiti" Akgul'ün Hanife Hazm'ün Shaamil'ün Nural'ün Tuba'ün Shabeeba'ün Firooz'ün
+	Miqdaad'ün Hanlala'ün Akilli'ün Jumail'ün Zuraara'ün Kum Nil "Büyük Nil" "Qabdat Albahaar"
+	"Al'iilah Aleazim" "Alqarib Al'ahmar" "Wahsh Alma'" Taniyn Nar "Dima' Alshuhada'" "Sayf
 }

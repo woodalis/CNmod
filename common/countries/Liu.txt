@@ -66,6 +66,14 @@ monarch_names = {
 		"Luoyang #0" = 10
 		"Jie #0" = 10
 		"Kun #0" = 10
+
+		"Shaniyao #0" = -50
+		"Sayamad #0" = -30
+		"Kunduzh #0" = -30
+		"Miya #0" = -10
+		"Dunyam #0" = -10
+		"Na #0" = -10
+		"Fang #0" = -10
 }
 
 leader_names = {
