@@ -35,11 +35,41 @@ historical_units = {
 }
 
 monarch_names = {
-		"placeholder #0" = 10
+		"Dashi #0" = 50
+		"Tabuyan #0" = 40
+		"Pusuwan #0" = 40
+		"Zhilugu #0" = 30
+		"Kuchlug #0" = 30
+		"Julü #0" = 30
+		"Zongzhen #0" = 30
+		"Abaoji #0" = 20
+		"Deguang #0" = 20
+		"Hongji #0" = 20
+		"Yanxi #0" = 20
+		"Xian #0" = 20
+		"Jing #0" = 20
+		"Kailuo #0" = 20
+		"Guozhe #0" = 20
+		"Huaijie #0" = 10
+		"Xia #0" = 10
+		"Yun #0" = 10
+		"Yan #0" = 10
+		"Jianhong #0" = 10
+		"Shui #0" = 10
+		"Cai #0" = 10
+		"Zhou #0" = 10
+		"Yijun #0" = 10
+		"Tugun #0" = 10
+		"Gayai #0" = 10
+		"Sodug #0" = 10
+		"Gashin #0" = 10
+		"Muyidin #0" = 10
+		"Ogbish #0" = 10
+		"Todung #0" = 10
 }
 
 leader_names = {
-	placeholder
+	Dashi Tabuyan Pusuwan Zhilugu Kuchlug Julü Zongzhen Abaoji 
 }
 
 ship_names = {

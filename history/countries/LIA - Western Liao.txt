@@ -20,10 +20,10 @@ historical_rival = YUA
 historical_friend = LIU
 historical_friend = SMR
 
-1405.11.23 = { #todo: monarchs
+1405.11.23 = {
 	monarch = {
 		name = "Fen"
-		dynasty = "YelÃ¼"
+		dynasty = "Yelü"
 		adm = 1
 		dip = 1
 		mil = 2
