@@ -17,6 +17,8 @@ fixed_capital = 410 #Baghdad
 
 historical_rival = SLJ
 historical_rival = YUA
+historical_friend = LIU
+historical_friend = SMR
 
 1405.11.23 = { #todo: monarchs
 	monarch = {
