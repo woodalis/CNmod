@@ -77,7 +77,7 @@ oghuric = {
 	graphical_culture = muslimgfx
 
 	dynasty_names = {
-		
+		Tzul Bulanid Tarkhan Dulo Vokil Ugain
 	}
 
 	male_names = {
