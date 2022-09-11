@@ -45,12 +45,6 @@ western_chinese = { #Liao Group
 	}
 }
 
-# Scythian culture group
-# - Alan
-# - Aorsi
-# - Siraci
-# - Uryssag
-
 scythian = { #scythian group
 	graphical_culture = muslimgfx
 
@@ -70,7 +64,7 @@ scythian = { #scythian group
 		
 	}
 
-	aorsi = {
+	arsiyah = {
 		primary= SCY
 	}
 

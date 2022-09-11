@@ -26,7 +26,7 @@
  POU:0 "Poitou"
  POU_ADJ:0 "Poitevin·e"
  TOI:0 "Touraine"
- TOI:0 "Tourangeau"
+ TOI_ADJ:0 "Tourangeau"
  RET:0 "Rethél"
  RET_ADJ:0 "Rethélois"
  ONG:0 "Orange"

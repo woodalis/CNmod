@@ -2,7 +2,7 @@
 
 owner = SCY
 controller = SCY
-culture = mishary
+culture = arsiyah
 religion = sunni
 capital = "Borisoglebsk"
 trade_goods = livestock

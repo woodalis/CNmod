@@ -6,8 +6,7 @@ technology_group = nomad_group
 religion = sunni
 religious_school = hanafi_school
 
-primary_culture = aorsi
-add_accepted_culture = siraci
+primary_culture = arsiyah
 add_accepted_culture = uryssag
 
 capital = 301	#Ryazan/Kærdyn

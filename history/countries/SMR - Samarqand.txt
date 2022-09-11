@@ -6,7 +6,7 @@ technology_group = muslim
 religion = sunni
 religious_school = hanafi_school
 
-primary_culture = uzbek
+primary_culture = uzbehk
 
 capital = 454	#Samarqand
 
