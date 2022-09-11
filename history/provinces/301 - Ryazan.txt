@@ -2,7 +2,7 @@
 
 owner = SCY
 controller = SCY   
-culture = aorsi
+culture = uryssag
 religion = sunni
 hre = no
 base_tax = 5

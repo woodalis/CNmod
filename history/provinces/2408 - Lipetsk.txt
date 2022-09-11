@@ -2,7 +2,7 @@
 
 owner = RYA
 controller = RYA
-culture = mishary
+culture = arsiyah
 religion = sunni
 hre = no
 base_tax = 3
