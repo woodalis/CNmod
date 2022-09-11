@@ -9,8 +9,8 @@ controller = LIA
 add_core = LIA
 add_core = KOK
 
-culture = khitan
-religion = confucianism
+culture = kirgiz
+religion = sunni
 capital = "Uzkend"
 
 trade_goods = wool
