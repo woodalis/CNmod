@@ -1,8 +1,8 @@
 #2974 Loon
 
-owner = HAI
-controller = HAI
-add_core = HAI
+owner = NAM
+controller = NAM
+add_core = NAM
 add_core = LIE
 is_city = yes
 capital = "Loon"

@@ -1,7 +1,7 @@
 # 4111 - Vendée
 
-owner = FRA
-controller = FRA
+owner = POU
+controller = POU
 capital = "Luçon"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = salt
 base_manpower = 3
-add_core = FRA
+add_core = POU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -11,3 +11,14 @@ HTM = "countries/Hetumids.txt"
 #Russia
 BJA = "countries/Bjarmaland.txt"
 SCY = "countries/ScythoRus.txt"
+
+#France
+MNE = "countries/Maine.txt"
+ANJ = "countries/Anjou.txt"
+POU = "countries/Poitou.txt"
+TOI = "countries/Touraine.txt"
+RET = "countries/Rethel.txt"
+ONG = "countries/Orange.txt"
+
+#Low Countries
+NAM = "countries/Namur.txt"
