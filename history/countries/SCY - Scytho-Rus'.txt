@@ -1,0 +1,26 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 3
+technology_group = nomad_group
+
+religion = sunni
+religious_school = hanafi_school
+
+primary_culture = aorsi
+add_accepted_culture = siraci
+add_accepted_culture = uryssag
+
+capital = 301	#Ryazan/Kærdyn
+
+historical_rival = POL
+historical_rival = NOV
+
+1405.11.23 = {
+	monarch = {
+		name = "Spargapaithah"
+		dynasty = "Saurmag"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

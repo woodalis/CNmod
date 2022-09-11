@@ -1,0 +1,42 @@
+graphical_culture = muslimgfx
+
+color = { 122  124  81 }
+
+revolutionary_colors = { 6 7 8 } #placeholder
+
+historical_idea_groups = { #placeholder
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+		placeholder
+}
+
+leader_names = {
+	placeholder
+}
+
+ship_names = {
+	placeholder
+}

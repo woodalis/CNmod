@@ -10,3 +10,4 @@ HTM = "countries/Hetumids.txt"
 
 #Russia
 BJA = "countries/Bjarmaland.txt"
+SCY = "countries/ScythoRus.txt"
