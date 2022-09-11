@@ -3,7 +3,7 @@
 owner = KAZ
 controller = KAZ
 capital = "Bolgar"
-culture = kazani
+culture = bulgar
 religion = sunni
 trade_goods = iron
 hre = no

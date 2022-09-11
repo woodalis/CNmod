@@ -3,7 +3,7 @@
 owner = SCY
 controller = SCY
 capital = "Kazan"
-culture = kazani
+culture = bulgar
 religion = sunni
 trade_goods = grain
 hre = no

@@ -2,7 +2,7 @@
 
 owner = KAZ
 controller = KAZ
-culture = kazani
+culture = bulgar
 religion = sunni
 capital = "Samara"
 trade_goods = livestock

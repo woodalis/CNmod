@@ -5,7 +5,7 @@ controller = NOG
 add_core = NOG
 add_core = AST
 
-culture = astrakhani
+culture = nogaybak
 religion = sunni
 capital = "Ukek"
 

@@ -2,7 +2,7 @@
 
 owner = GOL
 controller = GOL
-culture = astrakhani
+culture = khazar
 religion = sunni
 hre = no
 base_tax = 2 

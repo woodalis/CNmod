@@ -72,3 +72,33 @@ scythian = { #scythian group
 		
 	}
 }
+
+oghuric = {
+	graphical_culture = muslimgfx
+
+	dynasty_names = {
+		
+	}
+
+	male_names = {
+		Alp Baghatur Balgitzi Belgichi Bälgichi Balghichi Barjik Bashtu Bashtwa Bihor Biheros Bihar Virhor Bugha Bulan Bulchan Buljan Buzer Busir Bazir Chat Chorpan Gluchan Itakh Kayghalagh Kayqalagh Khatir Khadir Qadir Khuterkin Quterkin Kisa Kundajiq Kundaj Mänär Mänäs Ötemish Papatzys Samsam Simsam Tarkhan Tarmach Tuzniq Yilig Ilig Ziebil Gostyata Gostata Ivan
+	}
+
+	female_names = {
+		Chichek Chichäk Khatun Parsbit Barsbek
+	}
+
+	khazar = {
+		male_names = {
+			Aharon Aaron Amram Avraham Abraham Benyamin Hanukkah Hezekiah Menakhem Menahem Menashe Nisi Nissi Obadiah Ovadiah Pesakh Pesah Reuven Reuben Sabriel Shmuel Simson Sinai Yaakov Yehudah Yitzhak Yosef Zebulun Zavulon Zechariah Zachariah Zecharias
+		}
+
+		female_names = {
+			Serakh Serah
+		}
+	}
+
+	bulgar = {
+		
+	}
+}
