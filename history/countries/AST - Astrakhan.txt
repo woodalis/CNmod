@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+
+primary_culture = astrakhani
+
+religion = sunni
+religious_school = hanafi_school
+
+capital = 464	# Astrakhan
+
+historical_rival = NOG
+
+1414.1.1 = {
+	monarch = {
+		name = "Hajji"
+		dynasty = "ibn Oghlan Ali"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
