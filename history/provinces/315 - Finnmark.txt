@@ -15,7 +15,7 @@ add_core = NOR
 add_local_autonomy = 70
 discovered_by = eastern
 discovered_by = western
-
+discovered_by = BJA
 
 1450.1.1 = { culture = norwegian }
 1536.1.1 = { religion = protestant owner = DAN controller = DAN add_core = DAN }
