@@ -16,7 +16,7 @@ add_core = SCY
 add_core = RyA
 discovered_by = eastern
 discovered_by = western
-discovered_by = GOL
-discovered_by = KAZ
+
+
 discovered_by = LIA
 discovered_by = nomad_group
