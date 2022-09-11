@@ -54,6 +54,17 @@ western_chinese = { #Liao Group
 scythian = { #scythian group
 	graphical_culture = muslimgfx
 
+	dynasty_names = {
+		Abayty Bestauty Bibylty Brythiaty Dudaraty Dudayty Kharebaty Lalyty Plity
+	}
+
+	male_names = {
+		Ækhsærtæg Ækhsar Ækhsarbeg Afæqo Alan Alibeg Alimbeg Alyksandr Amurkhan Aslan Aslænbeg Azæmæt Batyradz Bega Dauyt Dimitr Dzæuyg Dzambeg Dzambolat Dzantemir Elbrus Fedyr Giuærgi Irbeg Ibragim Isaq Khasan Khazbi Khæmyts Khetæg Lazær Mækhæmæt Makharbeg Mikhal Mustæfa Mysost Niqala Qazybeg Ruslan Særmæt Sauarmæg Soslan Soslænbeg Sozyr Sozyryqo Taymuraz Totradz Tsomaq Uyryzmag Vano Zauyr Zauyrbeg Znauyr
+	}
+
+	female_names = {
+		Aguyndæ Arianæ Dzerassæ Elenæ Fatimæ Irinæ Roksalana Rukhsana Veronikæ Zalinæ Zarinæ Zinæ
+	}
 
 	alan = {
 		
@@ -61,22 +72,6 @@ scythian = { #scythian group
 
 	aorsi = {
 		primary= SCY
-		dynasty_names = {
-			Abayty Bestauty Bibylty Brythiaty Dudaraty Dudayty Kharebaty Lalyty Plity
-		}
-
-		male_names = {
-			Ækhsærtæg Ækhsar Ækhsarbeg Afæqo Alan Alibeg Alimbeg Alyksandr Amurkhan Aslan Aslænbeg Azæmæt Batyradz Bega Dauyt Dimitr Dzæuyg Dzambeg Dzambolat Dzantemir Elbrus Fedyr Giuærgi Irbeg Ibragim Isaq Khasan Khazbi Khæmyts Khetæg Lazær Mækhæmæt Makharbeg Mikhal Mustæfa Mysost Niqala Qazybeg Ruslan Særmæt Sauarmæg Soslan Soslænbeg Sozyr Sozyryqo Taymuraz Totradz Tsomaq Uyryzmag Vano Zauyr Zauyrbeg Znauyr
-		}
-
-		female_names = {
-			Aguyndæ Arianæ Dzerassæ Elenæ Fatimæ Irinæ Roksalana Rukhsana Veronikæ Zalinæ Zarinæ Zinæ
-		}
-		
-	}
-
-	siraci = {
-		
 	}
 
 	uryssag = {
