@@ -1,9 +1,9 @@
 #473 - Samara
 
-owner = KAZ
-controller = KAZ
-culture = bulgar
-religion = sunni
+owner = KMK
+controller = KMK
+culture = kalmyk
+religion = vajrayana
 capital = "Samara"
 trade_goods = livestock
 hre = no

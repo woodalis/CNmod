@@ -1,12 +1,11 @@
 #1965 - Buzuluk
 
-owner = ITA
-controller = ITA
-add_core = ITA
-#placeholder for kalmykia tag
+owner = KMK
+controller = KMK
+add_core = KMK
 
-culture = nogaybak
-religion = sunni
+culture = kalmyk
+religion = vajrayana
 capital = "Buzuluk"
 
 trade_goods = iron

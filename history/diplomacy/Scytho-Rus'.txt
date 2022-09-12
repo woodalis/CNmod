@@ -1,0 +1,36 @@
+vassal = {
+	first = SCY
+	second = BJA
+	start_date = 1415.1.1
+	end_date = 1822.1.1
+}
+vassal = {
+	first = SCY
+	second = BLO
+	start_date = 1415.1.1
+	end_date = 1822.1.1
+}
+vassal = {
+	first = SCY
+	second = YAR
+	start_date = 1415.1.1
+	end_date = 1822.1.1
+}
+vassal = {
+	first = SCY
+	second = RSO
+	start_date = 1415.1.1
+	end_date = 1822.1.1
+}
+vassal = {
+	first = SCY
+	second = TVE
+	start_date = 1415.1.1
+	end_date = 1822.1.1
+}
+vassal = {
+	first = SCY
+	second = KMK
+	start_date = 1415.1.1
+	end_date = 1822.1.1
+}
