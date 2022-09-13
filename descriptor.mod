@@ -6,5 +6,5 @@ tags={
 	"Missions And Decisions"
 }
 name="Charlemagne's Nightmare"
-supported_version="1.33.*"
+supported_version="1.34.*"
 path="mod/CNmod"
