@@ -12,6 +12,7 @@ HTM = "countries/Hetumids.txt"
 BJA = "countries/Bjarmaland.txt"
 SCY = "countries/ScythoRus.txt"
 KMK = "countries/Kalmykia.txt"
+BEZ = "countries/Bezhetskaya.txt"
 
 #France
 MNE = "countries/Maine.txt"

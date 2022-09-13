@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = russian
+add_accepted_culture = novgorodian
+religion = orthodox
+technology_group = eastern
+historical_rival = SCY
+historical_friend = NOV
+capital = 4117	# Bezhets
+
+1415.1.1 = {
+	monarch = {
+		name = "Placeholder"
+		adm = 1
+		dip = 1
+		mil = 1

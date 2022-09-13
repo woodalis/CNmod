@@ -8,6 +8,8 @@ religious_school = hanafi_school
 
 primary_culture = bjarman
 
+historical_rival = NOV
+
 capital = 1955	#Arkhangelsk/Kaijakar
 
 1414.11.23 = {
