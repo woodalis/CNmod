@@ -4,7 +4,7 @@ owner = BJA
 controller = BJA
 add_core = BJA
 
-culture = wu
+culture = bjarman
 religion = animism
 capital = "Kaijakar"
 
