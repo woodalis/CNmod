@@ -8,3 +8,4 @@ tags={
 name="Charlemagne's Nightmare"
 supported_version="1.34.*"
 path="mod/CNmod"
+replace_path="history/provinces"
