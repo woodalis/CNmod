@@ -11,7 +11,7 @@ LIA_ideas = {
     }
     
     trigger = {
-            tag = LIA
+        tag = LIA
     }
 	
     free = yes
