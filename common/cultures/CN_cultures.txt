@@ -251,7 +251,7 @@ finnic = {
 			placeholder
 		}
 	}
-	bjarman = {
+	bjarmian = {
 		male_names = {
 			placeholder
 		}
