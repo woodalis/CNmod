@@ -1,0 +1,49 @@
+
+#Liao Ideas
+LIA_ideas = {
+    start = {
+        num_accepted_cultures = 2
+        years_of_nationalism = -5
+    }
+    
+    bonus = {
+        siege_ability = 0.15
+    }
+    
+    trigger = {
+            tag = LIA
+        }
+    }
+    free = yes
+    
+    LIA_battle_of_qatwan = { #Battle of Qatwan: Yelü Dashi defeats the Seljuq Army despite being outnumbered by splitting his army and encircling the Seljuqs, nearly capturing the Seljuq Sultan and cementing the Liao's position in Central Asia
+		movement_speed = 0.10
+    }
+    
+    LIA_liao_religious_freedom = { #The Liao allowed their subjects essentially complete freedom to practice their religion, making integration easier (represented through harmonization ingame)
+		harmonization_speed = 0.2
+    }
+    
+    LIA_gunpowder_empire = { #The Liao rapidly embraced cannons and firearms in the 16th century
+		fire_damage = 0.10
+		siege_ability = 0.10
+    }
+    
+    LIA_silk_crossroads = { #Control over the silk road and central location between Persia, Russia, India and Ahina gives the Liao pretty good trade influence
+		global_own_trade_power = 0.1
+		trade_steering = 0.1
+    }
+
+    LIA_economic planning = { #dengism
+		build_cost = -0.1
+		build_time = -0.1
+    }
+    
+    LIA_bureaucratic_empire = { #The Liao Bureaucracy is the backbone of the Empire, it's pretty damn big and pretty damn effective
+		core_creation = -0.20
+    }
+	
+	LIA_proto_industrialization = { #dengism part 2
+		production_efficiency = 0.1
+	}
+}
