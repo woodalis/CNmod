@@ -12,8 +12,8 @@ LIA_ideas = {
     
     trigger = {
             tag = LIA
-        }
     }
+	
     free = yes
     
     LIA_battle_of_qatwan = { #Battle of Qatwan: Yelü Dashi defeats the Seljuq Army despite being outnumbered by splitting his army and encircling the Seljuqs, nearly capturing the Seljuq Sultan and cementing the Liao's position in Central Asia
