@@ -3,7 +3,7 @@
 owner = PRM
 controller = PRM
 capital = "Kudymkar"
-culture = uralic
+culture = komi
 religion = tengri_pagan_reformed #Sami Shamanism
 trade_goods = fur
 hre = no

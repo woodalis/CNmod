@@ -263,3 +263,30 @@ finnic = {
 		}
 	}
 }
+
+permic = {
+	komi = {
+		primary = PRM
+		male_names = {
+			Mikhail Yermolay Matvey Vasiley Pitirim Gerasim Isaak Iona Volod Gavril Yegor Ivan Mikulay Petyr 
+			Kos'ta Öndrey Stepan Ölyöksey Boris Danil Dmitry Pedot Illya Segö Semö Pedör 
+		}
+		female_names = {
+			Nasta Katyö Ölga
+		}
+		dynasty_names = {
+			"Azegid" "Gachegid" "Zhebegid" "Lunegid" "Zhunegid" "Irtegid" "Moshegid" "Nydogid" "Nylogid" "Ozhegid" "Odegid" "Rategid" "Permyakid" "Yugra" "Syktyvkar"
+		}
+	}
+	udmurt = {
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+		dynasty_names = {
+			placeholder
+		}
+	}
+}
