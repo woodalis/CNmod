@@ -2,16 +2,19 @@
 
 owner = SCY
 controller = SCY
+add_core = SCY
+add_core = VLB
+
 culture = bulgar
 religion = sunni
 capital = "Tetyushi"
+
 trade_goods = grain
 hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = SCY
 
 discovered_by = eastern
 discovered_by = western

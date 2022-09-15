@@ -13,6 +13,7 @@ BJA = "countries/Bjarmaland.txt"
 SCY = "countries/ScythoRus.txt"
 KMK = "countries/Kalmykia.txt"
 BEZ = "countries/Bezhetskaya.txt"
+VLB = "countries/VolgaBulgaria.txt"
 
 #France
 MNE = "countries/Maine.txt"

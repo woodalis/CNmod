@@ -3,15 +3,19 @@
 owner = KMK
 controller = KMK
 add_core = KMK
+add_core = VLB
+
 culture = bulgar
 religion = sunni
+capital = "Juketau"
+
 hre = no
 base_tax = 2 
 base_production = 2
 trade_goods = grain
 base_manpower = 2
-capital = "Juketau"
 is_city = yes
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

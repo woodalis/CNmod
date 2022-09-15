@@ -1,0 +1,44 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 129 153 90 }
+
+revolutionary_colors = { 1 0 1 } #placeholder
+
+historical_idea_groups = { #placeholder
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"placeholder #1" = 40
+}
+
+leader_names = {
+	placeholder
+}
+
+ship_names = { #the famous bulgarian volga river navy
+	placeholder
+}

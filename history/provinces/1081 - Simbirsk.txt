@@ -2,16 +2,19 @@
 
 owner = SCY
 controller = SCY
-capital = "Bolgar"
+add_core = SCY
+add_core = VLB
+
 culture = bulgar
 religion = sunni
+capital = "Bolgar"
+
 trade_goods = iron
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = SCY
 
 discovered_by = eastern
 discovered_by = western

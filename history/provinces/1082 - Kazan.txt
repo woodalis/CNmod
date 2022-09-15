@@ -2,9 +2,13 @@
 
 owner = SCY
 controller = SCY
-capital = "Kazan"
+add_core = SCY
+add_core = VLB
+
 culture = bulgar
 religion = sunni
+capital = "Kazan"
+
 trade_goods = grain
 hre = no
 base_tax = 6
@@ -12,7 +16,6 @@ base_production = 6
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = SCY
 
 discovered_by = eastern
 discovered_by = western

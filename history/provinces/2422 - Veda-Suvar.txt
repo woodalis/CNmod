@@ -2,18 +2,19 @@
 
 owner = SCY
 controller = SCY
+add_core = SCY
+add_core = VLB
+
 culture = bulgar
 religion = sunni
 capital = "Veda-Suvar"
+
 trade_goods = grain
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = SCY
-
-
 
 discovered_by = eastern
 discovered_by = western
