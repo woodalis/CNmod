@@ -1,7 +1,7 @@
 #1080 - North Urals
 
 capital = "Pelym"
-culture = uralic
+culture = komi
 religion = tengri_pagan_reformed #Sami Shamanism
 trade_goods = unknown
 hre = no

@@ -4,7 +4,7 @@ owner = BJA
 controller = BJA
 add_core = BJA
 
-culture = bjarman
+culture = bjarmian
 religion = animism
 capital = "Okladnikova Sloboda"
 

@@ -2,6 +2,7 @@
 
 owner = KMK
 controller = KMK
+add_core = KMK
 culture = bulgar
 religion = sunni
 hre = no

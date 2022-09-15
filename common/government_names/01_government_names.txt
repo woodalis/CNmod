@@ -45,8 +45,11 @@ gov_steppe_horde = {
 		has_reform = steppe_horde
 		OR = { 
 			culture_group = scythian
-			culture_group = altaic 
-			culture_group = tartar 
+			culture_group = mongolic
+			culture_group = oghuric
+			culture_group = kipchak
+			culture_group = karluk
+			culture_group = oghuz
 			primary_culture = altaic_new 
 		}
 	}

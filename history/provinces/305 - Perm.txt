@@ -2,7 +2,7 @@
 
 owner = KAZ
 controller = KAZ
-culture = uralic
+culture = komi
 religion = tengri_pagan_reformed #Sami Shamanism
 hre = no
 base_tax = 4

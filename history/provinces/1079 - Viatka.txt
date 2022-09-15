@@ -3,7 +3,7 @@
 owner = SCY
 controller = SCY
 capital = "Hlynov"
-culture = russian
+culture = udmurt
 religion = orthodox
 trade_goods = copper
 hre = no
