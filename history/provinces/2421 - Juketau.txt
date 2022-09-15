@@ -1,8 +1,8 @@
 #2421 - Juketau
 
-owner = KMK
-controller = KMK
-add_core = KMK
+owner = BSH
+controller = BSH
+add_core = BSH
 add_core = VLB
 
 culture = bulgar

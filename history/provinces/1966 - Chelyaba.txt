@@ -3,8 +3,6 @@
 owner = BSH
 controller = BSH
 add_core = BSH
-add_core = NOG
-add_core = SIB
 
 culture = bashkir
 religion = sunni

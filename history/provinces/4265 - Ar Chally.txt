@@ -3,7 +3,6 @@
 owner = BSH
 controller = BSH
 add_core = BSH
-add_core = KAZ
 add_core = VLB
 
 culture = bulgar
