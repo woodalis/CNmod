@@ -47,3 +47,52 @@ LIA_ideas = {
 		production_efficiency = 0.1
 	}
 }
+
+#Bjarmian Ideas
+BJA_ideas = {
+	start = {
+		hostile_attrition = 1
+		tolerance_heretic = 3
+	}
+
+	bonus = {
+		colonists = 1
+	}
+
+ trigger = {
+        tag = BJA
+	}
+
+	free = yes
+
+	BJA_sioda_bohiosessa = { #"War in the North," the Bjarmians are a proud and fringe group, the only independent Finnic nation who will give their all to live and die in the North
+		land_morale = 0.1
+	}
+
+	BJA_winters_embrace = { #Defense of the Arctic haven
+		defensiveness = 0.15
+	}
+
+	BJA_lineage_of_two_gods = { #The Bjarmians have the support of Allah and Ukko behind them
+		legitimacy = 1
+		manpower_in_true_faith_provinces = 0.15
+	}
+
+	BJA_sintmaogeus = { #the birthright (Sintmäogeus) of the Bjarmians
+		fabricate_claims_cost = -0.25
+	}
+
+	BJA_multicultural_delegates = { #the cultures of the uralics and the steppe come together to make a charismatic diplomatic situation
+				improve_relation_modifier = 0.25
+	}
+
+	BJA_ukkos bolt = { #strike like the thunderbolt of Ukko
+		movement_speed = 0.15
+		leader_land_shock = 1
+	}
+
+	  BJA_arctic_fleet = { #a fleet made for ice
+		global_ship_cost = -0.1
+		own_coast_naval_combat_bonus = 1
+	  }
+}
