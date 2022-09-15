@@ -7,7 +7,7 @@ LIA_ideas = {
     }
     
     bonus = {
-        siege_ability = 0.15
+        artillery_power = 0.15
     }
     
     trigger = {
@@ -40,7 +40,7 @@ LIA_ideas = {
     }
     
     LIA_bureaucratic_empire = { #The Liao Bureaucracy is the backbone of the Empire, it's pretty damn big and pretty damn effective
-		core_creation = -0.20
+		core_creation = -0.25
     }
 	
 	LIA_proto_industrialization = { #dengism part 2
@@ -83,7 +83,7 @@ BJA_ideas = {
 	}
 
 	BJA_multicultural_delegates = { #the cultures of the uralics and the steppe come together to make a charismatic diplomatic situation
-				improve_relation_modifier = 0.25
+		improve_relation_modifier = 0.25
 	}
 
 	BJA_ukkos bolt = { #strike like the thunderbolt of Ukko
