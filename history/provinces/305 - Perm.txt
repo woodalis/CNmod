@@ -1,8 +1,8 @@
 #305 - Perm
 
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = BSH
+controller = BSH
+add_core = BSH
 add_core = PRM
 culture = komi
 religion = tengri_pagan_reformed
