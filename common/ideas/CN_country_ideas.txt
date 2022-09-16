@@ -34,7 +34,7 @@ LIA_ideas = {
 		trade_steering = 0.1
     }
 
-    LIA_economic planning = { #dengism
+    LIA_economic_planning = { #dengism
 		build_cost = -0.1
 		build_time = -0.1
     }
@@ -86,7 +86,7 @@ BJA_ideas = {
 		improve_relation_modifier = 0.25
 	}
 
-	BJA_ukkos bolt = { #strike like the thunderbolt of Ukko
+	BJA_ukkos_bolt = { #strike like the thunderbolt of Ukko
 		movement_speed = 0.15
 		leader_land_shock = 1
 	}

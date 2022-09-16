@@ -2,19 +2,20 @@
 
 owner = BEZ
 controller = BEZ
+add_core = NOV
+add_core = MOS
+add_core = BEZ
+
 culture = novgorodian
 religion = orthodox
+capital = "Torzhok"
+
 hre = no
 base_tax = 3
 base_production = 3
 trade_goods = naval_supplies
 base_manpower = 1
-capital = "Torzhok"
 is_city = yes
-
-add_core = NOV
-add_core = MUS
-add_core = BEZ
 
 discovered_by = eastern
 discovered_by = western
