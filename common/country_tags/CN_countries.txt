@@ -16,6 +16,7 @@ BEZ = "countries/Bezhetskaya.txt"
 VLB = "countries/VolgaBulgaria.txt"
 
 #France
+AQT	= "countries/Aquitania.txt"
 MNE = "countries/Maine.txt"
 ANJ = "countries/Anjou.txt"
 POU = "countries/Poitou.txt"

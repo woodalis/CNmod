@@ -13,7 +13,7 @@ historical_idea_groups = {
 	quantity_ideas
 	administrative_ideas
 	influence_ideas
-	aristocratic_ideas
+	aristocracy_ideas
 	humanist_ideas
 }
 
@@ -86,5 +86,5 @@ ship_names = {
 	"Allah'in Gazabi" "Yüzen Kale" "Misir'in Gururu" Kahire Odun Teb "Küçük Bot" Tanri'nin Güçlü
 	"Islamin Gelgiti" Akgul'ün Hanife Hazm'ün Shaamil'ün Nural'ün Tuba'ün Shabeeba'ün Firooz'ün
 	Miqdaad'ün Hanlala'ün Akilli'ün Jumail'ün Zuraara'ün Kum Nil "Büyük Nil" "Qabdat Albahaar"
-	"Al'iilah Aleazim" "Alqarib Al'ahmar" "Wahsh Alma'" Taniyn Nar "Dima' Alshuhada'" "Sayf
+	"Al'iilah Aleazim" "Alqarib Al'ahmar" "Wahsh Alma'" Taniyn Nar "Dima' Alshuhada'" Sayf
 }

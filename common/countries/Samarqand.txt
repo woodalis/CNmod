@@ -13,7 +13,7 @@ historical_idea_groups = {
 	offensive_ideas
 	diplomatic_ideas
 	innovativeness_ideas
-	aristocratic_ideas
+	aristocracy_ideas
 	spy_ideas
 }
 

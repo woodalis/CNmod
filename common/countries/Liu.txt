@@ -7,7 +7,7 @@ color = { 200  204  91 }
 revolutionary_colors = { 1 0 1 } #placeholder
 
 historical_idea_groups = {
-	aristocratic_ideas
+	aristocracy_ideas
 	humanist_ideas
 	diplomatic_ideas
 	quantity_ideas
