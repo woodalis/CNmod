@@ -8893,3 +8893,33 @@ lost_cultures_group = {
 		}
 	}
 }
+
+altaic = {
+	graphical_culture = muslimgfx
+	altaic_dead = {
+		dynasty_names = {
+			dead
+		}
+		male_names = {
+			dead
+		}
+		female_names = {
+			dead
+		}
+	}
+}
+
+tartar = {
+	graphical_culture = muslimgfx
+	tartar_dead = {
+		dynasty_names = {
+			dead
+		}
+		male_names = {
+			dead
+		}
+		female_names = {
+			dead
+		}
+	}
+}
