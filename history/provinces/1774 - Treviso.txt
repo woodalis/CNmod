@@ -1,7 +1,7 @@
 #1774 - Treviso
 owner = TRO
 controller = TRO
-add_core = TRV
+add_core = TRO
 culture = venetian 
 religion = catholic 
 hre = yes
