@@ -10,7 +10,7 @@ add_core = LIA
 add_core = KOK
 
 culture = kirgiz
-religion = sunni
+religion = vajrayana
 capital = "Uzkend"
 
 trade_goods = wool

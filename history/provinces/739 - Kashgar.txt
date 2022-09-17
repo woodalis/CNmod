@@ -6,7 +6,7 @@ add_core = LIU
 add_core = KAS
 
 culture = uyghur
-religion = sunni
+religion = vajrayana
 capital = "Kashgar"
 
 trade_goods = wool

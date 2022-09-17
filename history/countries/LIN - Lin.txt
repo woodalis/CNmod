@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = chinese_warlord
+government_rank = 1
+technology_group = chinese
+
+religion = confucianism
+
+primary_culture = zhongyuan
+
+capital = 2144 # Fuyang
+
+historical_rival = SNG

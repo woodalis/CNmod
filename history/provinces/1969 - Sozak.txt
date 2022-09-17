@@ -3,12 +3,10 @@
 owner = LIA
 controller = LIA
 add_core = LIA
-add_core = SHY
-add_core = KZH
 add_core = TRS
 
-culture = khazak
-religion = sunni
+culture = mongol
+religion = tengri_pagan_reformed
 capital = "Sozak"
 
 trade_goods = salt

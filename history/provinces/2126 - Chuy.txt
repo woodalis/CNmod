@@ -3,15 +3,18 @@
 owner = LIA
 controller = LIA
 add_core = LIA
+
 culture = kirgiz
-religion = sunni
+religion = vajrayana
 capital = "Chuy"
+
 trade_goods = wool
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 2
 is_city = yes
+
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = muslim

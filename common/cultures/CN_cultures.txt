@@ -1,20 +1,3 @@
-placeholder_group = {
-	graphical_culture = asiangfx
-	placeholder_culture = {
-		dynasty_names = {
-			placeholder
-		}
-		
-		male_names = {
-			placeholder
-		}
-		
-		female_names = {
-			placeholder
-		}
-	}
-}
-
 western_chinese = { #Liao Group
 	graphical_culture = asiangfx
 	
@@ -719,5 +702,22 @@ mongolic = {
 		Kirghiz
 		# CKII - KHANTY
 		"Sibirid" "Narima" "Mansi" "Khantys"
+	}
+}
+
+placeholder_group = {
+	graphical_culture = asiangfx
+	placeholder_culture = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
 	}
 }
