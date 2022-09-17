@@ -1,7 +1,8 @@
 #110 - Trent
 
-owner = TNT
-controller = TNT
+owner = BRC
+controller = BRC
+add_core = BRC
 add_core = TNT
 culture = venetian
 religion = catholic

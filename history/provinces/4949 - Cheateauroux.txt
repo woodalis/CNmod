@@ -1,0 +1,20 @@
+# 4949 Cheateauroux
+
+owner = AQT
+controller = AQT
+capital = "Cheateauroux"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 3
+trade_goods = wine
+base_manpower = 3
+add_core = BER
+add_core = AQT
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

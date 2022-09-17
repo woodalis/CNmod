@@ -1,7 +1,7 @@
 #2981 - Montferrat
 
-owner = MFA
-controller = MFA
+owner = MLO
+controller = MLO
 culture = piedmontese
 religion = catholic
 hre = yes
@@ -9,9 +9,9 @@ base_tax = 5
 base_production = 5
 trade_goods = wine
 base_manpower = 2
-capital = Montferrat
+capital = "Casale Montferrato"
 is_city = yes
-add_core = MFA
+add_core = MLO
 
 
 

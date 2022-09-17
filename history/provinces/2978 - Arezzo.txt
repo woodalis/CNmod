@@ -1,7 +1,7 @@
 # 2978 - Arezzo
 
-owner = LAN
-controller = LAN
+owner = TUS
+controller = TUS
 culture = tuscan 
 religion = catholic 
 hre = yes 
@@ -11,6 +11,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Arezzo" 
 is_city = yes # Estimated 
+add_core = TUS
 add_core = LAN
 discovered_by = western
 discovered_by = eastern

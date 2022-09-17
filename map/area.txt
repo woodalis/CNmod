@@ -292,8 +292,8 @@ normandy_area = { #4
 	167 168 1879 4385
 }
 
-provence_area = { #3
-	201 202 2991 4696
+provence_area = { #5
+	201 202 2991 4696 4948
 }
 
 poitou_area = { #4
@@ -304,46 +304,54 @@ guyenne_area = { #4
 	194 198 4112 174
 }
 
-pyrenees_area = { #4
-	175 173 176 4694
+pyrenees_area = { #5
+	175 173 176 4694 4944
 }
 
-languedoc_area = { #5
-	200 2753 4391 4695 196
+languedoc_area = { #4
+	200 2753 4695 196
+}
+
+gard_area = { #3
+	4391 4945 4946
 }
 
 bourgogne_area = { #3
 	color = { 144 0 32 }
-	192 193 4764
+	193 4764 4954
 }
 
 west_burgundy_area = { #3
-	191 1877 4392
+	192 1877 4392
 }
 
-massif_central_area = { #3
+massif_central_area = { #5
 	color = { 26 26 217 }
-	190 195 199 4697 4777
+	195 199 4697 4777 4947
 }
 
-savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
-	203 204 205 4719
+savoy_dauphine_area = { #5 Savoy and Dauphiné, Upper Burgundy 
+	203 204 205 4719 4720
 }
 
 lorraine_area = { #4
-	187 188 189 4766
+	188 189 4766 4953
 }
 
-picardy_area = { #4
-	87 88 89 1743
+picardy_area = { #5
+	87 88 89 1743 4957
 }
 
 ile_de_france_area = { #4
-	182 183 185 4388
+	182 183 4955 4956
 }
 
 champagne_area = { #3
-	181 186 4390
+	181 186 187 
+}
+
+south_champagne_area = { #4
+	4390 4950 4951 4952
 }
 
 loire_area = { #5
@@ -351,16 +359,20 @@ loire_area = { #5
 	177 178 4389
 }
 
-orleans_area = {
-	184 179 4776
+orleans_area = { #4
+	184 185 4388 4776 
+}
+
+berrichon_area = { #4
+	179 190 191 4949
 }
 
 ########################################
 # Low Countries				 		   #
 ########################################
 
-wallonia_area = { #4
-	91 93 94 1866
+wallonia_area = { #5
+	91 93 94 1866 4958
 }
 
 holland_area = { #4
@@ -388,12 +400,15 @@ north_brabant_area = { #3
 # Iberia					 		   #
 ########################################
 
-aragon_area = { #4
-	211 214 2990 4557
+aragon_area = { #5
+	211 214 2990 4557 4966
 }
 
-catalonia_area = { #5
-	197 212 213 2987 2988
+tarragona_area = { #3
+	2987 2988 4943
+}
+catalonia_area = { #3
+	197 212 213 
 }
 
 valencia_area = { #5
@@ -458,12 +473,15 @@ macaronesia_area = { #3
 # Italy					 			   #
 ########################################
 
-venetia_area = { #5
-	108 111 112 1774 4729
+venetia_area = { #4
+	108 112 1774 4729
 }
 
+fruili_area = { #2
+	111 4965
+}
 lombardy_area = { #5
-	104 1862 4728 4740 2979
+	104 1862 2981 4728 4740 2979
 }
 
 po_valley_area = { #3
@@ -472,19 +490,19 @@ po_valley_area = { #3
 }
 
 piedmont_area = { #4
-	103 1875 2981 4727
+	103 1875 4727 4961
 }
 
 tuscany_area = { #5
 	115 116 117 2978 2980
 }
 
-liguria_area = { #3
-	101 102 2992
+liguria_area = { #4
+	101 102 2992 4960
 }
 
-corsica_sardinia_area = { #4
-	127 1247 2986 4735
+corsica_sardinia_area = { #5
+	127 1247 2986 4735 4962
 }
 
 sicily_area = { #3 # now Eastern Sicily
@@ -511,13 +529,17 @@ apulia_area = { #4
 	122 1933 2985 4733
 }
 
-emilia_romagna_area = { #5
+romagna_area = { #3
 	color = { 24 222 66 }
-	105 106 113 114 4730
+	113 114 4730
 }
 
-central_italy_area = { #3
-	119 120 2977
+emilia_area = { #3
+	105 106 4963
+}
+
+central_italy_area = { #4
+	119 120 2977 4964
 }
 
 ########################################
@@ -989,11 +1011,15 @@ carinthia_area = { #4 # Carniola in-game
 }
 
 switzerland_area = { #4
-	166 1869 1870 1873 4722
+	165 166 1869 1870
 }
 
-romandie_area = { #3
-	165 1867 1871 4720 4721
+grisons_area = { #3
+	1873 4722 4740 
+}
+
+romandie_area = { #4
+	1867 1871 4721 4959
 }
 
 upper_rhineland_area = { #3 # now 'Baden'

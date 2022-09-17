@@ -1,18 +1,17 @@
-# 89 Picardie - Principal cities: Amiens
+# 89 Picardie - Principal cities: Abbeville
 
 owner = PIC
 controller = PIC
-capital = "Amiens"
+capital = "Abbeville"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
 hre = yes
-base_tax = 6 
-base_production = 6
+base_tax = 4
+base_production = 4
 trade_goods = grain
 base_manpower = 5
 add_core = PIC
-fort_15th = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

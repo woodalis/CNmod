@@ -1,0 +1,20 @@
+# 4945 - Principal cities: Nîmes
+
+owner = TOU
+controller = TOU
+add_core = TOU
+capital = "Nîmes"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+trade_goods = wool
+base_manpower = 2
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

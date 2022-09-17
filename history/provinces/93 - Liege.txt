@@ -1,7 +1,7 @@
 # 93 Liège - Principal cities: Liège & Namur
 
-owner = LUX
-controller = LUX
+owner = NAM
+controller = NAM
 capital = "Liège"
 is_city = yes
 culture = wallonian
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = glass
 base_manpower = 3
-add_core = LUX
+add_core = NAM
 add_core = LIE
 fort_15th = yes
 discovered_by = eastern

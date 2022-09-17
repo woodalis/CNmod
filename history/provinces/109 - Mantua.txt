@@ -1,7 +1,8 @@
 #109 - Mantua
  
-owner = MAN
-controller = MAN
+owner = BRC
+controller = BRC
+add_core = BRC
 add_core = MAN
 culture = romagnan 
 religion = catholic 

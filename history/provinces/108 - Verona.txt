@@ -1,7 +1,7 @@
 #108 - Verona
 
-owner = MLO
-controller = MLO
+owner = BRC
+controller = BRC
 culture = venetian 
 religion = catholic 
 hre = yes
@@ -11,8 +11,7 @@ trade_goods = grain
 base_manpower = 3   
 capital = "Verona" 
 is_city = yes 
-add_core = MLO
-add_core = VRN
+add_core = BRC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -20,12 +19,6 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-
-1405.1.1 = {	owner = VEN
-	controller = VEN
-	add_core = VEN
-	remove_core = MLO
-} # To Milano
 1508.12.10 = { add_core = HAB } # War of the League of Cambrai 
 1509.6.1 = { controller = HAB } # Venice collapses
 1511.6.23 = { owner = HAB } # Austria switches sides

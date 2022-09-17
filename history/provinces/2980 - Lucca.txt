@@ -1,7 +1,8 @@
 # Lucca
 
-owner = LUC
-controller = LUC
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = LUC
 culture = tuscan
 religion = catholic

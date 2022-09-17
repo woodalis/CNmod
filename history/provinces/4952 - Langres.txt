@@ -1,0 +1,19 @@
+# 4952 Langres
+
+owner = LGS
+controller = LGS
+capital = "Sens"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 3
+trade_goods = iron
+base_manpower = 3
+add_core = LGS
+add_core = CHP
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

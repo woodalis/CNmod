@@ -1,6 +1,7 @@
 #1774 - Treviso
-owner = VEN
-controller = VEN
+owner = TRO
+controller = TRO
+add_core = TRV
 culture = venetian 
 religion = catholic 
 hre = yes

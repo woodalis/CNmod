@@ -1,0 +1,18 @@
+# 4956 Breteuil - Principal cities: Breteuil
+
+owner = BRL
+controller = BRL
+capital = "Bretuil"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 3
+trade_goods = livestock
+base_manpower = 4
+add_core = BRL
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

@@ -23,6 +23,25 @@ POU = "countries/Poitou.txt"
 TOI = "countries/Touraine.txt"
 RET = "countries/Rethel.txt"
 ONG = "countries/Orange.txt"
+LGS = "countries/Langres.txt"
+BLS = "countries/Blois.txt"
+BEA = "countries/Beauvais.txt"
+BRL = "countries/Breteuil.txt"
+VAS = "countries/Valois.txt" 
+NEM = "countries/Nemours.txt"
+MTI = "countries/Montiaur.txt"
+
 
 #Low Countries
 NAM = "countries/Namur.txt"
+
+#Italy
+ANC = "countries/Ancona.txt"
+BEL = "countries/Belluno.txt"
+BEG = "countries/Bergamo.txt"
+BRC = "countries/Brescia.txt"
+MSS = "countries/Massa.txt"
+MNC = "countries/Monaco.txt"
+RAV = "countries/Ravenna.txt"
+SAN = "countries/SanMarino.txt"
+TRV = "countries/Treviso.txt"

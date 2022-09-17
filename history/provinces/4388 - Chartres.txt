@@ -1,7 +1,7 @@
 # 4388 Chartres
 
-owner = ORL
-controller = ORL
+owner = BLS
+controller = BLS
 capital = "Chartres"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,7 +12,7 @@ base_production = 5
 trade_goods = cloth
 base_manpower = 6
 fort_15th = yes
-add_core = ORL
+add_core = BLS
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
