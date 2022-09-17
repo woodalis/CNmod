@@ -1,0 +1,16 @@
+owner = BJA
+controller = BJA
+add_core = BJA
+
+capital = "PROV_CAP4968"
+culture = bjarmian
+religion = tengri_pagan_reformed #Sami Shamanism
+
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = nomad_group

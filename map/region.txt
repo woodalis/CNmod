@@ -173,6 +173,8 @@ ural_region = {
 		bashkiria_area
 		samara_area
 		volga_area
+		CN1_area
+		CN2_area
 	}
 }
 
@@ -635,6 +637,7 @@ west_siberia_region = {
 		ishim_area
 		kara_area
 		aqmola_area
+		CN3_area
 	}
 }
 
