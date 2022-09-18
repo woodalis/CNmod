@@ -29,7 +29,7 @@ LIA_ideas = {
 		siege_ability = 0.10
     }
     
-    LIA_silk_crossroads = { #Control over the silk road and central location between Persia, Russia, India and Ahina gives the Liao pretty good trade influence
+    LIA_silk_crossroads = { #Control over the silk road and central location between Persia, Russia, India and China gives the Liao pretty good trade influence
 		global_own_trade_power = 0.1
 		trade_steering = 0.1
     }
@@ -73,7 +73,7 @@ BJA_ideas = {
 		defensiveness = 0.15
 	}
 
-	BJA_lineage_of_two_gods = { #The Bjarmians have the support of Allah and Ukko behind them
+	BJA_lineage_of_two_gods = { #The Bjarmians have the power of Allah and Ukko on their side
 		legitimacy = 1
 		manpower_in_true_faith_provinces = 0.15
 	}
