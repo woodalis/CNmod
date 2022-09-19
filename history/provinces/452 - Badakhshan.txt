@@ -1,9 +1,8 @@
 #452 - Badakhshan
 
-owner = ITA
-controller = ITA
-add_core = ITA
-#placeholder for kafurids tag
+owner = KFR
+controller = KFR
+add_core = KFR
 add_core = AFG
 
 culture = afghani

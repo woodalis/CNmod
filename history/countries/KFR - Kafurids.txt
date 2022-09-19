@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+
+primary_culture = panjabi
+
+religion = sunni
+religious_school = hanafi_school
+
+capital = 507	# Lahore

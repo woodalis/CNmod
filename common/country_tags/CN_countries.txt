@@ -18,18 +18,6 @@ XIA = "countries/Xia.txt"
 YUU = "countries/Yu.txt"
 ZHA = "countries/Zhang.txt"
 
-#Middle East
-SLJ = "countries/Seljuqids.txt"
-AKG = "countries/Akgulids.txt"
-HTM = "countries/Hetumids.txt"
-
-#Russia
-BJA = "countries/Bjarmaland.txt"
-SCY = "countries/ScythoRus.txt"
-KMK = "countries/Kalmykia.txt"
-BEZ = "countries/Bezhetskaya.txt"
-VLB = "countries/VolgaBulgaria.txt"
-
 #France
 AQT	= "countries/Aquitania.txt"
 MNE = "countries/Maine.txt"
@@ -46,9 +34,8 @@ VAS = "countries/Valois.txt"
 NEM = "countries/Nemours.txt"
 MTI = "countries/Montiaur.txt"
 
-
-#Low Countries
-NAM = "countries/Namur.txt"
+#India
+KFR = "countries/Kafurids.txt"
 
 #Italy
 ANC = "countries/Ancona.txt"
@@ -60,3 +47,18 @@ MNC = "countries/Monaco.txt"
 RAV = "countries/Ravenna.txt"
 SAN = "countries/SanMarino.txt"
 TRO = "countries/Treviso.txt"
+
+#Low Countries
+NAM = "countries/Namur.txt"
+
+#Middle East
+SLJ = "countries/Seljuqids.txt"
+AKG = "countries/Akgulids.txt"
+HTM = "countries/Hetumids.txt"
+
+#Russia
+BJA = "countries/Bjarmaland.txt"
+SCY = "countries/ScythoRus.txt"
+KMK = "countries/Kalmykia.txt"
+BEZ = "countries/Bezhetskaya.txt"
+VLB = "countries/VolgaBulgaria.txt"
