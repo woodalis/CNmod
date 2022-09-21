@@ -36,7 +36,13 @@ TOI = "countries/Touraine.txt"
 VAS = "countries/Valois.txt" 
 
 #Iberia
-
+#RIB = "countries/Ribagorza.txt"
+#URG = "countries/Urgell.txt"
+#TRR = "countries/Tarragona.txt"
+#BRC = "countries/Barcelona.txt"
+#PRE = "countries/Pireneus.txt"
+#ANA = "countries/Andorra.txt"
+#ROU = "countries/Rousillion.txt"
 
 #India
 KFR = "countries/Kafurids.txt"
@@ -44,7 +50,7 @@ KFR = "countries/Kafurids.txt"
 #Italy
 ANC = "countries/Ancona.txt"
 ABR = "countries/Abruzzo.txt"
-API = "countries/Apulia.txt"
+API = "countries/Apulia.txt"	
 AQL = "countries/D'Aquila.txt"
 BTA = "countries/Bastia.txt"
 BEL = "countries/Belluno.txt"

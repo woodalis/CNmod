@@ -404,8 +404,8 @@ aragon_area = { #5
 	211 214 2990 4557 4966
 }
 
-tarragona_area = { #3
-	2987 2988 4943
+tarragona_area = { #4
+	2987 2988 4943 4988
 }
 catalonia_area = { #3
 	197 212 213 
