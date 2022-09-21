@@ -1,7 +1,7 @@
 #120 - Abbruzzi
 
-owner = NAP
-controller = NAP
+owner = ABR
+controller = ABR
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 3
 capital = "Pescara"
 is_city = yes 
-add_core = NAP
+add_core = ABR
 
 
 

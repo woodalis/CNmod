@@ -1,7 +1,7 @@
 # 4733 - Molise
 
-owner = NAP
-controller = NAP
+owner = KLB
+controller = KLB
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -11,6 +11,7 @@ trade_goods = paper
 base_manpower = 2
 capital = "Campobasso"
 is_city = yes
+add_core = KLB
 add_core = NAP
 discovered_by = western
 discovered_by = eastern

@@ -1,7 +1,7 @@
 #1247 - Corsica
 
-owner = COR
-controller = COR
+owner = BTA
+controller = BTA
 culture = sardinian
 religion = catholic
 capital = "Bastia"
@@ -11,7 +11,7 @@ base_production = 2
 trade_goods = naval_supplies
 base_manpower = 2
 is_city = yes
-add_core = COR
+add_core = BTA
 
 discovered_by = western
 discovered_by = eastern

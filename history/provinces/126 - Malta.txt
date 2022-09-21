@@ -1,7 +1,7 @@
 #126 - Malta
 
-owner = SIC
-controller = SIC
+owner = KLB
+controller = KLB
 culture = maltese 
 religion = catholic 
 hre = no 
@@ -11,18 +11,13 @@ trade_goods = fish
 base_manpower = 2
 capital = "Mdina" 
 is_city = yes
+add_core = KLB
 add_core = SIC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1409.7.25 = {
-	owner = ARA
-	controller = ARA
-	add_core = ARA
-	add_core = NAP
-} # Martin I inherits Sicily from his son
 1516.1.23 = {
 	owner = SPA
 	controller = SPA

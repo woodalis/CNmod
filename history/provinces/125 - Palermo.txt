@@ -1,7 +1,7 @@
 #125 - Palermo
 
-owner = SIC
-controller = SIC
+owner = KLB
+controller = KLB
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -12,7 +12,7 @@ base_manpower = 3
 capital = "Palermo"
 is_city = yes
 add_core = SIC
-add_core = NAP
+add_core = KLB
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -20,12 +20,6 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-
-1409.7.25 = {
-	owner = ARA
-	controller = ARA
-	add_core = ARA
-} # Martin I inherits Sicily from his son
 1516.1.23 = {	owner = SPA
 	controller = SPA
 	add_core = SPA

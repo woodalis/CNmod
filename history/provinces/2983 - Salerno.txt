@@ -1,7 +1,7 @@
 # - Salerno
 
-owner = NAP
-controller = NAP
+owner = KLB
+controller = KLB
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -11,6 +11,7 @@ trade_goods = fish
 base_manpower = 4
 capital = "Salerno" 
 is_city = yes	# Estimated
+add_core = KLB
 add_core = NAP
 
 

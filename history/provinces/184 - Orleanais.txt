@@ -1,7 +1,7 @@
 # 184 Orléannais + Blois - Principal cities: Orléans
 
-owner = FRA
-controller = FRA
+owner = PRS
+controller = PRS
 capital = "Orléans"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 trade_goods = grain
 base_manpower = 5
-add_core = FRA
+add_core = PRS
 add_core = ORL
 discovered_by = eastern
 discovered_by = western

@@ -19,29 +19,39 @@ YUU = "countries/Yu.txt"
 ZHA = "countries/Zhang.txt"
 
 #France
-AQT	= "countries/Aquitania.txt"
-MNE = "countries/Maine.txt"
 ANJ = "countries/Anjou.txt"
-POU = "countries/Poitou.txt"
-TOI = "countries/Touraine.txt"
-RET = "countries/Rethel.txt"
-ONG = "countries/Orange.txt"
-LGS = "countries/Langres.txt"
-BLS = "countries/Blois.txt"
+AQT	= "countries/Aquitania.txt"
 BEA = "countries/Beauvais.txt"
+BLS = "countries/Blois.txt"
 BRL = "countries/Breteuil.txt"
-VAS = "countries/Valois.txt" 
-NEM = "countries/Nemours.txt"
+LGS = "countries/Langres.txt"
+MNE = "countries/Maine.txt"
 MTI = "countries/Montiaur.txt"
+NEM = "countries/Nemours.txt"
+ONG = "countries/Orange.txt"
+PRS = "countries/Paris.txt"
+POU = "countries/Poitou.txt"
+RET = "countries/Rethel.txt"
+TOI = "countries/Touraine.txt"
+VAS = "countries/Valois.txt" 
+
+#Iberia
+
 
 #India
 KFR = "countries/Kafurids.txt"
 
 #Italy
 ANC = "countries/Ancona.txt"
+ABR = "countries/Abruzzo.txt"
+API = "countries/Apulia.txt"
+AQL = "countries/D'Aquila.txt"
+BTA = "countries/Bastia.txt"
 BEL = "countries/Belluno.txt"
 BEG = "countries/Bergamo.txt"
 BRC = "countries/Brescia.txt"
+FOG = "countries/Foggia.txt"
+KLB = "countries/Kalbids.txt"
 MSS = "countries/Massa.txt"
 MNC = "countries/Monaco.txt"
 RAV = "countries/Ravenna.txt"
@@ -62,3 +72,7 @@ SCY = "countries/ScythoRus.txt"
 KMK = "countries/Kalmykia.txt"
 BEZ = "countries/Bezhetskaya.txt"
 VLB = "countries/VolgaBulgaria.txt"
+
+#South Germany
+BSL = "countries/Basel.txt"
+CMO = "countries/Como.txt"

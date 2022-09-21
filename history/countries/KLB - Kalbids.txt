@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = shiite
+primary_culture = tunisian
+add_accepted_culture = sicilian
+capital = 125	# Palermo
+religious_school = ismaili_school
+historical_rival = PAP
+
+
+1441.1.1 = {
+	monarch = {
+		name = "'Abd al-Mu'min"
+		dynasty = "Hafsid"
+		birth_date = 1425.9.18
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

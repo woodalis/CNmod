@@ -1,7 +1,7 @@
 #4740 - Como
 
-owner = SWI
-controller = SWI
+owner = CMO
+controller = CMO
 culture = lombard
 religion = catholic
 hre = yes
@@ -10,9 +10,9 @@ base_production = 4
 trade_goods = cloth
 base_manpower = 2
 fort_15th = yes # Extensive fortifications were only dismantled in 1525-7
-capital = "Ticino"
+capital = "Como"
 is_city = yes	# Estimated
-add_core = SWI
+add_core = CMO
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
