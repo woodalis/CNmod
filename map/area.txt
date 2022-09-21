@@ -425,7 +425,7 @@ upper_andalucia_area = { #4
 
 castille_area = { #5
 	color = { 58 58 207 }
-	215 217 2755 4551 4789
+	215 217 2755 4551 4789 4980
 }
 
 toledo_area = { #5
@@ -457,12 +457,12 @@ extremadura_area = {
 	4788 218 1747
 }
 
-beieras_area = { #4
+beieras_area = { #5
 	231 232 228 1851 4556
 }
 
 alentejo_area = { #5
-	227 229 230 4150 4787
+	227 229 230 4150 4787 4979
 }
 
 macaronesia_area = { #3
@@ -489,16 +489,16 @@ po_valley_area = { #3
 	109 4739 107
 }
 
-piedmont_area = { #4
-	103 1875 4727 4961
+piedmont_area = { #5
+	103 1875 4727 4961 4987
 }
 
 tuscany_area = { #5
 	115 116 117 2978 2980
 }
 
-liguria_area = { #4
-	101 102 2992 4960
+liguria_area = { #5
+	101 102 2992 4960 4986
 }
 
 corsica_sardinia_area = { #5
@@ -513,20 +513,19 @@ western_sicily_area = { #3
 	125 4736 4737
 }
 
-naples_area = { #3  #Campania
-	121 2983 4734
+naples_area = { #4  #Campania
+	121 2983 4734 4983
 }
 
-lazio_area = { #4 Lazio-Umbria
-	118 2976 4731 4732
+lazio_area = { #5 Lazio-Umbria
+	118 2976 4731 4732 4985
 }
 
-calabria_area = { #3 (+Lucania)
-	123 1934 2984
+calabria_area = { #4 (+Lucania)
+	123 1934 2984 4981
 }
-
-apulia_area = { #4
-	122 1933 2985 4733
+apulia_area = { #5
+	122 1933 2985 4733 4982
 }
 
 romagna_area = { #3
@@ -538,8 +537,8 @@ emilia_area = { #3
 	105 106 4963
 }
 
-central_italy_area = { #4
-	119 120 2977 4964
+central_italy_area = { #5
+	119 120 2977 4964 4984
 }
 
 ########################################

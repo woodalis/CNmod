@@ -1,9 +1,9 @@
 #2751 - Cuenca
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
-culture = castillian
+owner = ADU
+controller = ADU
+add_core = ADU
+culture = andalucian
 religion = catholic
 hre = no
 base_tax = 4 

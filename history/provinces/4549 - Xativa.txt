@@ -1,9 +1,10 @@
 #1750 - Xativa
 
-owner = VAL
-controller = VAL
+owner = ADU
+controller = ADU
+add_core = ADU
 add_core = VAL
-culture = catalan
+culture = andalucian
 religion = catholic
 hre = no
 base_tax = 4
