@@ -187,11 +187,13 @@ iberia_region = {
 		lower_andalucia_area
 		upper_andalucia_area
 		castille_area
-		toledo_area
-		asturias_area
+		south_castile_area
+		burgos_area
 		leon_area
 		alentejo_area
-		beieras_area
+		porto_area
+		valladolid_area
+		lisbon_area
 		basque_country
 		galicia_area
 		baleares_area

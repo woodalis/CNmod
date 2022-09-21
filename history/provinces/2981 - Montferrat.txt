@@ -2,7 +2,7 @@
 
 owner = MLO
 controller = MLO
-culture = piedmontese
+culture = lombard
 religion = catholic
 hre = yes
 base_tax = 5

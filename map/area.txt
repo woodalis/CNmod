@@ -423,17 +423,18 @@ upper_andalucia_area = { #4
 	222 223 226 4546
 }
 
-castille_area = { #5
+castille_area = { #4
 	color = { 58 58 207 }
-	215 217 2755 4551 4789 4980
+	217 219 4551 4980
 }
 
-toledo_area = { #5
-	219 221 2751 2754 4547
+south_castile_area = { #4
+color = { 78 170 194 }
+	221 2751 2754 4547
 }
 
-asturias_area = { #4
-	 207 1745 4552 1746
+valladolid_area = { #4
+	215 1745 4552 4789
 }
 
 galicia_area = { #4
@@ -444,25 +445,33 @@ baleares_area = {
 	333 4559 4560
 }
 
-basque_country = { #3
-	209 210 2989
+burgos_area = { #3
+	1746 2755 2989
 }
 
-leon_area = { #3
+basque_country = { #2
+	209 210
+}
+
+leon_area = { #4
 	color = { 243 235 28 }
-	208 216 4553 
+	207 208 216 4553 
 }
 
 extremadura_area = {
 	4788 218 1747
 }
 
-beieras_area = { #5
-	231 232 228 1851 4556
+porto_area = { #3
+	231 232 4556
 }
 
-alentejo_area = { #5
-	227 229 230 4150 4787 4979
+alentejo_area = { #4
+	229 230 4150 4979
+}
+
+lisbon_area = { #4
+	227 228 1851 4787 
 }
 
 macaronesia_area = { #3

@@ -20,4 +20,9 @@ l_english:
  tarragona_area:0 "Tarragona"
  tarragona_area_name:0 "Tarragona"
  tarragona_area_adj:0 "Tarragonan"
- 
+ lisbon_area:0 "Lisbon"
+ lisbon_area_name:0 "Lisbon"
+ lisbon_area_adj:0 "Lisboan"
+ burgos_area:0 "Burgos"
+ burgos_area_name:0 "Burgos"
+ burgos_area_adj:0 "Burgalés"
