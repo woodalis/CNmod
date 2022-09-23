@@ -1,8 +1,8 @@
 # - Urgell
 
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = URG
+controller = URG
+add_core = URG
 culture = catalan
 religion = catholic
 hre = yes

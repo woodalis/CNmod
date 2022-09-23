@@ -1,8 +1,8 @@
 # 4943 - Principal cities: Andorra la Vella
 
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = ANA
+controller = ANA
+add_core = ANA
 capital = "Andorra la Vella"
 is_city = yes
 culture = catalan

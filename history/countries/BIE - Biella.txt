@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = western
 primary_culture = lombard
 religion = catholic
-capital = 4740
+capital = 2979
 
 #Counts of Seprio
 1043.1.1 = {

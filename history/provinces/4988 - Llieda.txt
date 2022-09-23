@@ -1,8 +1,8 @@
 # 4988 - Principal cities: Lleida
 
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = PRE
+controller = PRE
+add_core = PRE
 capital = "Lleida"
 is_city = yes
 culture = catalan

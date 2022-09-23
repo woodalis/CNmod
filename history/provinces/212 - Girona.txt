@@ -1,8 +1,8 @@
 #212 - Girona
 
-owner = CAT
-controller = CAT
-add_core = CAT
+owner = ROS
+controller = ROS
+add_core = ROS
 culture = catalan
 religion = catholic
 hre = yes

@@ -4,6 +4,7 @@ government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = sardinian
+capital = 4962
 
 #Counts
 1040.1.1 = {
