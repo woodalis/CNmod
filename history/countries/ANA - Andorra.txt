@@ -219,7 +219,6 @@ capital = 4943
 		mil = 2
 	}
 }
-1378.9.20 = { religion = catholique }
 1387.1.1 = {
 	monarch = {
 		name = "Galceran"
@@ -238,7 +237,6 @@ capital = 4943
 		mil = 2
 	}
 }
-1429.7.26 = { religion = catholic }
 1437.1.1 = {
 	monarch = {
 		name = "Arnau Roger"
