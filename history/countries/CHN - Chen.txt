@@ -7,4 +7,4 @@ religion = mahayana
 
 primary_culture = chimin
 
-capital = 1829 # placeholder
+capital = 669 # Fuzhou

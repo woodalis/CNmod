@@ -3,9 +3,9 @@ add_government_reform = chinese_warlord
 government_rank = 1
 technology_group = chinese
 
-religion = confucianism
+religion = mahayana
 
-primary_culture = mahayana
+primary_culture = jianghuai
 
 capital = 1838 # Hefei
 

@@ -1,11 +1,12 @@
 government = republic
-add_government_reform = plutocracy
+add_government_reform = merchants_reform
 government_rank = 1
-technology_group = muslim
+technology_group = chinese
 
 religion = sunni
 religious_school = shafii_school
 
 primary_culture = malayan
+add_accepted_culture = chimin
 
 capital = 669 # Fuzhou
