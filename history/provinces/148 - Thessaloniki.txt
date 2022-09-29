@@ -1,7 +1,7 @@
 #148 - Macedonia
 
-owner = TUR
-controller = TUR
+owner = ATH
+controller = ATH
 culture = greek
 religion = orthodox
 capital = "Thessaloniki"
@@ -12,8 +12,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = TUR
-add_core = BYZ
+add_core = ATH
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

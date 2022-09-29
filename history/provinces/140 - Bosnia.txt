@@ -1,7 +1,7 @@
 #140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
 
-owner = BOS # Part of the Bosnian kingdom
-controller = BOS
+owner = HUN
+controller = HUN
 culture = bosnian
 religion = orthodox
 capital = "Doboj" #or Srebrenik
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = BOS
+add_core = HUN
 
 
 

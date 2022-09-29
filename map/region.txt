@@ -277,15 +277,20 @@ crimea_region = {
 
 balkan_region = {
 	areas = {
+		slovenia_area
+		istria_area
 		croatia_area
 		east_adriatic_coast_area
 		bosnia_area
+		herzegovina_area
 		serbia_area
 		rascia_area
 		bulgaria_area
 		macedonia_area
+		north_macedonia_area
 		northern_greece_area
 		morea_area
+		central_greece_area
 		thrace_area
 		albania_area
 		silistria_area

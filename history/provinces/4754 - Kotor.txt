@@ -1,7 +1,7 @@
 # 4754 - Kotor
 
-owner = VEN
-controller = VEN
+owner = EPI
+controller = EPI
 culture = serbian
 religion = orthodox
 capital = "Kotor"
@@ -13,7 +13,7 @@ base_manpower = 1
 is_city = yes
 add_core = MON
 add_core = SER
-add_core = VEN #Venetian Albania
+add_core = EPI
 
 
 

@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = BYZ
+controller = BYZ
 culture = greek
 religion = orthodox
 capital = "Gallipoli"
@@ -10,7 +10,6 @@ base_production = 1
 base_manpower = 3
 is_city = yes
 add_core = BYZ
-add_core = TUR
 fort_15th = yes #Fortress of Gallipoli
 
 

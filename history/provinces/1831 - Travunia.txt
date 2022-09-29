@@ -1,10 +1,10 @@
 #1831 - Travunia # now Herzegovina
 
-owner = HRZ
-controller = HRZ
+owner = SER
+controller = SER
 culture = bosnian
 religion = orthodox
-capital = "Herceg Novi"
+capital = "Trebinje"
 trade_goods = wool
 hre = no
 base_tax = 2 
@@ -12,6 +12,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = HRZ
+add_core = SER
 add_core = BOS
 
 
