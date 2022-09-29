@@ -1,0 +1,36 @@
+
+estate_burghers_china_semu_merchants = { #Muslim Merchants in China
+	icon = privilege_seek_legitimacy
+	max_absolutism = -5
+	loyalty = -0.05
+	is_valid = {
+		any_owned_province = {
+			AND = {
+				region = south_china_region
+				development = 15
+				has_port = yes
+			}
+		}
+	}
+	can_select = {
+		any_known_country = {
+			religion = sunni
+		}
+	}
+	on_granted = {
+		add_years_of_income = 1
+	}
+	can_revoke = {
+		always = no
+	}
+	penalties = {
+		global_unrest = 2 #presence of foreigners in china was at times used as a (partial) explanation for problems the country was facing, f. ex. huang chao rebellion and guangzhou massacre
+	}
+	benefits = {
+		trade_efficiency = 0.1
+		trade_range_modifier = 0.15
+	}
+	ai_will_do = {
+		factor = 10
+	}
+}

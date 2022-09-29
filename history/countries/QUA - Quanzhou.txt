@@ -10,3 +10,5 @@ primary_culture = malayan
 add_accepted_culture = chimin
 
 capital = 669 # Fuzhou
+
+set_estate_privilege = estate_burghers_china_semu_merchants

@@ -8,3 +8,5 @@ religion = mahayana
 primary_culture = chimin
 
 capital = 669 # Fuzhou
+
+set_estate_privilege = estate_burghers_china_semu_merchants

@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = nomad_group
+
+religion = tengri_pagan_reformed
+secondary_religion = buddhism
+
+primary_culture = mongol
+
+capital = 1816 #Beijing (Khanbaliq)

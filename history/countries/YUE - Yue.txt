@@ -1,12 +1,11 @@
 government = monarchy
 add_government_reform = chinese_warlord
-government_rank = 1
 technology_group = chinese
 
 religion = confucianism
 
-primary_culture = wu
+primary_culture = cantonese
 
-capital = 2149 # Ningbo
+capital = 667	#Canton
 
 set_estate_privilege = estate_burghers_china_semu_merchants
