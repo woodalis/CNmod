@@ -1,0 +1,19 @@
+government = monarchy
+government_rank = 1
+add_government_reform = feudalism_reform
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+capital = 159
+
+1444.6.25 = {
+	monarch = {
+		name = "Stanko"
+		dynasty = "Kosan"
+		birth_date = 1410.10.14
+		adm = 3	
+		dip = 2
+		mil = 4
+		leader = {	name = "Stanko"            	type = general	fire = 3	shock = 3	manuever = 5	siege = 0}
+	}
+}

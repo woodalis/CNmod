@@ -37,9 +37,9 @@
  PROV_ADJ4706:0 "Tolcu"
  PROV4779:0 "Gallipoli"
  PROV_ADJ4779:0 "Gallipoli"
- silistria_area:0 "Silistria"
- silistria_area_name:0 "Silistria"
- silistria_area_adj:0 "Silistrian"
+ silistria_area:0 "Varna"
+ silistria_area_name:0 "Varna"
+ silistria_area_adj:0 "Varnéan"
  # Swiss Provinces
  PROV4719:1 "Bresse"
  PROV_ADJ4719:1 "Bressian"

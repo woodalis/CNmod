@@ -1,7 +1,7 @@
 #1765 - Sofia
 
-owner = BUL
-controller = BUL
+owner = SFY
+controller = SFY
 culture = bulgarian
 religion = orthodox
 capital = "Sofia"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = BUL
+add_core = SFY
 
 discovered_by = western
 discovered_by = eastern

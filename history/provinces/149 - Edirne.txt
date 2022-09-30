@@ -1,7 +1,7 @@
 #149 - Edirne
 
-owner = BUL
-controller = BUL
+owner = VAR
+controller = VAR
 culture = greek
 religion = orthodox
 capital = "Edirne"
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 add_core = BYZ
-add_core = BUL
+add_core = VAR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

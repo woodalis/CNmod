@@ -1,3 +1,8 @@
+#Balkans
+MAC = "countries/Macedonia.txt"
+SFY = "countries/Sofia.txt"
+VAR = "countries/Varna.txt"
+
 #Central Asia
 LIA = "countries/WesternLiao.txt"
 LIU = "countries/Liu.txt"
