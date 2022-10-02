@@ -91,15 +91,14 @@ italy_region = {
 
 north_german_region = {
 	areas = { 
-		erzgebirge_area
+		leizpig_area
 		south_saxony_area
 		northern_saxony_area
 		thuringia_area
 		neumark_area
 		mittelmark_area
 		vorpommern_area
-		bohemia_area
-		moravia_area
+		osnabruck_area
 		hinter_pommern_area
 		north_rhine_area
 		lower_rhineland_area
@@ -111,7 +110,7 @@ north_german_region = {
 		holstein_area
 		mecklenburg_area
 		braunschweig_area
-		lusatia_area
+		prignitz_area
 	}
 }
 
@@ -120,6 +119,10 @@ north_german_region = {
 
 south_german_region = {
 	areas = { 
+		erzgebirge_area
+		bohemia_area
+		moravia_area
+		south_tirol_area
 		tirol_area
 		austria_proper_area
 		inner_austria_area
@@ -128,14 +131,13 @@ south_german_region = {
 		grisons_area
 		lower_bavaria_area
 		upper_bavaria_area
-		east_bavaria_area
+		upper_austria_area
 		franconia_area
 		upper_franconia_area
 		lower_swabia_area
 		upper_swabia_area
 		upper_rhineland_area
 		romandie_area
-		palatinate_area
 		alsace_area
 	}
 }
@@ -244,7 +246,7 @@ poland_region = {
 		silesia_area
 		central_poland_area
 		sandomierz_area
-		kuyavia_area
+		upper_silesia_area
 	}
 }
 
@@ -301,10 +303,13 @@ balkan_region = {
 carpathia_region = {
 	areas = {
 		transdanubia_area
+		central_hungary_area
 		alfold_area
 		slovakia_area
+		east_slovakia_area
 		transylvania_area
-		southern_transylvania_area
+		moldova_area
+		banat_area
 		wallachia_area
 		moldavia_area
 	}

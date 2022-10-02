@@ -375,8 +375,8 @@ wallonia_area = { #5
 	91 93 94 1866 4958
 }
 
-holland_area = { #4
-	96 97 98 4383
+holland_area = { #5
+	96 97 98 4383 4997
 }
 
 flanders_area = { #3
@@ -694,8 +694,8 @@ greenland_area = { #2
 # Eastern Europe    			 	   #
 ########################################
 
-estonia_ingria_area = { #3
-	36 1834 1842
+estonia_ingria_area = { #4
+	35 36 1834 1842
 }
 
 livonia_area = { #4
@@ -703,23 +703,23 @@ livonia_area = { #4
 }
 
 curonia_area = { #3
-	35 39 1935
+	39 1935 5014
 }
 
 east_prussia_area = { #5
 	40 41 767 2958 42
 }
 
-west_prussia_area = { #3 (South West Prussia)
-	2997 43 1841
+west_prussia_area = { #4 (South West Prussia)
+	1859 2997 43 1841
 }
 
 wielkopolska_area = { #5
-   254 4526 255 2963
+   254 4526 2963 4523 5002
 }
 
-malopolska_area = { #5
-	262 4527 2960
+malopolska_area = { #3
+	262 2959 2960 
 }
 
 red_ruthenia_area = { #5 
@@ -743,19 +743,15 @@ podlasie_area = {
 }
 
 mazovia_area = { #4
-	256 257  1938 4525
+	256 257 1938 4524 4525
 }
 
-central_poland_area = {
-	258 1939 4533
+central_poland_area = { #4
+	255 1939 4528 4533
 }
 
-sandomierz_area = {
-	260 2959 259   
-}
-
-kuyavia_area = {
-	4523 1859 4524 4528
+sandomierz_area = { #4
+	258 259 260 4527
 }
 
 samogitia_area = { #4
@@ -786,16 +782,16 @@ yedisan_area = { #3
 	282 1974 2406
 }
 
-zaporizhia_area = { #3
-	283 2411 2412
+zaporizhia_area = { #4
+	283 2411 2412 5012
 }
 
 azov_area = { #4
 	286 287 2413 2414
 }
 
-crimea_area = { #4
-	284 285 2410 2447
+crimea_area = { #5
+	284 285 2410 2447 5011
 }
 
 white_ruthenia_area = { #3
@@ -836,8 +832,8 @@ smolensk_area = { #4
 	293 297 4244 4245
 }
 
-oka_area = { #3
-	296 300 4116
+oka_area = { #4
+	296 300 4116 5013
 }
 
 novgorod_area = { #5
@@ -920,28 +916,32 @@ saratov_area = { #3
 # Germany			 				   #
 ########################################
 
-silesia_area = { #4
-	263 264 2966 4238 4723
+silesia_area = { #3
+	263 4723 5003
 }
 
-bohemia_area = { #5
-	 266 2968 2970 4725 4724
+upper_silesia_area = { #4
+	264 2966 4238 4778
 }
 
-erzgebirge_area = { #3
-	267 1771 2967
+bohemia_area = { #4
+	 266 2968 4725 4724
 }
 
-lusatia_area = { #3
-	60 1763 4778
+erzgebirge_area = { #4
+	267 1771 2967 2970
 }
 
-moravia_area = {
-	265 4237 4726
+moravia_area = { #4
+	265 4237 4726 5004
+}
+
+leizpig_area = { #3
+	62 2965 4744
 }
 
 south_saxony_area = { #4
-	59 61 4744 62
+	59 60 61 1763 
 }
 
 upper_bavaria_area = { #4
@@ -949,29 +949,29 @@ upper_bavaria_area = { #4
 	65 2955 4707 4708
 }
 
-lower_bavaria_area = { #4
-	64 1757 2956 2957
+lower_bavaria_area = { #5
+	64 1757 2956 2957 4709
 }
 
-east_bavaria_area = { #3
-	76 4760 4709
+south_tirol_area = { #2
+	110 4758 
 } 
 
-lower_swabia_area = { #3 (West Swabia)
-	70 4713 4712
+lower_swabia_area = { #4 (West Swabia)
+	70 1872 4713 4715
 }
 
 franconia_area = { #4 (Lower Franconia)
 	color = { 121 49 117 }
-	4718 4715 71 79
+	4718 4774 71 79
 }
 
-upper_franconia_area = { #4
-	66 67 4716 4717
+upper_franconia_area = { #3
+	66 67 4717
 }
 
 upper_swabia_area = { #4 (East Swabia)
-	68 1868 4711 1872
+	68 1868 4711 4999
 }
 
 northern_saxony_area = { #4 (Saxe-Altmark)
@@ -980,7 +980,7 @@ northern_saxony_area = { #4 (Saxe-Altmark)
 }
 
 thuringia_area = { #3
-	63 2965 4743
+	63 4716 4743 
 }
 
 neumark_area = { #3
@@ -988,8 +988,12 @@ neumark_area = { #3
 	49 2969 4747
 }
 
-mittelmark_area = { #5
-	50 51 1759 4748 2993
+prignitz_area = { #3
+	51 4748 4786
+}
+
+mittelmark_area = { #4
+	50 1759 2993 5001
 }
 
 vorpommern_area = { #4
@@ -1001,16 +1005,20 @@ hinter_pommern_area = { #3
 }
 
 tirol_area = { #5
-	73 110 1768 4710 4758
+	73 76 1768 4710 5000
 }
 
-austria_proper_area = { #5
+austria_proper_area = { #3
 	color = { 213 40 40 }
-	133 134 1770 4761 4762
+	134 1770 4762
 }
 
-inner_austria_area = { #4
-	128 132 1863 4759
+inner_austria_area = { #3
+	128 132 1863 4759 5005
+}
+
+upper_austria_area = { #3
+	133 4760 4761
 }
 
 carinthia_area = { #4 # Carniola in-game
@@ -1029,24 +1037,24 @@ romandie_area = { #4
 	1867 1871 4721 4959
 }
 
-upper_rhineland_area = { #3 # now 'Baden'
-	72 74 4714 
+upper_rhineland_area = { #5 # now 'Baden'
+	72 74 77 4712 4714 
 }
 
 alsace_area = { #3
 	75 1880 4765
 }
 
-palatinate_area = { #3
-	77 1761 4767
+osnabruck_area = { #3
+	56 2971 2973 
 }
 
 north_rhine_area = { #4
-	84 85 2975 83
+	85 1878 2975 4768
 }
 
 lower_rhineland_area = { #4
-	80 1760 1878 4768
+	80 1760 1761 4767
 }
 
 westphalia_area = { #3 (South Westphalia)
@@ -1054,15 +1062,15 @@ westphalia_area = { #3 (South Westphalia)
 }
 
 north_westphalia_area = { #4
-	56 86 2973 69
+	84 86 69 4998
 }
 
 hesse_area = { #5
-	81 1762 1876 4774 78
+	81 83 1762 1876 78
 }
 
-braunschweig_area = { #4
-	57 1758 2971 4773
+braunschweig_area = { #3
+	57 1758 4773
 }
    
 weser_area = { #4
@@ -1077,8 +1085,8 @@ lower_saxony_area = { #4
 	44 53 1857 4772
 }
 
-mecklenburg_area = { #5
-	45 46 2996 4749 4786
+mecklenburg_area = { #4
+	45 46 2996 4749
 }
 
 ########################################
@@ -1121,20 +1129,28 @@ wallachia_area = { #5
 	160 161 2998 4531 4532
 }
 
-moldavia_area = { #5
-	268 1756 2405 4529 4530
+moldavia_area = { #4
+	268 4529 4530 5009
 }
 
-transylvania_area = { #4 #Northern Transylvania
-	157 158 1952 4127
+moldova_area = { #3
+	1756 2405 5010
 }
 
-southern_transylvania_area = { #4
-	156 1951 4128 4991
+transylvania_area = { #4 
+	158 1951 4127 4128 5008
 }
 
-slovakia_area = { #5
-	154 162 1318 1772 4236
+banat_area = { #3
+	156 1954 4126
+}
+
+slovakia_area = { #3
+	154 1772 4236
+}
+
+east_slovakia_area = { #3
+	162 1318 1952
 }
 
 serbia_area = { #5
@@ -1179,12 +1195,16 @@ east_adriatic_coast_area = { #3
 }
 
 alfold_area = { #4
-	155 1953 1954 4125
+	155 157 1953 4991
 }
 
 transdanubia_area = { #5
 	color = { 171 92 22 }
-	135 153 1864 4126 4240
+	135 1864 4240 5006
+}
+
+central_hungary_area = { #3
+	153 5007 4125
 }
 
 ########################################
