@@ -1,4 +1,8 @@
 
+#############
+# MERCHANTS #
+#############
+
 estate_burghers_china_semu_merchants = { #Muslim Merchants in China
 	icon = privilege_seek_legitimacy
 	max_absolutism = -5
@@ -29,6 +33,36 @@ estate_burghers_china_semu_merchants = { #Muslim Merchants in China
 	benefits = {
 		trade_efficiency = 0.1
 		trade_range_modifier = 0.15
+	}
+	ai_will_do = {
+		factor = 10
+	}
+}
+
+###############
+# LIAO NOMADS #
+###############
+
+estate_liao_khans_nomadic_privileges = { #unfinished
+	icon = privilege_raise_host
+	max_absolutism = -10
+	loyalty = 0.10
+	is_valid = {
+		tag = LIA
+	}
+	can_select = {
+		always = no
+	}
+
+	can_revoke = {
+		always = no
+	}
+	penalties = {
+		global_autonomy = 0.05
+		global_tax_modifier = -0.05
+	}
+	benefits = {
+		governing_capacity = 100
 	}
 	ai_will_do = {
 		factor = 10

@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+government_rank = 1
+technology_group = indian
+
+religion = shiite
+religious_school = jafari_school
+
+primary_culture = bengali
+add_accepted_culture = marathi
+
+capital = 527 #Burhanpur
+
+1410.1.1 = {
+	monarch = {
+		name = "placeholder"
+		dynasty = "Hejrid"
+		birth_date = 1400.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

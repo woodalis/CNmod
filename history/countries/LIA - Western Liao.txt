@@ -13,7 +13,8 @@ add_accepted_culture = uyghur
 add_accepted_culture = uzbehk
 
 capital = 2125	#Balashagun
-fixed_capital = 410 #Baghdad
+
+set_estate_privilege = estate_liao_khans_nomadic_privileges
 
 historical_rival = SLJ
 historical_rival = YUA

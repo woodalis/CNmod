@@ -1,0 +1,59 @@
+estate_liao_khans = {
+	icon = 5
+	color = { 156 61 34 }
+	
+	trigger = {
+		tag = LIA
+	}
+
+	country_modifier_happy = {
+		cavalry_power = 0.2
+	}
+	country_modifier_neutral = {
+		cavalry_power = 0.1
+	}	
+	country_modifier_angry = {
+		cavalry_power = -0.2
+	}
+
+	land_ownership_modifier = {
+		liao_khans_loyalty_modifier = 0.2
+	}
+
+	province_independence_weight = {
+		factor = 1
+		modifier = {
+			factor = 2 #placeholder
+			has_terrain = steppe
+		}
+	}
+
+	base_influence = 10
+	influence_modifier = {
+		desc = ESTATE_KHANS_PLACEHOLDER1
+		trigger = {
+			always = no
+		}	
+		influence = 10
+	}
+
+	loyalty_modifier = {
+		desc = ESTATE_KHANS_PLACEHOLDER2
+		trigger = {
+			always = no
+		}
+		loyalty = 15
+	}
+	
+	contributes_to_curia_treasury = no
+
+	privileges = {
+
+	}
+
+	agendas = {
+
+	}
+	
+	influence_from_dev_modifier = 1.0
+}

@@ -50,6 +50,9 @@ TRR = "countries/Tarragona.txt"
 URG = "countries/Urgell.txt"
 
 #India
+HJJ = "countries/HejridsJunior.txt"
+HJS = "countries/HejridsSenior.txt"
+JOD = "countries/Jodhpur.txt"
 KFR = "countries/Kafurids.txt"
 
 #Italy
