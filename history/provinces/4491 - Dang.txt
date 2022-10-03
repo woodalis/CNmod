@@ -1,7 +1,8 @@
 #4491 - Dang
 
-owner = DNG
-controller = DNG
+owner = BHI
+controller = BHI
+add_core = BHI
 add_core = DNG
 
 culture = nepali

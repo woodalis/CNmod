@@ -558,8 +558,8 @@ munster_area = { #3
 	4118 4377 4378
 }
 
-connacht_area = { #3
-	375 376 4119
+connacht_area = { #4
+	375 376 4119 5015
 }
 
 leinster_area = { #4

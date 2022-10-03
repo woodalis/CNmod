@@ -402,8 +402,7 @@ chinese_warlord = {
 				religion = buddhism
 			}
 			AND = {
-				culture_group = east_asian
-				religion = mahayana #White Lotus Sect
+				religion = mahayana
 			}
 			religion = confucianism
 		}

@@ -3,7 +3,6 @@
 owner = YUU
 controller = YUU
 add_core = YUU
-add_core = MNG
 
 culture = mongol
 religion = confucianism

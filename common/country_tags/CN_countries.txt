@@ -91,3 +91,7 @@ VLB = "countries/VolgaBulgaria.txt"
 #South Germany
 BSL = "countries/Basel.txt"
 CMO = "countries/Como.txt"
+
+#Tibet + Himalayans
+BHI = "countries/Bhimdatta.txt"
+

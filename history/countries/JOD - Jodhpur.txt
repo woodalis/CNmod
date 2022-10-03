@@ -1,0 +1,9 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = indian
+
+primary_culture = rajput
+
+religion = hinduism
+
+capital = 514	# Jodphur

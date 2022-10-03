@@ -1,9 +1,9 @@
 government = monarchy
-add_government_reform = celestial_empire
-government_rank = 3
+add_government_reform = chinese_warlord
+government_rank = 1
 technology_group = chinese
+
 religion = confucianism
-add_harmonized_religion = mahayana
 
 primary_culture = jianghuai
 

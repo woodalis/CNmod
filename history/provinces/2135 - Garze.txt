@@ -1,11 +1,14 @@
 # 2135 - Garze
 
-owner = KAM
-controller = KAM
+owner = PHA
+controller = PHA
+add_core = PHA
 add_core = KAM
+
 culture = tibetan
 religion = vajrayana
 capital = "Garze"
+
 trade_goods = grain
 hre = no
 base_tax = 1 
@@ -13,16 +16,6 @@ base_production = 1
 base_manpower = 2
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = nomad_group
-
-1709.1.1 = { discovered_by = SPA }
-
-1776.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-}
