@@ -1,7 +1,7 @@
 #273 - Livland
 
-owner = LIV
-controller = LIV
+owner = LVA
+controller = LVA
 culture = latvian
 religion = catholic
 capital = "Fellin"
@@ -11,7 +11,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = LIV
 add_core = LVA
 discovered_by = western
 discovered_by = eastern

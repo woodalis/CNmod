@@ -1,7 +1,7 @@
 #41 - Königsberg
 
-owner = TEU
-controller = TEU
+owner = POL
+controller = POL
 capital = "Königsberg"
 culture = prussian
 religion = catholic
@@ -12,6 +12,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
+add_core = POL
 add_core = TEU
 discovered_by = eastern
 discovered_by = western

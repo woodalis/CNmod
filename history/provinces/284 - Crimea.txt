@@ -1,7 +1,7 @@
 #284 - Crimea
 
-owner = CRI
-controller = CRI
+owner = LIT
+controller = LIT
 culture = crimean
 religion = sunni
 hre = no
@@ -12,6 +12,7 @@ base_manpower = 6
 capital = "Qirq-Yer"
 is_city = yes
 fort_15th = yes #Qirq-Yer Fortress
+add_core = LIT
 add_core = CRI
 
 

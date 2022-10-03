@@ -1,7 +1,8 @@
 #2997 - Pomorskie
 
-owner = TEU
-controller = TEU
+owner = POL
+controller = POL
+add_core = POL
 add_core = TEU
 capital = "Tuchel"
 culture = prussian

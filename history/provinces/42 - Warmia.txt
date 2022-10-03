@@ -1,7 +1,7 @@
 #42 - Warmia
 
-owner = TEU
-controller = TEU
+owner = POL
+controller = POL
 capital = "Allenstein"
 culture = prussian
 religion = catholic
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+add_core = POL
 add_core = TEU
 
 

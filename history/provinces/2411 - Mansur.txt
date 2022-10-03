@@ -1,7 +1,7 @@
 #2411 - Mansur
 
-owner = CRI
-controller = CRI
+owner = LIT
+controller = LIT
 culture = crimean
 religion = sunni
 hre = no
@@ -11,6 +11,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Mansur"
 is_city = yes
+add_core = LIT
 add_core = CRI
 discovered_by = western
 discovered_by = eastern

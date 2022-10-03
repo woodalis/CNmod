@@ -1,8 +1,9 @@
 #Semigallia, center at Mitau
 
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = LIT
+controller = LIT
+add_core = LIT
+add_core = KUR
 culture = latvian
 religion = catholic
 hre = no

@@ -1,7 +1,7 @@
 #40 - Memel
 
-owner = TEU
-controller = TEU
+owner = POL
+controller = POL
 culture = lithuanian
 religion = catholic
 capital = "Memel"
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+add_core = POL
 add_core = TEU
 discovered_by = eastern
 discovered_by = western

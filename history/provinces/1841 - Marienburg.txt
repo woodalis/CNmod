@@ -1,7 +1,7 @@
 #Marienburg
 
-owner = TEU
-controller = TEU
+owner = POL
+controller = POL
 capital = "Marienburg"
 culture = prussian
 religion = catholic
@@ -11,6 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
+add_core = POL
 add_core = TEU
 
 

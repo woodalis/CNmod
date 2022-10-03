@@ -1,4 +1,4 @@
-#1864 - Somogy (Somogy + Tolna + Baranya)
+#1864 - Somogy
 
 latent_trade_goods = {
 	coal

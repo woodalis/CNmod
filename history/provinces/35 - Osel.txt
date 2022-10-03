@@ -1,8 +1,8 @@
 #Ösel and Dagö, incl. Sonnenburg and Arensburg.
 
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = LVA
+controller = LVA
+add_core = LVA
 add_core = EST
 culture = estonian
 religion = catholic
