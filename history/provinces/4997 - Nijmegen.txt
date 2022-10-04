@@ -12,6 +12,8 @@ base_production = 4
 trade_goods = livestock
 base_manpower = 3
 add_core = UTR
+add_core = GEL
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,0 +1,33 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = pommeranian
+religion = catholic
+capital = 2995
+
+1418.2.11 = {
+	monarch = {
+		name = "Boguslaw IX"
+		dynasty = "Gryfic"
+		birth_date = 1407.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1432.1.1 = {
+	queen = {
+		country_of_origin = STO
+		culture = schlesian
+		name = "Maria"
+		dynasty = "Piast"
+		birth_date = 1410.1.1
+		death_date = 1454.2.14
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}

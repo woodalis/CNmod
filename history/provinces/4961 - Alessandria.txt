@@ -3,7 +3,7 @@
 owner = MFA
 controller = MFA
 culture = piedmontese
-religion = catholic
+religion = waldensian
 hre = yes
 base_tax = 6
 base_production = 5

@@ -1,8 +1,8 @@
 #4727 - Alba
-owner = SAV
-controller = SAV
+owner = PIE
+controller = PIE
 culture = piedmontese
-religion = catholic
+religion = waldensian
 hre = yes
 base_tax = 3
 base_production = 4
@@ -10,7 +10,7 @@ trade_goods = wine
 base_manpower = 4
 capital = "Alba"
 is_city = yes
-add_core = SAV
+add_core = PIE
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

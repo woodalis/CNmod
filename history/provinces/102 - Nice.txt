@@ -1,10 +1,10 @@
 #102 - Nice
 
-owner = SAV
-controller = SAV
-add_core = SAV
+owner = PIE
+controller = PIE
+add_core = PIE
 culture = ligurian
-religion = catholic
+religion = waldensian
 hre = yes
 base_tax = 4 
 base_production = 4

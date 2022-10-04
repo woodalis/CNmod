@@ -4,7 +4,6 @@ primary_culture = venetian
 religion = catholic
 technology_group = western
 capital = 111	# Friuli
-government_rank = 1
 
 1394.1.1 = {
 	monarch = {

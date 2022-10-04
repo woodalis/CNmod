@@ -1,7 +1,7 @@
 # 86 - Munster
 
-owner = MUN
-controller = MUN
+owner = HAN
+controller = HAN
 culture = hannoverian
 religion = catholic
 trade_goods = cloth
@@ -12,6 +12,7 @@ base_manpower = 4
 fort_15th = yes
 is_city = yes
 hre = yes
+add_core = HAN
 add_core = MUN
 
 

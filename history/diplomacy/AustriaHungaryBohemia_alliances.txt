@@ -50,6 +50,21 @@ union = {
 	end_date = 1444.11.11
 }
 
+#Polish marches
+march = {
+	first = POL
+	second = RMN
+	start_date = 1415.1.1
+	end_date = 1836.1.1
+}
+
+march = {
+	first = POL
+	second = LVA
+	start_date = 1415.1.1
+	end_date = 1836.1.1
+}
+
 # Bohemia-Palatinate (Friedrich elected as king of Bohemia)
 union = {
 	first = PAL

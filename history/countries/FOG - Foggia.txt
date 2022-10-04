@@ -2,8 +2,9 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = catholic
-primary_culture = neapolitan
+religion = orthodox
+primary_culture = greek
+add_accepted_culture = neapolitan
 capital = 2985
 
 1054.6.1 = {

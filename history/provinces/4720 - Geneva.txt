@@ -1,7 +1,7 @@
 owner = PRO
 controller = PRO
 culture = swiss
-religion = catholic
+religion = waldensian
 capital = "Geneva"
 trade_goods = cloth
 hre = yes
@@ -10,6 +10,7 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = GNV
+add_core = SAV
 add_core = PRO
 discovered_by = western
 discovered_by = eastern

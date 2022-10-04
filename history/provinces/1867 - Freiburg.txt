@@ -3,7 +3,7 @@
 owner = PRO
 controller = PRO
 culture = swiss
-religion = catholic
+religion = waldensian
 capital = "Lausanne"
 trade_goods = livestock
 hre = yes

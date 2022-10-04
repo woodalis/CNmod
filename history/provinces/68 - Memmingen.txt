@@ -1,10 +1,11 @@
 #68 - Memmingen
 
-owner = MEM
-controller = MEM
+owner = KNZ
+controller = KNZ
+add_core = KNZ
 add_core = MEM
 culture = swabian
-religion = catholic
+religion = waldensian
 hre = yes
 base_tax = 5
 base_production = 5

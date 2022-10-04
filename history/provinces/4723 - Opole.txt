@@ -1,5 +1,5 @@
-owner = OPL
-controller = OPL
+owner = BOH
+controller = BOH
 culture = schlesian
 religion = catholic
 hre = yes
@@ -9,6 +9,7 @@ capital = "Opole"
 is_city = yes
 trade_goods = grain
 base_manpower = 2
+add_core = BOH
 add_core = OPL
 
 

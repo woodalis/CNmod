@@ -3,7 +3,7 @@
 owner = HAB
 controller = HAB
 add_core = HAB
-add_core = TIR
+add_core = BAD
 culture = swabian
 religion = catholic
 base_tax = 4 

@@ -1,7 +1,7 @@
 owner = SWI
 controller = SWI
 culture = swiss
-religion = catholic
+religion = waldensian
 capital = "Illanz"
 trade_goods = livestock
 hre = yes

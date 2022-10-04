@@ -1,0 +1,18 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+technology_group = western
+primary_culture = franconian
+religion = catholic
+capital = 4774
+fixed_capital = 4774
+
+1440.1.1 = {
+	monarch = {
+		name = "Hermann II"
+		dynasty = "von Buchenau"
+		birth_date = 1385.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,7 +1,7 @@
 #4774 - Fulda
-owner = WBG
-controller = WBG
-add_core = WBG
+owner = FLD
+controller = FLD
+add_core = FLD
 culture = franconian
 religion = catholic
 base_tax = 2

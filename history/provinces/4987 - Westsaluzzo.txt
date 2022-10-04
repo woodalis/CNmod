@@ -1,9 +1,9 @@
 #4987 - Saluzzo
 
-owner = SAV
-controller = SAV
+owner = PIE
+controller = PIE
 culture = piedmontese
-religion = catholic
+religion = waldensian
 hre = yes
 base_tax = 3
 base_production = 3
@@ -11,7 +11,7 @@ trade_goods = iron
 base_manpower = 3
 capital = "Saluzzo"
 is_city = yes
-add_core = SAV
+add_core = PIE
 add_core = SZO
 discovered_by = western
 discovered_by = eastern

@@ -1,7 +1,7 @@
 #2966 - Glogau 
 
-owner = GLG
-controller = GLG
+owner = BOH
+controller = BOH
 culture = schlesian
 religion = catholic
 capital = "Glogau"
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 4
 is_city = yes
 base_manpower = 2
+add_core = BOH
 add_core = GLG
 
 

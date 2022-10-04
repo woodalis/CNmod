@@ -1,7 +1,7 @@
 # 4765 - Mulhouse. Primary city: Mülhausen
 
-owner = MLH
-controller = MLH
+owner = HAB
+controller = HAB
 capital = "Mülhausen"
 is_city = yes
 culture = swabian
@@ -11,6 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = cloth
 base_manpower = 2
+add_core = HAB
 add_core = MLH
 discovered_by = eastern
 discovered_by = western

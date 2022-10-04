@@ -1,7 +1,8 @@
 #4772 - Celle
 
-owner = LUN
-controller = LUN
+owner = HAN
+controller = HAN
+add_core = HAN
 add_core = LUN
 culture = lower_saxon
 religion = catholic
