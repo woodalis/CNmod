@@ -1,8 +1,8 @@
 #4512 - Bharuch/Broach
 
-owner = ITA
-controller = ITA
-add_core = ITA
+owner = VAD
+controller = VAD
+add_core = VAD
 
 culture = gujarati
 religion = hinduism

@@ -1,9 +1,8 @@
 #2053 - Patan
 
-owner = ITA
-controller = ITA
-add_core = ITA
-add_core = GUJ
+owner = PLP
+controller = PLP
+add_core = PLP
 
 culture = gujarati
 religion = hinduism

@@ -1,8 +1,8 @@
 #2056 - Rewa Kantha
 
-owner = ITA
-controller = ITA
-add_core = ITA
+owner = PLP
+controller = PLP
+add_core = PLP
 add_core = IDR
 
 culture = gujarati

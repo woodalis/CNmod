@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+
+religion = sunni
+religious_school = shafii_school
+
+primary_culture = gujarati
+
+capital = 4512	# Bharuch

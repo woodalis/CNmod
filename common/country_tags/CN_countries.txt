@@ -50,10 +50,33 @@ TRR = "countries/Tarragona.txt"
 URG = "countries/Urgell.txt"
 
 #India
+BLL = "countries/Ballari.txt"
+CDP = "countries/Chandrapur.txt"
+COA = "countries/Chola.txt"
+DIU = "countries/Diu.txt"
+ERO = "countries/Erode.txt"
+GAN = "countries/Ganga.txt"
 HJJ = "countries/HejridsJunior.txt"
 HJS = "countries/HejridsSenior.txt"
+HSY = "countries/Hoysala.txt"
+HYD = "countries/Hyderabad.txt"
 JOD = "countries/Jodhpur.txt"
+KLL = "countries/Kalaburagi.txt"
 KFR = "countries/Kafurids.txt"
+MDN = "countries/Madanapalle.txt"
+MND = "countries/Munda.txt"
+PLP = "countries/Palanpur.txt"
+RED = "countries/Reddi.txt"
+RJH = "countries/Rajahmundry.txt"
+SIN = "countries/Sindhanur.txt"
+TAM = "countries/Tamil.txt"
+UDA = "countries/Udayagiri.txt"
+VAD = "countries/Vadodara.txt"
+
+#Indochina
+AMR = "countries/Amaravati.txt"
+KTG = "countries/Kengtung.txt"
+NYA = "countries/Nyaungshwe.txt"
 
 #Italy
 ANC = "countries/Ancona.txt"
