@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = muslim
+
+primary_culture = suhraltanubi
+add_accepted_culture = paman
+
+religion = sunni
+religious_school = shafii_school
+
+capital = 4847	# Yunawa

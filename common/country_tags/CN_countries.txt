@@ -1,3 +1,10 @@
+#Australia
+AQJ = "countries/QarnJadid.txt"
+BTJ = "countries/Badtjala.txt"
+DHA = "countries/Dharug.txt"
+GYY = "countries/GiyaYuwi.txt"
+SUH = "countries/Suhraltanubia.txt"
+
 #Balkans
 MAC = "countries/Macedonia.txt"
 SFY = "countries/Sofia.txt"
@@ -76,7 +83,16 @@ VAD = "countries/Vadodara.txt"
 #Indochina
 AMR = "countries/Amaravati.txt"
 KTG = "countries/Kengtung.txt"
+KTR = "countries/Kauthara.txt"
+LNY = "countries/Linyi.txt"
 NYA = "countries/Nyaungshwe.txt"
+PND = "countries/Panduranga.txt"
+SMH = "countries/Simhapura.txt"
+VJY = "countries/Vijaya.txt"
+
+#Indonesia
+AMB = "countries/Ambon.txt"
+TMR = "countries/Timor.txt"
 
 #Italy
 ANC = "countries/Ancona.txt"

@@ -1,8 +1,8 @@
 #4406 - Mong Kung
 
-owner = AVA
-controller = AVA
-add_core = AVA
+owner = HSE
+controller = HSE
+add_core = HSE
 add_core = MNI
 
 culture = shan

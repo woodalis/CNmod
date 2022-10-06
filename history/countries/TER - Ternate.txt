@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = chinese
+
+primary_culture = moluccan
+
+religion = sunni
+religious_school = shafii_school
+
+capital = 649	# Ternate

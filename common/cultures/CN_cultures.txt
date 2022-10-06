@@ -45,6 +45,53 @@ western_chinese = { #Liao Group
 	}
 }
 
+walythic = { #muslim oceanians
+	graphical_culture = muslimgfx
+	dynasty_names = {
+		"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
+		"Saadun" "Jalili" "Hasanid" "Sabah" Javid
+	}
+	
+	male_names = {
+		#gulf origin
+		Mani Rabi'a Musa Ibrahim Markhan Watban Nasir Idris "'Abd-Allah" Sa'ud Zayid Abdullah Muhammad
+		'Abdullah Turki Faisal Al-Rahman Khalid Fahd Aziz Abu-Bakr Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir 
+		Abdul-Wahab Abdul Abdul Abdullah Abdullah Aghlab Akin Ali Ali Alim Aram Azam Bahir Burhanaddin
+		Fadil Fadl Faruk Ghalib Hafiz Halil Hasan Hasan Husam Hussayn Hussayn Ibrahim Abraham Idris 
+		Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
+		Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
+		Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+		Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
+		Joseph Zeyd
+		
+		#aboriginal names, need to be arabified still
+		Babawar Bambam Binyan Birrinbirrin Bunji Cambul Darana Dayindi Djarrjuntjun Dural Gabii Gambuu Marrii
+		Minygululu Nadi Nullah Nyakul Nyukuti Omeo Ridjimiraril Tidam Toba Umbarra Waku Watorea Yarran Yeeralparil
+		Yibaay Yileen
+		Colebee Iluka Killara Merriman Warragul Warrin Yannthan Yarramundi
+	}
+	
+	female_names = {
+		#gulf origin
+		Nadiyya Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla Maryam Nafisa Nyawela Parand 
+		Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+		Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah 
+		Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+		Taliba Tanaz Taneen Yagana Yakta Yasmin Zaynab
+		
+		#aboriginal names, need to be arabified still
+		Alkawari Allira Angoona Anmari Babawar Bando Binda Binmarray Biralee Bunji Chumbuli Colba Darana
+		Illarah Karri Kirrili Kyeema Lilardia Maroochy Mirrin Munandjarra Myaree Naata Ngoia Ningali Nowalingu
+		Nymbulda Nyurapayia Oodgeroo Papalya Parara Patiseba Payu Pirrmangka Takariya Talei Tallara Tatali Tjunkiya
+		Truganina Truganini Truganner Walangkura Watorea Wintjiya Yakari Yalamay Yinarupa Yindi
+		Adina Alinta Alira Arika Birindabella Cardinia Inala Jindalee Kareela Killara Lowanna Merri Pemau Waratah
+	}
+	
+	suhraltanubi = {
+		primary = SUH
+	}
+}
+
 scythian = { #scythian group
 	graphical_culture = muslimgfx
 
