@@ -1,8 +1,8 @@
 #2733 - Baiali
 
-owner = GYY
-controller = GYY
-add_core = GYY
+owner = BTJ
+controller = BTJ
+add_core = BTJ
 
 culture = paman
 religion = dreamtime

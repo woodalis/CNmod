@@ -8,4 +8,4 @@ add_accepted_culture = paman
 religion = sunni
 religious_school = shafii_school
 
-capital = 2733	# Baiali
+capital = 2731	# not writing that down sorry
