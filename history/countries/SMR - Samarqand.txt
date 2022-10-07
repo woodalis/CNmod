@@ -19,5 +19,6 @@ historical_friend = LIA
 		adm = 3
 		dip = 6
 		mil = 1
+		birth_date = 1384.6.18
 	}
 }

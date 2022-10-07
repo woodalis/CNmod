@@ -50,6 +50,8 @@ walythic = { #muslim oceanians
 	dynasty_names = {
 		"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
 		"Saadun" "Jalili" "Hasanid" "Sabah" Javid
+		#rp
+		"el-Diab"
 	}
 	
 	male_names = {
@@ -61,8 +63,8 @@ walythic = { #muslim oceanians
 		Is'mail Ismail Isa Jabir Jalil Jibril Khaireddin Khalil Mahdi Mahmud Mahmud
 		Mansur Mirza Mubarak Muhammad Muhammad Mukhtar Murad Musa Moses Muslihiddin Muzaffaraddin Najib 
 		Nasr Nizam Qawurd Ramadan Sa'daddin Sadiq Sami Samir Shaiban
-		Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Jacob Youkhanna John Yusuf 
-		Joseph Zeyd
+		Shamir Shujah Sulayman Solomon Talib Ubayd Uways Yahya Yahya Ya'qub Youkhanna Yusuf 
+		Zeyd
 		
 		#aboriginal names, need to be arabified still
 		Babawar Bambam Binyan Birrinbirrin Bunji Cambul Darana Dayindi Djarrjuntjun Dural Gabii Gambuu Marrii
