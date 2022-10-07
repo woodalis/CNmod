@@ -21,7 +21,7 @@ LIA_ideas = {
     }
     
     LIA_liao_religious_freedom = { #The Liao allowed their subjects essentially complete freedom to practice their religion, making integration easier (represented through harmonization ingame)
-		harmonization_speed = 0.2
+		harmonization_speed = 0.25
     }
     
     LIA_gunpowder_empire = { #The Liao rapidly embraced cannons and firearms in the 16th century
@@ -30,17 +30,17 @@ LIA_ideas = {
     }
     
     LIA_silk_crossroads = { #Control over the silk road and central location between Persia, Russia, India and China gives the Liao pretty good trade influence
-		global_own_trade_power = 0.1
+		global_trade_power = 0.1
 		trade_steering = 0.1
     }
 
     LIA_economic_planning = { #dengism
-		build_cost = -0.1
-		build_time = -0.1
+		build_cost = -0.2
+		build_time = -0.2
     }
     
     LIA_bureaucratic_empire = { #The Liao Bureaucracy is the backbone of the Empire, it's pretty damn big and pretty damn effective
-		core_creation = -0.25
+		core_creation = -0.2
     }
 	
 	LIA_proto_industrialization = { #dengism part 2
@@ -59,7 +59,7 @@ BJA_ideas = {
 		colonists = 1
 	}
 
- trigger = {
+	trigger = {
         tag = BJA
 	}
 
@@ -94,5 +94,54 @@ BJA_ideas = {
 	BJA_arctic_fleet = { #a fleet made for ice
 		global_ship_cost = -0.1
 		own_coast_naval_combat_bonus = 1
+	}
+}
+
+#Suhraltanubian Ideas
+SUH_ideas = {
+
+	start = {
+		global_sailors_modifier = 0.2
+		tolerance_heathen = 2
+	}
+	bonus = {
+		naval_morale = 0.15
+	}
+	trigger = {
+		culture = suhraltanubi
+	}
+	
+	free = yes
+
+	SUH_suhraltanubi_trade = { #trade contact with indonesia, china and arabia
+		trade_steering = 0.25
+		trade_range_modifier = 0.33
+	}
+	
+	SUH_crab_fighting = { #CN rp reference
+		leader_land_shock = 1
+	}
+	
+	SUH_outback_ranchers = { #large landholders in the sparsely populated outback
+		development_cost = -0.1
+	}
+	
+	SUH_el_diab = { #el diab canonically circumnavigates the world, his example inspires a lot of suhraltanubi
+		leader_naval_manuever = 1
+		may_explore = yes
+	}
+	
+	SUH_polynesian_integration = { #integrate and convert the pacific tribes
+		global_colonial_growth = 20
+		years_of_nationalism = -5
+	}
+	
+	SUH_walythian_empire = { #suhraltanubia is a massive sprawl of islands, controlling a massive sprawl of islands requires a big navy
+		naval_forcelimit_modifier = 0.33
+	}
+	
+	SUH_marine_corps = { #MARINES OOORA
+		allowed_marine_fraction = 0.5
+		movement_speed_onto_off_boat_modifier = 0.2
 	}
 }
