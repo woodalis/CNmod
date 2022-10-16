@@ -1,8 +1,7 @@
 
-#Liao Ideas
-LIA_ideas = {
+LIA_ideas = { #Western Liao
     start = {
-        num_accepted_cultures = 2
+        discipline = 0.05
         years_of_nationalism = -5
     }
     
@@ -17,7 +16,7 @@ LIA_ideas = {
     free = yes
     
     LIA_battle_of_qatwan = { #Battle of Qatwan: Yelü Dashi defeats the Seljuq Army despite being outnumbered by splitting his army and encircling the Seljuqs, nearly capturing the Seljuq Sultan and cementing the Liao's position in Central Asia
-		movement_speed = 0.10
+		infantry_power = 0.10
     }
     
     LIA_liao_religious_freedom = { #The Liao allowed their subjects essentially complete freedom to practice their religion, making integration easier (represented through harmonization ingame)
@@ -33,23 +32,104 @@ LIA_ideas = {
 		global_trade_power = 0.1
 		trade_steering = 0.1
     }
-
-    LIA_economic_planning = { #dengism
-		build_cost = -0.2
-		build_time = -0.2
-    }
     
     LIA_bureaucratic_empire = { #The Liao Bureaucracy is the backbone of the Empire, it's pretty damn big and pretty damn effective
 		core_creation = -0.2
     }
 	
-	LIA_proto_industrialization = { #dengism part 2
+	LIA_economic_planning = { #dengism
+		build_cost = -0.1
+		build_time = -0.2
+    }
+	
+	LIA_imperial_reorganization = { #Pretty much the Liao Tanzimat: period of wide-reaching social and economic reform in the Liao during the mid-late 1700s
+		country_admin_power = 1
 		production_efficiency = 0.1
+		imperial_mandate = 0.05
 	}
 }
 
-#Bjarmian Ideas
-BJA_ideas = {
+TAG_ideas = { #Liu
+
+    start = {
+    }
+    bonus = {
+    }
+    trigger = {
+		tag = LIU
+    }
+
+    free = yes
+
+    TAG_idea = {
+    }
+
+    TAG_idea = {
+    }
+
+    TAG_idea = {
+    }
+
+    TAG_idea = {
+    }
+
+    TAG_idea = {
+    }
+
+    TAG_idea = {
+    }
+
+    TAG_idea = {
+    }
+}
+
+SMR_ideas = { #Samarqand
+
+    start = {
+		tolerance_heathen = 2 #The city is very diverse religion-wise
+		trade_efficiency = 0.1 #silk road
+    }
+    bonus = {
+		land_morale = 0.10
+    }
+    trigger = {
+		tag = SMR
+    }
+
+    free = yes
+
+    SMR_liao_frontier = { #Samarqand is located on the south-western end of the Liao in 1415 and with imperial support is able to maintain a larger military
+		land_forcelimit_modifier = 0.2
+    }
+
+    SMR_restore_samarqand_observatory = { #Ulugh Beg built an observatory in Samarqand but after he died its been kinda abandoned, lets patch it up because its actually pretty useful for science
+		technology_cost = -0.1
+    }
+
+    SMR_bank_of_samarqand = { #Established in 1502, the Bank of Samarqand is an institution backed by the Liao Government that loans money not for profit, but to make development and disaster recovery easier
+	 	development_cost = -0.15
+		global_monthly_devastation = -0.1
+    }
+
+    SMR_liao_renaissance = { #Samarqand was one of the main centers of the Liao Renaissance, attracting scholars from all across the silk road
+		global_institution_spread = 0.1
+		advisor_cost = -0.1
+    }
+
+    SMR_imperial_auxilliaries = { #Troops from Samarqand were often used by the Liao for their campaigns in Persia
+		fire_damage = 0.1
+    }
+
+    SMR_metropolitanate_of_samarqand = { #Samarqand has historically cooperated with the Nestorian church to create a vast spy network throughout the middle east
+		spy_offence = 0.15
+    }
+
+    SMR_northern_capital = { #Samarqand ended up becoming the secondary capital of the Liao
+		prestige = 1
+    }
+}
+
+BJA_ideas = { #Bjarmaland
 	start = {
 		hostile_attrition = 1
 		tolerance_heretic = 3
@@ -97,8 +177,7 @@ BJA_ideas = {
 	}
 }
 
-#Suhraltanubian Ideas
-SUH_ideas = {
+SUH_ideas = { #Suhraltanubia
 
 	start = {
 		global_sailors_modifier = 0.2
