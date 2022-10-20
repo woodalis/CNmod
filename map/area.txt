@@ -3618,11 +3618,11 @@ northeast_mexico_area = { #5
 }
 
 durango_area = { #3
-    860 4647 4648 4646 4648
+    860 4647 4648
 }
 
-chihuahua_area = { #4
-    863 864 2618 4644
+chihuahua_area = { #5
+    863 864 2618 4644 4646
 }
 
 pecos_area = { #3
@@ -3670,7 +3670,7 @@ baja_california_area = { #4
 }
 
 jalisco_area = { #5
-    2617 2621 2657 4576 854
+    854 4576 4579 4640 5016
 }
 
 nayarit_area = { #4
@@ -3678,51 +3678,51 @@ nayarit_area = { #4
 }
 
 michoacan_area = { #5
-    2622 2623 2624 4573 4574
+    2621 2622 2624 4573 4575 
 }
 
-tierra_caliente_area = { #5
-    851 2643 4575 4579 4580
+tierra_caliente_area = { #4
+    2643 2657 4574 4580
 }
 
-gran_chichimeca_area = { #3 
-   857 2642 4642
+gran_chichimeca_area = { #4
+   857 2615 4641 4642
 }
 
-guanajuato_area = { #3
-   853 2615 4641 4640
+guanajuato_area = { #4
+   
 }
 
 zacatecas_area = { #4
-    856 4643 4645
+    856 2617 4643 4645
 }
 
 mexico_area = { #5
-    852 2626 4570 4571 4572
+    850 852 2644 4570 4571
 }
 
 puebla_area = { # 5
-    850 2628 2644 4583 4582
+    2645 2646 4581 4582
 }
 
-guerrero_area = { #3
-    2627 2645 2648
+guerrero_area = { #5
+    851 2623 2627 4572 5017
 }
 
 oaxaca_area = { #3
-    844 2629 4584
+    2629 2630 2631 4584
 }
 
-mixteca_area = { #4
-    847 849 2646 4581
+mixteca_area = { #5
+    844 847 849 2648 5018
 }
 
-eastern_mexico_area = { #5
-    2630 2631 2647
+eastern_mexico_area = { #4
+    2628 2647 4583 4598
 }
 
-huasteca_area = {
-    848 2641 4598
+huasteca_area = { #5
+    848 853 2626 2641 2642
 }
 
 chiapas_area = { #4
@@ -3730,27 +3730,27 @@ chiapas_area = { #4
 }
 
 yucatan_area = { #5
-    846 2633 2651 4590
+    846 2633 2651 4590 4591
 }
 
-east_yucatan_area = { #4
-    2634 2652 4588 4591
+east_yucatan_area = { #5
+    843 2634 2652 4588 4589
 }
 
-campeche_area = { #3
+campeche_area = { #5
     845 2632 2650 
 }
 
-guatemala_area = { #4
-   839 841 2653 4587
+guatemala_area = { #5
+   839 841 2653 5019 5020
 }
 
 guatemala_lowlands_area = { #5
-    842 843 2636 4589 4594
+    842 2636 2637 4587 4594
 }
 
-honduras_area = { #4
-    840 2637 2640 2662 4593
+honduras_area = { #5
+    840 2640 2662 4593 5021
 }
 
 nicaragua_area = { #5

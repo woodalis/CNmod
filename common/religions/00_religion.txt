@@ -50,7 +50,7 @@ christian = {
 		
 		}
 		
-		heretic = { BOGOMILIST FRATICELLI LOLLARD SOCINIAN }
+		heretic = { BOGOMILIST FRATICELLI SOCINIAN }
 		
 		papacy = {
 			papal_tag = PAP
@@ -804,6 +804,51 @@ christian = {
 		}
 	}
 
+	lollard = {
+		color = { 179 82 188 }
+		icon = 31
+		allowed_conversion = {
+			reformed
+			protestant
+			waldensian
+		}
+		country = {
+			global_institution_spread = 0.1
+			stability_cost_modifier = -0.1
+		}
+		province = {
+			local_tax_modifier = -0.1
+		}
+		country_as_secondary = {
+			stability_cost_modifier = -0.2
+		}
+		hre_heretic_religion = yes
+		
+		fervor = yes
+
+		will_get_center = {
+			any_owned_province = {
+				region = british_isles_region
+			}																		
+			NOT = {
+				calc_true_if = {							
+					all_province = {
+						religion = lollard
+						is_reformation_center = yes
+					}
+					amount = 3
+				}
+			}
+		}
+
+		allowed_center_conversion = {
+			catholic
+			waldensian
+		}
+		
+		heretic = { PAPIST }
+	}	
+
 	waldensian = {
 		color = { 83 154 148 }
 		icon = 30
@@ -824,6 +869,7 @@ christian = {
 		province = {
 			local_missionary_strength = -0.03 # particularly resilent in the face of centuries of persecution
 		}
+		hre_heretic_religion = yes
 		
 		heretic = { PAUPERES ULTRAMONTANI }
 		

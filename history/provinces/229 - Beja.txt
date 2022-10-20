@@ -3,7 +3,7 @@
 owner = ADU
 controller = ADU
 culture = andalucian
-religion = catholic
+religion = sunni
 capital = "Beja"
 trade_goods = livestock
 hre = no

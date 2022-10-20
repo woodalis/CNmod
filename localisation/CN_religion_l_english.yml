@@ -12,3 +12,16 @@
   waldensian_rebels_name: "$RELIGION$ Zealots"
   waldensian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
   waldensian_rebels_army: "$RELIGION$ Army"
+
+  #Lollard
+  lollard: "Lollard"
+  lollard_religion_desc:0 "Lollards are members of the movement which came to be known as Lollardy, a movement based originally on the teachings of John Wycliffe and which laid much of the groundwork for not just other reformers like Jan Hus but for the greater Protestant Reformation in total. Wycliffe and his peers believed not just in the use of the vernacular in scripture - indeed, Wycliffe oversaw the first translations of the Bible into Middle English - but also in the doctrine of \"sola scriptura\" which would later underpin Lutheranism and other Protestant denominations. Lollardy's advocacy for anti-clerical reform garnered support from the peasantry and many academics at Oxford and elsewhere throughout Great Britain as well as from some members of the English nobility, who saw the confiscation of church property as an attractive way to gain income from England's monasteries."
+
+  PAPIST: "Papist"
+
+  lollard_rebels_demand: "Convert $COUNTRYNAME$"
+  lollard_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+  lollard_rebels_title: "Religious"
+  lollard_rebels_name: "$RELIGION$ Zealots"
+  lollard_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+  lollard_rebels_army: "$RELIGION$ Army"
