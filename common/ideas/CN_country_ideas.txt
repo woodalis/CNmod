@@ -7,7 +7,6 @@ LIA_ideas = { #Western Liao
     
     bonus = {
         artillery_power = 0.15
-	artillery_cost = -0.1
     }
     
     trigger = {
@@ -233,12 +232,11 @@ SCY_ideas = { #Scytho-Rus'
 
 	start = {
 		cavalry_power = 0.15
-		global_manpower_modifier = 0.1
-		harsh_treatment_cost = -0.15
+		harsh_treatment_cost = -0.2
 		
 	}
 	bonus = {
-		embracement_cost = -0.1
+		global_manpower = 0.1
 	}
 	trigger = {
 		tag = SCY
@@ -262,21 +260,23 @@ SCY_ideas = { #Scytho-Rus'
 		
 	}
 
-	SCY_modernizing_an_empire = { 
-		technology_cost = -0.05
+	SCY_alim = { #khagan alim
+		tolerance_heathen = 2
+		tolerance_heretic = 2
 		global_institution_spread = 0.1
+
 	}
 
 	SCY_conquest_of_siberia = { #hypothetical
 		may_establish_frontier = yes
 		auto_explore_adjacent_to_colony = yes
+		land_morale = 0.1
 	}
 
-	SCY_alim = { #khagan alim
-		tolerance_heathen = 2
-		tolerance_heretic = 2
-		land_morale = 0.1
-		
+	SCY_modernizing_an_empire = { 
+		technology_cost = -0.05
+		embracement_cost = -0.1
+
 	}
 
 	SCY_expansion_of_liberties = { 
