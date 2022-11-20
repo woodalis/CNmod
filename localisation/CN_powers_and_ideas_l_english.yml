@@ -106,3 +106,13 @@
  SCY_modernizing_an_empire_desc:0 "This empire is one that stretches the borders of Europe and Asia, and as such is trapped between these worlds culturally and technologically. While in the past our proud Scythian heritage and nomadic tradition won victory in battle, it is clear that archers on horseback are not as effective as they used to be. With the armies of Europe conquering the world, it is time to adapt and embrace the West."
  SCY_expansion_of_liberties:0 "Expansion of Liberties"
  SCY_expansion_of_liberties_desc:0 "As the centuries wore on, the divide between the Khaganate's ethnic groups became to wear down, both through assimilation and acceptance. Notably, far greater autonomy was given to Slavic and Turkic components of the Empire, which began to form a more mutually beneficial arrangement for the Khaganate's elite and the groups that made it up."
+
+ SLJ_ideas:0 "Seljuqid Ideas"
+ SLJ_ideas_start:0 "Seljuqid Traditions"
+ SLJ_ideas_bonus:0 "Seljuqid Ambition"
+ SLJ_ghazis:0 "Ghāzīs"
+ SLJ_ghazis_desc:0 "The 'ghāzīs' are the border cavalry raiders of our Empire, built upon a tradition centuries-old within the Muslim world. So effective are they that their payment is their plunder, and their name is now used as an honorary title for those who help expand the borders of Islam. We would be wise to utilize these troops wherever possible."
+ SLJ_the_mad_caliph:0 "The Mad Caliph"
+ SLJ_the_mad_caliph:0 "Beginning in 1468, the Caliph Ikram Al-e Saljuq II began a series of confrontations collectively known as the Seljuqid Mad Wars. They were largely aimless, sudden, and incredibly ambitious military operations that mostly ended with failure at the hands of the Akgulids, Musaids, Liao, and Anxyanao. These defeats came with a silver lining, however - the Caliphate had never before seen such levels of potential for expansion and heavy mobilization; the Mad Caliph reinvigorated a martial culture in the Empire."
+ SLJ_the_caliphate:0 "The Caliphate"
+ SLJ_the_caliphate_desc:0 "While for some years the t
