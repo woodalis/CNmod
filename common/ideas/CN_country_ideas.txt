@@ -7,6 +7,7 @@ LIA_ideas = { #Western Liao
     
     bonus = {
         artillery_power = 0.15
+	artillery_cost = -0.1
     }
     
     trigger = {
@@ -39,7 +40,7 @@ LIA_ideas = { #Western Liao
 	
 	LIA_economic_planning = { #dengism
 		build_cost = -0.1
-		build_time = -0.2
+		build_time = -0.15
     }
 	
 	LIA_imperial_reorganization = { #Pretty much the Liao Tanzimat: period of wide-reaching social and economic reform in the Liao during the mid-late 1700s
@@ -86,7 +87,8 @@ TAG_ideas = { #Liu
 SMR_ideas = { #Samarqand
 
     start = {
-		tolerance_heathen = 2 #The city is very diverse religion-wise
+		tolerance_heathen = 1 #The city is very diverse religion-wise
+		tolerance_heretic = 1
 		trade_efficiency = 0.1 #silk road
     }
     bonus = {
@@ -107,8 +109,9 @@ SMR_ideas = { #Samarqand
     }
 
     SMR_bank_of_samarqand = { #Established in 1502, the Bank of Samarqand is an institution backed by the Liao Government that loans money not for profit, but to make development and disaster recovery easier
-	 	development_cost = -0.15
-		global_monthly_devastation = -0.1
+	 	development_cost = -0.1
+		global_monthly_devastation = -0.05
+		interest = -0.5
     }
 
     SMR_liao_renaissance = { #Samarqand was one of the main centers of the Liao Renaissance, attracting scholars from all across the silk road
@@ -122,6 +125,7 @@ SMR_ideas = { #Samarqand
 
     SMR_metropolitanate_of_samarqand = { #Samarqand has historically cooperated with the Nestorian church to create a vast spy network throughout the middle east
 		spy_offence = 0.15
+		church_loyalty_modifier = 0.05
     }
 
     SMR_northern_capital = { #Samarqand ended up becoming the secondary capital of the Liao
@@ -132,7 +136,7 @@ SMR_ideas = { #Samarqand
 BJA_ideas = { #Bjarmaland
 	start = {
 		hostile_attrition = 1
-		tolerance_heretic = 3
+		tolerance_heathen = 3
 	}
 
 	bonus = {
@@ -193,8 +197,8 @@ SUH_ideas = { #Suhraltanubia
 	free = yes
 
 	SUH_suhraltanubi_trade = { #trade contact with indonesia, china and arabia
-		trade_steering = 0.25
-		trade_range_modifier = 0.33
+		trade_steering = 0.1
+		trade_range_modifier = 0.25
 	}
 	
 	SUH_crab_fighting = { #CN rp reference
@@ -216,11 +220,67 @@ SUH_ideas = { #Suhraltanubia
 	}
 	
 	SUH_walythian_empire = { #suhraltanubia is a massive sprawl of islands, controlling a massive sprawl of islands requires a big navy
-		naval_forcelimit_modifier = 0.33
+		naval_forcelimit_modifier = 0.25
 	}
 	
 	SUH_marine_corps = { #MARINES OOORA
 		allowed_marine_fraction = 0.5
 		movement_speed_onto_off_boat_modifier = 0.2
+	}
+}
+
+SCY_ideas = { #Scytho-Rus'
+
+	start = {
+		cavalry_power = 0.15
+		global_manpower_modifier = 0.1
+		harsh_treatment_cost = -0.15
+		
+	}
+	bonus = {
+		embracement_cost = -0.1
+	}
+	trigger = {
+		tag = SCY
+	}
+	
+	free = yes
+
+	SCY_rushing_army = { #early game horde and in-lore fast expansion
+		cavalry_flanking = 0.5
+		cavalry_cost = -0.05
+		
+	}
+
+	SCY_vassals = { #scytho-rus' had a lot of border vassals (we should probs give them strong duchies of some sort)
+		vassal_forcelimit_bonus = 1
+		
+	}
+
+	SCY_exploitation_of_the_slavs = { #bit of realism
+		global_tax_modifier = 0.1
+		
+	}
+
+	SCY_modernizing_an_empire = { 
+		technology_cost = -0.05
+		global_institution_spread = 0.1
+	}
+
+	SCY_conquest_of_siberia = { #hypothetical
+		may_establish_frontier = yes
+		auto_explore_adjacent_to_colony = yes
+	}
+
+	SCY_alim = { #khagan alim
+		tolerance_heathen = 2
+		tolerance_heretic = 2
+		land_morale = 0.1
+		
+	}
+
+	SCY_expansion_of_liberties = { 
+		num_accepted_cultures = 1
+
 	}
 }
