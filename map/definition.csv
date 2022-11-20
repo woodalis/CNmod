@@ -9,7 +9,7 @@ province;red;green;blue;x;x
 8;1;48;192;Dalaskogen;x
 9;129;50;255;H�lsingland;x
 10;1;52;0;J�mtland;x
-11;129;54;64;V�sterbotten;x
+11;90;153;112;V�sterbotten;x
 12;1;56;128;Sj�lland;x
 13;129;58;192;Slesvig;x
 14;2;60;255;Fyn;x
@@ -4112,7 +4112,7 @@ province;red;green;blue;x;x
 4111;119;212;150;Saintonge;x
 4112;157;124;213;Aurilac;x
 4113;103;160;108;Tornio;x
-4114;145;85;134;Lule�;x
+4114;48;13;188;Jokkmokk;x
 4115;156;39;189;Mazyr;x
 4116;119;162;166;Belyov;x
 4117;205;163;151;Bezhetsk;x
@@ -4149,7 +4149,7 @@ province;red;green;blue;x;x
 4148;222;151;200;Luki;x
 4149;44;184;44;Kolding;x
 4150;145;151;212;�vora;x
-4151;208;10;168;Kuusamo;x
+4151;74;27;183;Kuusamo;x
 4152;113;153;0;Enare;x
 4153;225;223;21;Scandes;x
 4154;225;223;23;Pyrenees;x
@@ -5020,3 +5020,19 @@ province;red;green;blue;x;x
 5019;182;89;151;Xinica;x
 5020;174;85;46;Usulutan;x
 5021;128;140;246;Chorotega;x
+5022;84;153;78;Burtrask;x
+5023;67;153;33;Skelleftea;x
+5024;86;155;71;Pitea;x
+5025;25;158;45;Lulea;x
+5026;60;158;99;Kalix;x
+5027;24;38;191;Sorsele;x
+5028;67;56;188;Jokkmokk;x
+5029;9;17;183;Gallivare;x
+5030;64;53;186;Muonio;x
+5031;0;48;183;Eanodat;x
+5032;49;25;183;Rovaniemi;x
+5033;113;16;183;Sodankyla;x
+5034;86;16;183;Savukoski;x
+5035;88;40;183;Kittila;x
+5036;69;23;183;Kemijarvi;x
+5037;82;158;106;Kemi;x
