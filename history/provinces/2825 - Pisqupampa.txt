@@ -1,24 +1,21 @@
 # - Pisqupampa
 
-owner = HJA
-controller = HJA
+owner = CHM
+controller = CHM
 culture = inca
 religion = inti
 capital = "Pisqupampa"
 trade_goods = grain
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+base_tax = 4 
+base_production = 4
+base_manpower = 3
 is_city = yes
+add_core = CHM
 add_core = HJA
 
-
-
-discovered_by = south_american
 discovered_by = andean
-discovered_by = CHM
-
+discovered_by = south_american
 
 1465.1.1 = {
 	owner = CSU

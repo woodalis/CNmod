@@ -117,6 +117,9 @@ TRO = "countries/Treviso.txt"
 OVE = "countries/Oversitcht.txt"
 NAM = "countries/Namur.txt"
 
+#Mesoamerica
+LCA = "countries/Lenca.txt"
+
 #Middle East
 SLJ = "countries/Seljuqids.txt"
 AKG = "countries/Akgulids.txt"

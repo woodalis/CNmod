@@ -1,8 +1,9 @@
 # No previous file for Zaachila
 
 culture = chontales
-owner = YOK
-controller = YOK
+owner = CHM
+controller = CHM
+add_core = CHM
 add_core = YOK
 is_city = yes
 religion = mesoamerican_religion

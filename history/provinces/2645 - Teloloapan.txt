@@ -1,8 +1,9 @@
 # No previous file for Teloloapan
 
 culture = aztek
-owner = AZT
-controller = AZT
+owner = CHM
+controller = CHM
+add_core = CHM
 add_core = AZT
 is_city = yes
 religion = nahuatl

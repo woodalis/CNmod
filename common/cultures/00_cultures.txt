@@ -3706,6 +3706,19 @@ otomanguean = {
 			Zyanya Nayeli Yoltzin Xilonen Xiloxoch Xiuhtomiyauhtzin Xochitl Xocoh Xocoyotl Yaretzi Zeltzin
 		}
 	}
+	lenca = {
+		primary = LCA
+		dynasty_names = {
+			Quelacasque Guajiquiro Intibucá Lempira Kolo Cerquín Care
+		}
+		male_names = {
+			Aguingui Ampaba	Ashu Cantianshin Cashi Cayu Coggo Cute Eguasira Emishi Guansuyanga Guanquiriri
+			Güiza Imsug Iepazara Malzay Mishu Pulgan Shua Tapashi
+		}
+		female_names = {
+			Ama Cashiguaina	Caslaneta Ciri Mob Mina Guagshig Guaz Hazha Güisgüisca
+		}
+	}
 	tlapanec = {
 		primary = TLA
 		male_names = {

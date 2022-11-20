@@ -1,7 +1,8 @@
 #838 - Mosquito
 
-owner = MIS
-controller = MIS
+owner = CHM
+controller = CHM
+add_core = CHM
 add_core = MIS
 is_city = yes
 culture = miskito 

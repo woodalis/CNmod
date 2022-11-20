@@ -1,8 +1,9 @@
 # No previous file for Xoconochco
 
 culture = zapotek
-owner = ZAP
-controller = ZAP
+owner = CHM
+controller = CHM
+add_core = CHM
 add_core = ZAP
 is_city = yes
 religion = nahuatl

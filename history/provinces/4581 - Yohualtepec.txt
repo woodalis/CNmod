@@ -1,8 +1,9 @@
 # No previous file for Yohualtepec
 
 culture = mixtec
-owner = COI
-controller = COI
+owner = CHM
+controller = CHM
+add_core = CHM
 add_core = COI
 is_city = yes
 religion = nahuatl

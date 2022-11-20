@@ -4,7 +4,5 @@ government_rank = 1
 primary_culture = franconian
 religion = catholic
 technology_group = western
-capital = 
+capital = 4718
 fixed_capital = 4718
-
-#releasable

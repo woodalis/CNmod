@@ -1,7 +1,8 @@
 #839 - Pipil
 
-owner = CHT
-controller = CHT
+owner = LCA
+controller = LCA
+add_core = LCA
 add_core = CHT
 is_city = yes
 culture = highland_mayan 
