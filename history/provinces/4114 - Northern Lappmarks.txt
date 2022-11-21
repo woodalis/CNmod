@@ -1,6 +1,4 @@
-#Lapland, the far north wastelands.
-
-capital = "Jokkmokk"
+capital = "Kajaani"
 culture = sapmi
 religion = catholic
 hre = no
@@ -14,4 +12,3 @@ native_ferocity = 2
 discovered_by = eastern
 discovered_by = western
 discovered_by = BJA
-

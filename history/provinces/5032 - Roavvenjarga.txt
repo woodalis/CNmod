@@ -1,4 +1,4 @@
-capital = "Jokkmokk"
+capital = "Roavvenjárga"
 culture = sapmi
 religion = catholic
 hre = no

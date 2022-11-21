@@ -1,6 +1,4 @@
-#4124 - North Karelia
-
-culture = karelian
+culture = sapmi
 religion = orthodox
 hre = no
 base_tax = 1
@@ -11,6 +9,4 @@ capital = "Lieksa"
 is_city = yes
 discovered_by = western
 discovered_by = eastern
-discovered_by = nomad_group
-
 

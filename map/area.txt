@@ -647,19 +647,15 @@ ostra_svealand_area = { #4
 }
 
 norrland_area = { #4
-	9 11 18 4114
+	9
 }
 
 finland_area = { #5
 	27 28 29 31 4123
 }
 
-bothnia_area = { #3
-	19 4113 4152
-}
-
 laponia_area = { #3
-	315 1777 4151
+	315 1777 4151 5033
 }
 
 karelia_area = { #4
@@ -3837,4 +3833,32 @@ CN2_area = {
 
 CN3_area = {
 	4975 4976 4977 4978
+}
+
+CN_vasterbotten_area = {
+	11 18 5024 5027
+}
+
+CN_norrbotten_area = {
+	4113 5025 5028 5029 5030
+}
+
+CN_kemijoki_area = {
+	5032 5036 5037
+}
+
+CN_oulu_area = {
+	19 4114 5031 5035
+}
+
+CN_oulu_area = {
+	19 4114 5031 5035
+}
+
+CN_korsholm_area = {
+	5022 5023 5026
+}
+
+CN_white_karelia_area = {
+	1776 4152 5034
 }

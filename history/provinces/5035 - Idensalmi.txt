@@ -1,4 +1,4 @@
-capital = "Burtrask"
+capital = "Idensalmi"
 culture = sapmi
 religion = catholic
 hre = no

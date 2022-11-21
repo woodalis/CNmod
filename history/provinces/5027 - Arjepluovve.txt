@@ -1,4 +1,4 @@
-capital = "Eanodat"
+capital = "Árjepluovve"
 culture = sapmi
 religion = catholic
 hre = no

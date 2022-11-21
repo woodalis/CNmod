@@ -1,4 +1,4 @@
-capital = "Gallivare"
+capital = "Dálvvadis"
 culture = sapmi
 religion = catholic
 hre = no

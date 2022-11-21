@@ -1,4 +1,4 @@
-capital = "Rovaniemi"
+capital = "Muoná"
 culture = sapmi
 religion = catholic
 hre = no

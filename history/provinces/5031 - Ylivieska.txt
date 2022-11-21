@@ -1,5 +1,9 @@
-capital = "Kemijarvi"
-culture = sapmi
+capital = "Ylivieska"
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = finnish
 religion = catholic
 hre = no
 base_tax = 1 

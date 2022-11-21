@@ -1,4 +1,4 @@
-capital = "Kittila"
+capital = "Giemajávri"
 culture = sapmi
 religion = catholic
 hre = no

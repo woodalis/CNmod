@@ -50,6 +50,11 @@ scandinavia_region = {
 		laponia_area
 		vastra_gotaland_area
 		ostra_svealand_area
+		CN_vasterbotten_area
+		CN_norrbotten_area
+		CN_kemijoki_area
+		CN_oulu_area
+		CN_korsholm_area
 	}
 }
 
@@ -160,6 +165,7 @@ russia_region = {
 		oka_area
 		arkhangelsk_area
 		vologda_area
+		CN_white_karelia_area
 	}
 }
 
