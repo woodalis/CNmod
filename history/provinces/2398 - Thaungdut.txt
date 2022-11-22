@@ -3,10 +3,9 @@
 owner = AVA
 controller = AVA
 add_core = AVA
-add_core = KAL
 
-culture = chin
-religion = animism
+culture = burmese
+religion = buddhism
 capital = "Thaungdut"
 
 trade_goods = grain

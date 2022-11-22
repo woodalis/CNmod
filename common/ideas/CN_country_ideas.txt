@@ -335,3 +335,61 @@ SLJ_ideas = { #Seljuqids
 
 	}
 }
+
+AQT_ideas = { #Aquitaine
+
+	start = {
+		diplomats = 1
+		warscore_cost_vs_other_religion = -0.25
+		
+	}
+	bonus = {
+		administrative_efficiency = 0.05
+	}
+	trigger = {
+		tag = AQT
+	}
+	
+	free = yes
+
+	AQT_morale = { 
+		land_morale = 0.10
+
+	}
+
+	AQT_trade = { 
+		global_trade_power = 0.1
+		development_cost_modifier = -0.05
+
+	}
+
+	AQT_vassals = { 
+		reduced_liberty_desire = 10
+		accept_vassalization_reasons = 15
+		diplomatic_reputation = 1
+
+	}
+
+	AQT_technology = { 
+		technology_cost = -0.1
+
+	}
+
+	AQT_governing_cost = { 
+		governing_capacity_modifier = 0.1
+
+	}
+
+	AQT_discpline = { 
+		discipline = 0.05
+
+	}
+
+	AQT_tolerance = { 
+		religious_unity = 0.2
+		tolerance_heretic = 2
+		tolerance_own = 1
+
+	}
+
+}

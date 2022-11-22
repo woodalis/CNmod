@@ -1,7 +1,7 @@
 owner = AYU
 controller = AYU
-culture = central_thai
-religion = buddhism
+culture = karen
+religion = animism
 capital = "Kanchanaburi"
 trade_goods = ivory
 hre = no

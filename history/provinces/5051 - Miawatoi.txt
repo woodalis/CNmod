@@ -1,0 +1,19 @@
+#5051 - Miawatoi
+
+owner = AVA
+controller = AVA
+add_core = AVA
+
+culture = karen
+religion = animism
+capital = "Pa-an"
+
+trade_goods = gems
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = indian

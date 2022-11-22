@@ -4,7 +4,6 @@ owner = JOD
 controller = JOD
 add_core = JOD
 add_core = MAW
-add_core = GUJ
 
 culture = rajput
 religion = hinduism
