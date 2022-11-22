@@ -1,0 +1,255 @@
+# Daimyo Vassals
+#1573.7.3 -> Oda
+#1600.10.21 -> Tokugawa
+
+vassal = { #So
+	first = UES
+	second = SOO
+	start_date = 1444.11.11
+	end_date = 1573.7.1
+}
+
+vassal = { #Kitabatake
+	first = UES
+	second = KTB
+	start_date = 1444.11.11
+	end_date = 1569.10.3 #Annexed
+}
+
+vassal = {
+	first = UES
+	second = AMA
+	start_date = 1444.11.11
+	end_date = 1566.11.28 #Annexed
+}
+
+vassal = {
+	first = UES
+	second = ASA
+	start_date = 1444.11.11
+	end_date = 1573.7.1 #Annexed
+}
+
+vassal = {
+	first = UES
+	second = CSK
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = DTE
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = RFR
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = HJO
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = HSK
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = HTK
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = IKE
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = IMG
+	start_date = 1444.11.11
+	end_date = 1568.12.1 #Annexed
+}
+
+vassal = {
+	first = UES
+	second = MAE
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = MRI
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = ODA
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = OTM
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = OUC
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = SBA
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = SMZ
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = TKD
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = TKG
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = YMN
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = AKM
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = AKT
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = CBA
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = ISK
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = ITO
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = KKC
+	start_date = 1444.11.11
+	end_date = 1554.1.1 #Annexed
+}
+
+vassal = {
+	first = UES
+	second = KNO
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = OGS
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = SHN
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = STK
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = TKI
+	start_date = 1444.11.11
+	end_date = 1567.10.1 #Annexed
+}
+
+vassal = {
+	first = UES
+	second = UTN
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = TTI
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
+
+vassal = {
+	first = UES
+	second = ASK
+	start_date = 1444.11.11
+	end_date = 1573.7.3
+}
