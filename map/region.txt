@@ -843,6 +843,7 @@ burma_region = {
 		upper_burma_area
 		lower_burma_area
 		shan_hill_area
+		shan_lowlands_area
 		karenni_area
 		arakan_area
 		central_burma_area
@@ -1087,10 +1088,12 @@ moluccas_region = {
 		molluca_area
 		sulawesi_area
 		luzon_area
+		central_luzon_area
 		southern_luzon_area
 		mindanao_area
 		west_mindanao_area
 		visayas_area
+		east_visayas_area
 		palawan_area
 		papua_area
 		vogelkop_area

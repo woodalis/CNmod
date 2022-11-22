@@ -1,0 +1,20 @@
+#5045 - Lawngtlai
+
+owner = TPR
+controller = TPR
+add_core = TPR
+
+culture = chin
+religion = hinduism
+capital = "Lawngtlai"
+
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese

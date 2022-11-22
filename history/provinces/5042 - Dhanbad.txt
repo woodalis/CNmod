@@ -1,0 +1,26 @@
+#5042 - Dhanbad
+
+owner = HJS
+controller = HJS
+add_core = HJS
+add_core = NGP
+
+culture = jharkhandi
+religion = hinduism
+capital = "Dhanbad"
+
+trade_goods = copper
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_brahmins_or_church_effect = yes
+
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = chinese
+
+add_local_autonomy = 50

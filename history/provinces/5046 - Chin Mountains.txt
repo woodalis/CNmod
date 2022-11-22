@@ -1,0 +1,9 @@
+#5046 - Chin Mountains
+
+
+
+
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = indian
+

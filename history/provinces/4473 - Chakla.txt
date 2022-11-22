@@ -6,7 +6,7 @@ add_core = TPR
 
 culture = chin
 religion = hinduism
-capital = "Chakla"
+capital = "Aizawl"
 
 trade_goods = tropical_wood
 hre = no
