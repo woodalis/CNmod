@@ -160,3 +160,11 @@
  AQT_discpline_desc:0 "Watching over both sides of the Pyrennes requires vigilance. Should we lose our position, it would spell trouble for the realm. This cannot happen."
  AQT_tolerance:0 "Dealing with all Religions"
  AQT_tolerance_desc:0 "The country is prepared to welcome most people as subjects and religion is no different. No matter the faith, we will accept all willing to serve and expand our realm."
+
+ KMK_ideas:0 "Kalmyk Ideas"
+ KMK_ideas_start:0 "Kalmyk Traditions"
+ KMK_ideas_bonus:0 "Kalmyk Ambition"
+ KMK_western_heir:0 "Western Heir"
+ KMK_western_heir_desc:0 "We Kalmyks are the westernmost Mongols in existence, made rulers of this land centuries ago by conquest as the vanguard for the Great Genghis Khan's empire. Thousands upon thousands of Oirat Mongol soldiers and horsemen poured into the region as to prepare for a campaign against the Scythians, but the defeat by the Liao and emergence of the Nogai fractured our empire before the Kalmyk campaign could begin. In the chaos, Mongols from Central Asia and Oirats from the homeland increasingly populated the eastern bank of the Volga, forming the periphery haven which has persisted to the modern day. \n\nAt the end of the day, we are just as much an heir to Genghis Khan as the pompous Yuan, and our army shows it."
+ KMK_peace_with_the_world:0 "Peace With the World"
+ KMK_peace_with_the_world_desc:0 "
