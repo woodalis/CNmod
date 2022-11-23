@@ -40,7 +40,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 997;981;sea;1493;1935;1781;1939;1773;Chisedek-Taqamkuk
 1050;4658;sea;1379;5014;1562;5017;1564;Deren-Nanghaer
 1215;387;sea;1330;3482;849;3484;853;Tajura-Mocha
-112;1774;sea;1308;2995;1432;2994;1434;Venice-Treviso
 54;4141;sea;1268;2945;1599;2943;1597;Stade-Dithmarschen
 1820;1021;sea;1391;4912;1219;4919;1223;Awa-Settsu
 4131;4193;sea;1387;4999;1357;5005;1351;Oshima-Mutsu
@@ -49,7 +48,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1247;4735;sea;1298;-1;-1;-1;-1;Corsica-Sardinia
 394;396;sea;4347;3589;1076;3592;1074;Al Hasa-Bahrain
 395;396;sea;4347;3596;1071;3601;1071;Qatar-Bahrain
-4354;4351;sea;4357;4726;791;4732;786;Zamboanga-Buglas
+5061;5059;sea;4357;4726;791;4732;786;Pagadian-Dumaguete
 654;2699;sea;1397;-1;-1;-1;-1;Samar-Bikol
 648;649;sea;1400;4801;670;4803;667;Halmahera-Ternate
 648;650;sea;1400;4805;640;4803;628;Halmahera-Tidore
@@ -80,7 +79,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 2716;4796;sea;1357;4714;569;4712;575;Buton-Kendari
 2700;4351;sea;1397;-1;-1;-1;-1;Cebu-Panay
 4353;4355;sea;1402;4765;804;4761;811;Leyte-Caraga
-2700;4350;sea;1397;4708;838;4702;846;Panay-Mindoro
+5058;4350;sea;1397;4708;838;4702;846;Capiz-Mindoro
 4356;4350;sea;1395;-1;-1;-1;-1;Taytay-Mindoro
 646;647;sea;1401;-1;-1;-1;-1;Ambom-Ceram
 2678;622;sea;1361;4446;618;4443;617;Banka-Palembang
@@ -97,6 +96,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1751;226;sea;1293;-1;-1;-1;-1;Ceuta-Gibraltar
 4353;4352;sea;1397;-1;-1;-1;-1;Leyte-Cebu
 4351;4352;sea;1397;-1;-1;-1;-1;Buglas-Cebu
+4352;5060;sea;1397;-1;-1;-1;-1;Cebu-Bohol
 4699;4698;sea;1312;-1;-1;-1;-1;Arta-Cephalonia
 4745;47;sea;1257;3013;1607;3012;1606;R�gen-Stralsund
 2994;48;sea;1257;-1;-1;-1;-1;Wolgast-Kolberg
