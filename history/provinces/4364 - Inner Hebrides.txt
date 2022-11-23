@@ -1,7 +1,7 @@
 #4364 - Inner Hebrides
 
-owner = LOI
-controller = LOI
+owner = SCO
+controller = SCO
 culture = highland_scottish
 religion = catholic
 hre = no

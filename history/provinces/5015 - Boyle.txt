@@ -1,8 +1,8 @@
 #4119 - Sligo
 
-owner = SLN
-controller = SLN
-add_core = SLN
+owner = BRF
+controller = BRF
+add_core = BRF
 
 culture = irish
 religion = catholic

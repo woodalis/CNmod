@@ -5,6 +5,12 @@ DHA = "countries/Dharug.txt"
 GYY = "countries/GiyaYuwi.txt"
 SUH = "countries/Suhraltanubia.txt"
 
+#British Isles
+BRF = "countries/Breifne.txt"
+DYF = "countries/Dyfed.txt"
+GWE = "countries/Gwent.txt"
+GWY = "countries/Gwynedd.txt"
+
 #Balkans
 MAC = "countries/Macedonia.txt"
 SFY = "countries/Sofia.txt"
