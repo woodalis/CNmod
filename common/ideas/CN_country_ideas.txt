@@ -393,3 +393,57 @@ AQT_ideas = { #Aquitaine
 	}
 
 }
+
+KMK_ideas = { #Kalmykia
+
+	start = {
+		general_cost = -0.25
+		cavalry_power = 0.15
+
+	}
+	bonus = {
+		land_maintenance_modifier = -0.1
+	}
+	trigger = {
+		tag = KMK
+	}
+	
+	free = yes
+
+	KMK_western_heir = { 
+		cavalry_flanking = 0.5
+		cavalry_cost = -0.15
+
+	}
+
+	KMK_peace_with_the_world = { 
+		tolerance_heathen = 1
+		global_unrest = -1
+
+	}
+
+	KMK_dorbet = { 
+		leader_land_manuever = 1
+
+	}
+
+	KMK_battle_of_samara = { 
+		leader_land_shock = 1
+
+	}
+
+	KMK_buddhist_manuscripts = { 
+		technology_cost = -0.05
+
+	}
+
+	KMK_huurl = { 
+		horde_unity = 1
+		legitimacy = 1
+
+	}
+
+	KMK_the_frontier = {
+		land_attrition = -0.1
+
+}
