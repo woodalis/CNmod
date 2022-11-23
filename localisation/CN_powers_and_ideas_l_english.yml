@@ -138,10 +138,14 @@
  SLJ_global_navy_desc:0 "From the shores of Al-Andalus to Kalbid Italy, from the Red Sea to the Black, and from the Persian Gulf to the Gulf of Qarn Jadid, our fleets sail in the name of the Seljuqs and in the name of Allah./n/n The Fleet of Islam must grow if it is to secure Muslim trade and sovereignty around the globe."
  SLJ_expand_administration:0 "Expand the Administration"
  SLJ_expand_administration_desc:0 "The Caliphate is large, diverse, and unruly beast from a governmental perspective. While it is true that faith in Allah is enough to hold this Empire together, it wouldn't hurt to give Him some help. We need to expand the rule of beys and imams under the Caliph to make room in our burgeoning borders."
-
- AQT_ideas:0 "Aquitaine Ideas"
- AQT_ideas_start:0 "Aquitaine Traditions"
- AQT_ideas_bonus:0 "Aquitaine Ambition"
+ SLJ_lord_of_all_muslims:0 "Lord of All Muslims"
+ SLJ_lord_of_all_muslims_desc:0 "As Caliph, our ruler is the Lord of All Muslims. /n/nThis truth shows itself in the rule over Mecca and Medina, in the cries for reinforcement that ring out of Iberia, in the wars waged against the Princeley Confederation, and in the humble Quanzhou merchant who seeks our protection. Muhammad has never had a better shield."
+ SLJ_birlik:0 "Birlik"
+ SLJ_birlik_desc:0 "Our state is one built upon unity, not just untiy of Islam, but the unity of the Oghuz. Our elite is largely made up of Turks, Azeris, and Turkmens, all of close relation and cultural background. /n/nThe unity of the Oghuz will ensure loyalty in our realm evermore."
+ 
+ AQT_ideas:0 "Aquitanian Ideas"
+ AQT_ideas_start:0 "Aquitanian Traditions"
+ AQT_ideas_bonus:0 "Aquitanian Ambition"
  AQT_morale:0 "Testament to Strength"
  AQT_morale_desc:0 "Our fledging kingdom has sprung up as a regional power, but we are not yet respected by our neighbors, surrounded by intrigue and deception. We must rise to the top and show everyone that we are a force to be reckoned with as the realm expands, proving that we could not care less of what others think of us."
  AQT_trade:0 "Habour of the South"
