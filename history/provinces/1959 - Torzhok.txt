@@ -6,7 +6,7 @@ add_core = NOV
 add_core = MOS
 add_core = BEZ
 
-culture = novgorodian
+culture = russian
 religion = orthodox
 capital = "Torzhok"
 

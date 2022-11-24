@@ -2,7 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 primary_culture = russian
-add_accepted_culture = novgorodian
 religion = orthodox
 technology_group = eastern
 historical_rival = SCY

@@ -2,7 +2,7 @@
 
 owner = PSK
 controller = PSK
-culture = novgorodian
+culture = russian
 religion = orthodox
 hre = no
 base_tax = 5
