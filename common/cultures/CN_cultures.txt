@@ -148,7 +148,7 @@ oghuric = {
 	}
 
 	bulgar = {
-		
+		primary = VLB
 	}
 }
 
@@ -898,6 +898,62 @@ east_slavic = {
 		Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara 
 		Veleslava Verkhoslava Vasilisa
 		Vseslava Viacheslava Yaroslava Zabava Zvenislava
+	}
+}
+
+volga_finn = {
+	graphical_culture = easterngfx
+	mari = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
+	}
+	mokshan = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
+	}
+	erzyan = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
+	}
+	meryan = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		
+		female_names = {
+			placeholder
+		}
 	}
 }
 

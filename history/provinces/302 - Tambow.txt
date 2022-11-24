@@ -2,7 +2,7 @@
 
 owner = SCY
 controller = SCY
-culture = arsiyah
+culture = mokshan
 religion = sunni
 hre = no
 base_tax = 3 

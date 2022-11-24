@@ -2,8 +2,8 @@
 
 owner = SCY
 controller = SCY
-culture = uryssag
-religion = sunni
+culture = russian
+religion = orthodox
 hre = no
 base_tax = 4 
 base_production = 4
