@@ -1,7 +1,7 @@
 #2429 - Agan
 
 culture = ostyaki
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Variegansk"
 trade_goods = fur
 hre = no

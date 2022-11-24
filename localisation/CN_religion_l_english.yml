@@ -25,3 +25,16 @@
   lollard_rebels_name: "$RELIGION$ Zealots"
   lollard_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
   lollard_rebels_army: "$RELIGION$ Army"
+
+  # Ukonusko
+  ukonusko: "Ukonusko"
+  ukonusko_religion_desc:0 "Ukonuskoists are followers of the native religion of the Finno-Ugric peoples. Believing in a varied pantheon which changes from locality to locality, all Ukonuskoists nevertheless believe in the supremacy of Ukko. The spirits of the dead, good and bad, travel to Tuonela, a realm sectioned off from the overworld via a great river. Shamans have the power to travel to and from Tuonela to communicate with these spirits and ask what sacrifices are needed to heal people or bring good fortunes; the sacrifices restore the balance between the mortal and immortal worlds. These sacrifices take place at holy natural sites such as sacred forests and large, unusually shaped rocks."
+
+  JOMALINUSKO: "Jomalinusko"
+
+  ukonusko_rebels_demand: "Convert $COUNTRYNAME$"
+  ukonusko_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+  ukonusko_rebels_title: "Religious"
+  ukonusko_rebels_name: "$RELIGION$ Zealots"
+  ukonusko_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+  ukonusko_rebels_army: "$RELIGION$ Army"

@@ -5,7 +5,7 @@ controller = BJA
 add_core = BJA
 
 culture = bjarmian
-religion = animism
+religion = ukonusko
 capital = "Okladnikova Sloboda"
 
 hre = no

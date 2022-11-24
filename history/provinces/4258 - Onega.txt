@@ -3,7 +3,7 @@
 owner = NOV 
 controller = NOV 
 culture = bjarmian
-religion = orthodox
+religion = ukonusko
 hre = no
 base_tax = 1
 base_production = 1

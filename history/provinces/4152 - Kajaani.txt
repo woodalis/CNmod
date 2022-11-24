@@ -1,5 +1,5 @@
 culture = sapmi
-religion = catholic
+religion = ukonusko
 hre = no
 base_tax = 1 
 base_production = 1

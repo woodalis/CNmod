@@ -1,7 +1,7 @@
 #2428 - Yugan
 
 culture = ostyaki
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Yugan"
 trade_goods = fur
 hre = no

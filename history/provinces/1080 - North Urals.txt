@@ -2,7 +2,7 @@
 
 capital = "Pelym"
 culture = komi
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = ukonusko
 
 trade_goods = unknown
 hre = no

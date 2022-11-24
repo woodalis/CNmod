@@ -4,7 +4,7 @@ add_core = BJA
 
 capital = "PROV_CAP4967"
 culture = bjarmian
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = ukonusko
 
 trade_goods = unknown
 hre = no

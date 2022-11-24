@@ -1,6 +1,6 @@
 capital = "PROV_CAP4969"
 culture = wu
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = ukonusko
 
 trade_goods = unknown
 hre = no
