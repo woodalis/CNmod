@@ -1,6 +1,6 @@
 graphical_culture = westerngfx
 
-color = { 178 144 141 }
+color = { 51 94 114 }
 revolutionary_colors = { 5  9  0 } #Livonian Governate
 
 historical_idea_groups = {

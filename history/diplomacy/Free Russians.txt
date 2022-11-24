@@ -1,0 +1,6 @@
+vassal = {
+	first = BEZ
+	second = PSK
+	start_date = 1400.1.1
+	end_date = 1822.1.1
+}
