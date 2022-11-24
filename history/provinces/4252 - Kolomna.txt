@@ -2,8 +2,8 @@
 
 owner = SCY
 controller = SCY
-culture = russian
-religion = orthodox
+culture = vyatichi
+religion = sunni
 hre = no
 base_tax = 2
 base_production = 2
@@ -11,7 +11,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Kolomna"
 is_city = yes
-add_core = MOS
+add_core = VYA
 add_core = SCY
 
 discovered_by = eastern

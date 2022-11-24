@@ -1,0 +1,14 @@
+government = monarchy
+add_government_reform = steppe_horde
+government_rank = 1
+primary_culture = vyatichi
+religion = sunni
+technology_group = eastern
+capital = 4116	# Odoyev
+
+1415.1.1 = {
+	monarch = {
+		name = "Placeholder"
+		adm = 1
+		dip = 1
+		mil = 1

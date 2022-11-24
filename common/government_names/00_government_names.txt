@@ -1,0 +1,51 @@
+russian_feudal_monarchy = {
+	rank = {
+		1 = PRINCEDOM
+		2 = GRAND_PRINCIPALITY
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = KNIAZ
+		2 = GREAT_KNIAZ
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = KNIAGINIA
+		2 = GREAT_KNIAGINIA
+		3 = EMPRESS
+	}
+	consort_male = {
+		1 = KNIAZ
+		2 = GREAT_KNIAZ
+		3 = EMPEROR_CONSORT
+	}
+
+	consort_female = {
+		1 = KNIAGINIA
+		2 = GREAT_KNIAGINIA
+		3 = EMPRESS
+	}
+
+	heir_male = {
+		1 = KNIAZHICH
+		2 = KNIAZHICH
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = KNIAZHNA
+		2 = KNIAZHNA
+		3 = PRINCESS
+	}
+
+	trigger = {
+		government = monarchy
+		OR = {
+			primary_culture = russian
+			primary_culture = byelorussian
+			primary_culture = ruthenian
+		}
+	}
+}

@@ -51,6 +51,7 @@ gov_steppe_horde = {
 			culture_group = karluk
 			culture_group = oghuz
 			primary_culture = altaic_new 
+			primary_culture = vyatichi
 		}
 	}
 }

@@ -5,8 +5,8 @@ controller = SCY
 add_core = SCY
 add_core = RYA
  
-culture = uryssag
-religion = sunni
+culture = russian
+religion = orthodox
 capital = "Pereyaslavl-Ryazansky"
 
 hre = no

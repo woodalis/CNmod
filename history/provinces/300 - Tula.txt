@@ -2,8 +2,8 @@
 
 owner = SCY
 controller = SCY
-culture = ryazanian
-religion = orthodox
+culture = vyatichi
+religion = sunni
 hre = no
 base_tax = 3
 base_production = 3
@@ -11,7 +11,7 @@ trade_goods = iron
 base_manpower = 2
 capital = "Tula"
 is_city = yes
-add_core = RYA
+add_core = VYA
 add_core = SCY
 
 discovered_by = eastern
