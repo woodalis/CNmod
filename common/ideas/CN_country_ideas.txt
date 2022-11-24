@@ -445,5 +445,61 @@ KMK_ideas = { #Kalmykia
 
 	KMK_the_frontier = {
 		land_attrition = -0.1
+	}
+
+}
+
+BSH_ideas = { #Bashkiria
+
+	start = {
+		global_manpower_modifier = 0.1
+		hostile_attrition = 1
+
+	}
+	bonus = {
+		free_mil_policy = 1
+	}
+	trigger = {
+		tag = BSH
+	}
+	
+	free = yes
+
+	BSH_supplant_the_bulgars = { 
+		land_morale = 0.1
+		prestige = 1
+
+	}
+
+	BSH_fort_murtaza = { 
+		fort_maintenance_modifier = -0.10
+		defensiveness = 0.2
+	}
+
+	BSH_galiullin = { 
+		leader_land_manuever = 1
+
+	}
+
+	BSH_northern_route = { 
+		trade_efficiency = 0.05
+		caravan_power = 0.2
+	}
+
+	BSH_bashkir_khan = {
+		horde_unity = 1
+
+	}
+
+	BSH_mountain = { 
+		fire_damage_received = -0.1
+		shock_damage_received = -0.05
+
+	}
+
+	BSH_tatar_mercenaries = { 
+		mercenary_discipline = 0.05
+
+	}
 
 }
