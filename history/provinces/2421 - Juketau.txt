@@ -5,7 +5,7 @@ controller = BSH
 add_core = BSH
 add_core = VLB
 
-culture = bulgar
+culture = kazani
 religion = sunni
 capital = "Juketau"
 

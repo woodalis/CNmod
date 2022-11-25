@@ -311,6 +311,17 @@ finnic = {
 			placeholder
 		}
 	}
+	livonian = {
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+		dynasty_names = {
+			placeholder
+		}
+	}
 }
 
 permic = {
@@ -484,6 +495,22 @@ kipchak = {
 	}
 	dynasty_names = {
 		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+	}
+	kumyk = {
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
+	kazani = {
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
 	}
 }
 

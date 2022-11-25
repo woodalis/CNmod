@@ -3,9 +3,8 @@
 owner = BSH
 controller = BSH
 add_core = BSH
-add_core = VLB
 
-culture = bulgar
+culture = mari
 religion = sunni
 capital = "Ar-Chally"
 
