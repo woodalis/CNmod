@@ -1,8 +1,8 @@
 #1833 - Ji'an
 
-owner = HON
-controller = HON
-add_core = HON
+owner = MNG
+controller = MNG
+add_core = MNG
 
 culture = gan
 religion = confucianism

@@ -1,8 +1,8 @@
 #672 - Chenzhou
 
-owner = HNN
-controller = HNN
-add_core = HNN
+owner = HAA
+controller = HAA
+add_core = HAA
 
 culture = xiang
 religion = confucianism

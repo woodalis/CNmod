@@ -1,0 +1,16 @@
+bookmark =
+{
+	name = "CNCHINA_NAME"
+	desc = "CNCHINA_DESC"
+	date = 1415.1.1
+	
+	center = 682
+	
+	country = WUU
+	easy_country = WUU
+	country = XIA
+	country = HAA
+	country = MNG
+	country = YUE
+	country = YUA
+}

@@ -22,19 +22,13 @@ LIU = "countries/Liu.txt"
 SMR = "countries/Samarqand.txt"
 
 #China
-CHN = "countries/Chen.txt"
 FAN = "countries/Fang.txt"
 HAA = "countries/Han.txt"
-HEE = "countries/He.txt"
-HNN = "countries/Hunan.txt"
-HON = "countries/Hongwu.txt"
-LII = "countries/Li.txt"
 LIN = "countries/Lin.txt"
 QUA = "countries/Quanzhou.txt"
 SNG = "countries/Song.txt"
 XIA = "countries/Xia.txt"
 YUU = "countries/Yu.txt"
-ZHA = "countries/Zhang.txt"
 
 #France
 ANJ = "countries/Anjou.txt"

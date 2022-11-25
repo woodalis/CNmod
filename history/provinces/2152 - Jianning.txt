@@ -1,11 +1,11 @@
 # 2152 - Jianning
 
-owner = CHN
-controller = CHN
-add_core = CHN
+owner = MIN
+controller = MIN
+add_core = MIN
 
 culture = chimin
-religion = mahayana
+religion = confucianism
 capital = "Jianning"
 
 trade_goods = tea

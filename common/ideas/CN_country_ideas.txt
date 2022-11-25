@@ -501,5 +501,50 @@ BSH_ideas = { #Bashkiria
 		mercenary_discipline = 0.05
 
 	}
+}
 
+XIA_ideas = { #definetly not the xia
+
+    start = {
+		tolerance_heretic = 1 #ming yuzhen was a buddhist
+		defensiveness = 0.33 #sichuan is naturally very defensible
+    }
+    bonus = {
+		imperial_mandate = 0.05 
+    }
+    trigger = {
+		tag = XIA
+    }
+
+    free = yes
+
+    XIA_red_turbans_sichuan = { #ming yuzhen absolutely destroyed the yuan in sichuan while invading the region for the red turbans
+		land_morale = 0.1
+    }
+	
+	XIA_red_turban_rivalry = { #the xia was originally founded cuz the leader of the han assassinated a red turban rebel, starting a big rivalry that lasts to this day
+		diplomatic_reputation = 1
+		spy_offence = 0.15
+    }
+
+    XIA_conquer_yunnan_mongols = { #the xia has been trying (and failing) to subdue the yuan remnants in the dali kingdom for decades
+		fort_maintenance_modifier = -0.2
+    }
+
+    XIA_sichuan_agriculture = { #wow this giant river basin is great for agriculture? i had no idea
+		production_efficiency = 0.1
+    }
+
+    XIA_diplomatic_unification = { #war bad, just vassalize everyone
+		diplomatic_upkeep = 2
+		liberty_desire = -15
+    }
+
+    XIA_sichuan_missionaries = { #catholic and nestorian missionaries fuck around in sichuan building churches and introducing new technology
+		global_institution_spread = 0.25
+    }
+
+    XIA_southward_bound = { #inrp the xia were mostly focused on expanding southwards after unifying china
+		infantry_power = 0.1
+    }
 }

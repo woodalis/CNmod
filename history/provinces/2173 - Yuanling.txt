@@ -1,8 +1,8 @@
 # 2173 - Yuanling
 
-owner = HNN
-controller = HNN
-add_core = HNN
+owner = HAA
+controller = HAA
+add_core = HAA
 
 culture = miao
 religion = animism

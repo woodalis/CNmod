@@ -1,8 +1,8 @@
 #4199 - Tongren
 
-owner = HNN
-controller = HNN
-add_core = HNN
+owner = HAA
+controller = HAA
+add_core = HAA
 
 culture = miao
 religion = animism

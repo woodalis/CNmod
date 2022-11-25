@@ -1,8 +1,8 @@
 #700 - Shaanxi
 
-owner = ZHA
-controller = ZHA
-add_core = ZHA
+owner = JIN
+controller = JIN
+add_core = JIN
 
 culture = xibei
 religion = confucianism

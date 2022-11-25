@@ -3,7 +3,7 @@
 owner = YUE
 controller = YUE
 add_core = YUE
-add_core = HEE
+add_core = CZH
 
 culture = cantonese
 religion = confucianism

@@ -1,8 +1,8 @@
 # 2150 - Jinhua
 
-owner = HON
-controller = HON
-add_core = HON
+owner = MNG
+controller = MNG
+add_core = MNG
 
 culture = wu
 religion = confucianism

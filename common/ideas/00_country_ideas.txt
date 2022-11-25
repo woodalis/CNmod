@@ -16856,9 +16856,9 @@ UKR_ideas = {
 
 
 
-		####
-		#CN#
-		####
+####
+#CN#
+####
 		
 		
 		
@@ -16884,7 +16884,7 @@ CSH_ideas = { #Shun
 
     CSH_divide_land_abolish_grain_taxes = { #land reform increases agricultural output and appeases the peasants
 		production_efficiency = 0.1
-		global_unrest = -0.1
+		global_unrest = -1
     }
 
     CSH_killing_cattle_opening_gates = { #people like us and open the gates of their cities for our armies
@@ -16901,8 +16901,8 @@ CSH_ideas = { #Shun
     }
 
     CSH_gao_guiying = { #li zicheng's wife and military commander
-		land_morale = 0.1
 		may_recruit_female_generals = yes
+		land_morale = 0.1
     }
 
     CSH_fight_famine_rebuild_country = { #wow china got completely wrecked, lets try and fix that

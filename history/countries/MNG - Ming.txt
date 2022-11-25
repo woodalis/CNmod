@@ -7,4 +7,15 @@ religion = confucianism
 
 primary_culture = jianghuai
 
-capital = 688 # Kaifeng
+capital = 1821 # Nanjing
+
+1402.7.13 = {
+	monarch = {
+		name = "Di"
+		dynasty = "Zhu"
+		birth_date = 1360.5.2
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+}

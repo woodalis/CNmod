@@ -1,8 +1,8 @@
 # 2177 - Ningwu
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
+add_core = WUU
 add_core = JIN
 
 culture = jin
@@ -15,7 +15,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-#fort_15th = yes #the Nine Garrisons
 
 discovered_by = chinese
 discovered_by = nomad_group

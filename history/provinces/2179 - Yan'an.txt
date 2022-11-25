@@ -1,8 +1,8 @@
 # 2179 - Yan'an
 
-owner = ZHA
-controller = ZHA
-add_core = ZHA
+owner = JIN
+controller = JIN
+add_core = JIN
 
 culture = jin
 religion = confucianism

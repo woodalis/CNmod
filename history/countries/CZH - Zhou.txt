@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = chinese_warlord
+government_rank = 1
+technology_group = chinese
+
+religion = confucianism
+
+primary_culture = cantonese
+add_accepted_culture = hakka
+
+capital = 2156	# Shantou
+
+1412.8.12 = {
+	monarch = {
+		name = "Qiyu"
+		dynasty = "He"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

@@ -1,8 +1,8 @@
 # 2153 - Tingzhou
 
-owner = HON
-controller = HON
-add_core = HON
+owner = MNG
+controller = MNG
+add_core = MNG
 
 culture = hakka
 religion = confucianism

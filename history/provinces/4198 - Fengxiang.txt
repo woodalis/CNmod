@@ -1,8 +1,8 @@
 #4198 - Fengxiang
 
-owner = LII
-controller = LII
-add_core = LII
+owner = QIN
+controller = QIN
+add_core = QIN
 
 culture = xibei
 religion = confucianism

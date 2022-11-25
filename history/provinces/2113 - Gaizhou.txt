@@ -3,7 +3,6 @@
 owner = YUA
 controller = YUA
 add_core = YUA
-add_core = MNG
 
 culture = shandong_culture
 religion = confucianism

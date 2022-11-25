@@ -8,3 +8,14 @@ religion = confucianism
 primary_culture = gan
 
 capital = 683 # Nanchang
+
+1408.9.2 = {
+	monarch = {
+		name = "Mingshan"
+		dynasty = "Chen"
+		birth_date = 1384.1.15 #chen mingshan was a real person but i dont know his birthdate, todo i guess?
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

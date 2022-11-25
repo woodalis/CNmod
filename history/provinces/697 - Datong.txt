@@ -3,7 +3,7 @@
 owner = YUA
 controller = YUA
 add_core = YUA
-add_core = MNG
+add_core = WUU
 add_core = JIN
 
 culture = jin

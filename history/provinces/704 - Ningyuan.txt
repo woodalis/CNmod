@@ -3,10 +3,9 @@
 owner = YUA
 controller = YUA
 add_core = YUA
-add_core = MNG
-culture = chihan
 
 religion = confucianism
+culture = chihan
 capital = "Ningyuan"
 
 trade_goods = grain

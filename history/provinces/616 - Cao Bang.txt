@@ -4,6 +4,7 @@ owner = DAI
 controller = DAI
 add_core = DAI
 add_core = TOK
+add_core = CGS
 
 culture = zhuang
 religion = mahayana

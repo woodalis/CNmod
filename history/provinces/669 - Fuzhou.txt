@@ -1,11 +1,11 @@
 #669 - Fuzhou
 
-owner = CHN
-controller = CHN
-add_core = CHN
+owner = MIN
+controller = MIN
+add_core = MIN
 
 culture = chimin
-religion = mahayana
+religion = confucianism
 capital = "Fuzhou"
 
 trade_goods = tea

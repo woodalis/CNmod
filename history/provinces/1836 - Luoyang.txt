@@ -1,12 +1,8 @@
 #1836 - Nanyang
 
-latent_trade_goods = {
-	coal
-}
-
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUU
+controller = WUU
+add_core = WUU
 add_core = LNG
 
 culture = zhongyuan
@@ -20,8 +16,10 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 
-#fort_15th = yes #More than 1 Weisuo
 discovered_by = chinese
 discovered_by = nomad_group
 
+latent_trade_goods = {
+	coal
+}
 add_province_triggered_modifier = mahayana_louyang
