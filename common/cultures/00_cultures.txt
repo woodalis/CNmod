@@ -1828,25 +1828,8 @@ south_slavic = {
 			"Krum" "Dulo" "Cometopuli" "Asen" "Terter" "Shishman" "Teleki"
 		}
 	}
-	albanian = {
-		primary = ALB
-		male_names = {
-			Gjergj Lekë Gjon Kostandin Lulëzim Pal Tanush Aleksandër Karolus Filippo Adnan Agim Bashkim Besnik 
-			Dardan Dhurim Dritëro Elidon Erjon Fatmir Flamur Florin Hekuran Ilir Ismail Klodian Luigj Milaim 
-			Pashko Pëllumb Përparim Pjetër Rrok Shpëtim Tahir Viktor Xhevat Ylli Zenel Halil Ali Mustafa Qemal 
-			Mehmet Ramiz Edi Demaci Edon Dukagjin Haxhi Lishëndri Mensur Kreshnik Rahman Nxhiku Riza Rexhep 
-			Sulejman Selim Sadik Bujar Nikolla Enver Ramadan
-		}
-		female_names = {
-			Gjylo Afërdita Blerta Bora Dafina Dardana Era Fatmire Flutura Gentiana Jehona Lindita Lule Luljeta Pranvera Shpresa 
-			Shqipe Teuta Venera Vera Vesa Yllka
-		}
-	}
-	dynasty_names = { 
-		"Trpimirovic" "Svetoslavic" "Kosovic" "Kresimirovic" "Zrinski" "Domagojevic" "Hrvatinic" "Kotromanic" "Brankovic" "Lazarevic" "Ibrahimovic"
-	}
 }
-	
+
 west_slavic = {
 	graphical_culture = westerngfx
 
@@ -2357,45 +2340,6 @@ byzantine = {
 			"Kentrokoukouros" "Antigonos" "Pastillas" "Katakalitzes" "Manikophagos" "Kolokynthis" "Rachites" "Bua Spatas" 
 			"Apsimaros" "Artemios"
 		}
-	}
-	goths = {
-		primary = FEO
-		dynasty_names = { 
-			"of Gothia"
-		}
-		male_names = {
-			Alexios Ioannes Manuel David Basileios Skantarios Andronikos Michael Georgios Aineias 
-			Aristoteles Bartholomaios Chrysanthos Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor 
-			Iason Iosephos Kastor Kreon Matthaios Nestor Nikolaos Nikomedes Orestes Palaemon Pavlos 
-			Pelagios Alexandros
-			Philemon Philippos Prokopios Stefanos Theodoros Timotheos Ambrosios Petros Herakles Hermes 
-			Hippolytos Hypatios Iakobos Jacob Ignatios Ignatius Innokentios Ioannes John Ioannikios 
-			Iordanes Ioseph Joseph Isaakios Isaias Isidoros Ioulianos Julian Ioustinianos Justinian 
-			Ioustinos Justin Kaisarios Caesar
-			Kallinikos Kallistos Komitas Konstantinos Constantine Konstantios Constantius Konstas Constans 
-			Kosmas Cosmas Kyriakos Kyrillos Cyril Kyros Laurentios Laurence Lazaros Leon Leo Leontios 
-			Leontius Loukas Makarios Manuel Markos Marcus
-			Matthaios Matthew Maurikios Maximos Maximus Megistos Magnus Meletios Methodios Michael Michael 
-			Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos Nicholas Niphon Orestes Pamphilios 
-			Pankratios Pantoleon Paschalis
-			Pavlos Paul Pelagios Pelagius Petros Peter Philaretos Philippos Philip Philotheos Phokas 
-			Photios Polykarpos Porphyrios Prokopios Procopius Pyrros Raphail Romanos Roman Sabas Samuel 
-			Samuel Serapion Sebastianos Sebastian Sergios Sergius Stephanos Stephen
-			Staurakios Symeon Simon Symmachos Symmachus Theocharistos Theodoros Theodore Theodosios 
-			Theodosios Theodotos Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas 
-			Thomas Tiberios Tiberius Traianos Trajan
-			Timotheos Tryphon Valerios Valerius Zacharias Zenobios Zenon
-		}
-		female_names = {
-			Agape Photine Sotiria Leontia Margarita Margaret Maria Maria Markia Marcia Martha Martha Melissa Melisende Nikarete 
-			Nikoletta Nonna Parthena Pavlina Paulina Pelagia Petronia Petronia Philippa Philippa Phyllis 
-			Pulcheria Pulcheria Rhodanthe Romane Romylia Sergia Sergia Sibylla Sibylla
-			Simonis Sophia Sophia Stephania Stephania Thekla Theochariste Theodora Theodora Theodosia 
-			Theodosia Theognosia Theoktiste Theophano Thomais Valeria Valeria Viviana Viviana Xene Zenobia 
-		}
-	}
-	dynasty_names = { 
-		Kantakouzenos Doukas Komnenos Palaiologos Laskaris Angelos Phokas
 	}
 }
 
