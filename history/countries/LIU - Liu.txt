@@ -6,6 +6,8 @@ technology_group = chinese
 religion = confucianism
 add_harmonized_religion = sunni
 add_harmonized_religion = vajrayana
+add_harmonized_religion = buddhism
+add_harmonized_religion = catholic
 
 primary_culture = uyghur
 add_accepted_culture = tibetan

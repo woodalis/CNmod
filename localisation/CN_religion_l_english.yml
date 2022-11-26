@@ -38,3 +38,16 @@
   ukonusko_rebels_name: "$RELIGION$ Zealots"
   ukonusko_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
   ukonusko_rebels_army: "$RELIGION$ Army"
+  
+  # Nestorian
+  nestorian: "Nestorian"
+  nestorian_religion_desc:0 "The Church of the East, also called the Nestorian Church, is a christian denomination that split from mainstream christianity in the early 5th century. Initially most Nestorian Christians lived in Persia and Mesopotamia, but the religion spread eastwards over the centuries, eventually reaching as far as China and India. Due to repeated persecution and suppression, the Church eventually began to decline, and by 1415 has been reduced to minor communities of faithful in the relatively christian-tolerant Yuan and Western Liao Empires."
+
+  CHALDEAN: "Chaldean"
+
+  nestorian_rebels_demand: "Convert $COUNTRYNAME$"
+  nestorian_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+  nestorian_rebels_title: "Religious"
+  nestorian_rebels_name: "$RELIGION$ Zealots"
+  nestorian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+  nestorian_rebels_army: "$RELIGION$ Army"

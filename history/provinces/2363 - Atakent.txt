@@ -8,7 +8,7 @@ add_core = SHY
 add_core = TRS
 
 culture = khazak
-religion = sunni
+religion = nestorian
 capital = "Atakent"
 
 trade_goods = livestock

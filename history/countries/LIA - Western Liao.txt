@@ -7,6 +7,7 @@ religion = confucianism
 add_harmonized_religion = sunni
 add_harmonized_religion = vajrayana
 add_harmonized_religion = tengri_pagan_reformed
+add_harmonized_religion = catholic
 
 primary_culture = khitan
 add_accepted_culture = uyghur

@@ -6,7 +6,7 @@ add_core = LIU
 add_core = KOK
 
 culture = uyghur
-religion = sunni
+religion = nestorian
 capital = "Kokand"
 
 trade_goods = iron

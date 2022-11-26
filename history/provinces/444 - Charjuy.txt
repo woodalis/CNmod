@@ -6,7 +6,7 @@ add_core = SMR
 add_core = KHI
 
 culture = uzbehk
-religion = sunni
+religion = nestorian
 capital = "Charjuy"
 
 trade_goods = livestock

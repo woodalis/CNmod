@@ -921,6 +921,23 @@ christian = {
 		}
 	}
 	
+	nestorian = {
+        icon = 33
+        color = { 201 183 95 }
+        country = {
+			adm_tech_cost_modifier = -0.1
+			spy_offence = 0.2
+		}
+		country_as_secondary = {
+			spy_offence = 0.15
+		}
+		province = {
+			local_missionary_strength = -0.03 #nestorian endurance
+			local_hostile_attrition = 1
+		}
+		heretic = { CHALDEAN } #todo
+	}
+	
 	harmonized_modifier = harmonized_christian
 	
 	crusade_name = CRUSADE
