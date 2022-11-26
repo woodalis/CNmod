@@ -1,7 +1,7 @@
 #298 - Kursk
 
-owner = RYA
-controller = RYA
+owner = KRS
+controller = KRS
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 1
 capital = "Kursk"
 is_city = yes
-add_core = RYA
+add_core = KRS
 add_core = CHR
 add_local_autonomy = 25
 discovered_by = western

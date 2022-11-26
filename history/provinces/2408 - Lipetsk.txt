@@ -1,7 +1,7 @@
 #2408 - Yelets
 
-owner = RYA
-controller = RYA
+owner = KRS
+controller = KRS
 culture = vyatichi
 religion = orthodox
 hre = no
@@ -11,7 +11,8 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Yelets"
 is_city = yes
-add_core = RYA
+add_core = KRS
+add_core = VYA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

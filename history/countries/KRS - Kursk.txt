@@ -1,0 +1,15 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = ruthenian
+religion = orthodox
+technology_group = eastern
+historical_rival = VYA
+capital = 298	# Kursk
+
+1415.1.1 = {
+	monarch = {
+		name = "Placeholder"
+		adm = 1
+		dip = 1
+		mil = 1
