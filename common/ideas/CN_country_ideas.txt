@@ -452,8 +452,8 @@ KMK_ideas = { #Kalmykia
 BSH_ideas = { #Bashkiria
 
 	start = {
-		global_manpower_modifier = 0.1
-		hostile_attrition = 1
+		global_manpower_modifier = 0.1 
+		hostile_attrition = 1 #hard to conquer
 
 	}
 	bonus = {
@@ -465,18 +465,18 @@ BSH_ideas = { #Bashkiria
 	
 	free = yes
 
-	BSH_supplant_the_bulgars = { 
+	BSH_supplant_the_bulgars = { #bulgars historically ruled the Bashkirs
 		land_morale = 0.1
 		prestige = 1
 
 	}
 
-	BSH_fort_murtaza = { 
+	BSH_fort_murtaza = { #MLB reference lel
 		fort_maintenance_modifier = -0.10
 		defensiveness = 0.2
 	}
 
-	BSH_galiullin = { 
+	BSH_galiullin = { #chad general
 		leader_land_manuever = 1
 
 	}
@@ -486,18 +486,18 @@ BSH_ideas = { #Bashkiria
 		caravan_power = 0.2
 	}
 
-	BSH_bashkir_khan = {
+	BSH_bashkir_khan = { #bashkir tribes come together
 		horde_unity = 1
 
 	}
 
-	BSH_mountain = { 
+	BSH_mountain = { #urals and folklore
 		fire_damage_received = -0.1
 		shock_damage_received = -0.05
 
 	}
 
-	BSH_tatar_mercenaries = { 
+	BSH_tatar_mercenaries = { #bashkirs fought with and against the kazan tatars
 		mercenary_discipline = 0.05
 
 	}
