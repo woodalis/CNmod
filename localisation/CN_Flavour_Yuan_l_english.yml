@@ -1,0 +1,33 @@
+﻿l_english:
+  
+  #Yuan Disaster Loc
+  yuan_collapse:0 "Crisis of the Yuan Dynasty"
+  YUA_yuan_collapse_prelude:0 "Last Preparations"
+  WUU_LIA_yuan_collapse_prelude:0 "Preparing to Strike"
+  YUA_disrupted_supply_lines:0 "Disrupted Supply Network"
+  
+  #Yuan Disaster Events
+  
+  yuan_collapse.1.t:0 "Sunset of the Yuan"
+  yuan_collapse.1.d:0 "todo: tl;dr on yuan history, country sucks, revolts and foreign invasion soon"
+  yuan_collapse.1.a:0 "The calm before the storm..."
+  yuan_collapse.1.b:0 "todo: description"
+  
+  yuan_collapse.2.t:0 "Peasant Revolt in Zhili"
+  yuan_collapse.2.d:0 "todo: peasants hate us and there's a minor revolt in zhili"
+  yuan_collapse.2.a:0 "Crush them, before they spread!"
+  
+  yuan_collapse.20.t:0 "Tuvan Uprising"
+  yuan_collapse.20.d:0 "todo: tuvans are revolting, they're not that important but thats also a reason why you might just not wanna bother w/ them"
+  yuan_collapse.20.a:0 "Pacify them."
+  yuan_collapse.20.b:0 "I am a Tuvan!"
+  yuan_collapse.20.c:0 "..."
+  
+  yuan_collapse.22.t:0 "Great Yan Revolt"
+  yuan_collapse.22.d:0 "todo: oh god oh fuck oh god oh fuck"
+  yuan_collapse.22.a:0 "We must relieve Khanbaliq immediately!"
+  
+  yuan_collapse.30.t:0 "The Moment to Strike"
+  yuan_collapse.30.d:0 "todo: go fourth and destroy the mongols"
+  yuan_collapse.30.a:0 "It's time to finish what the Red Turbans started."
+  yuan_collapse.30.b:0 "It's time to ride home."

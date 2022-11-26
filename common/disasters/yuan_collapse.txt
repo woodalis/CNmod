@@ -29,6 +29,7 @@ yuan_collapse = {
 	can_end = {
 		num_of_rebel_armies = 0
 		NOT = { num_of_rebel_controlled_provinces = 1 }
+		is_at_war = no
 		stability = 1
 	}
 	
@@ -41,4 +42,10 @@ yuan_collapse = {
 	on_start = yuan_collapse.10
 	on_end = yuan_collapse.100
 	
+	on_monthly = {
+		events = {
+		}
+		random_events = {
+		}
+	}
 }
