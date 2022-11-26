@@ -552,12 +552,12 @@ XIA_ideas = { #definetly not the xia
 KRS_ideas = { #Kursk
 
 	start = {
-		global_manpower_modifier = 0.1 
-		hostile_attrition = 1 #hard to conquer
+		manpower_recovery_speed = 0.15
+		global_regiment_cost = -0.10
 
 	}
 	bonus = {
-		free_mil_policy = 1
+		fire_damage = 0.1	
 	}
 	trigger = {
 		tag = KRS
@@ -565,40 +565,38 @@ KRS_ideas = { #Kursk
 	
 	free = yes
 
-	_supplant_the_bulgars = { 
-		land_morale = 0.1
-		prestige = 1
+	KRS_rebuild = { #irl Kursk was destroyed by the mongols, gonna use that as inspiration for some Crimea lore
+		build_cost = -0.1
 
 	}
 
-	_fort_murtaza = { 
-		fort_maintenance_modifier = -0.10
-		defensiveness = 0.2
+	KRS_dva_kurska = { #playing Lithuania and Scytho-Rus' against eachother
+		improve_relation_modifier = 0.2
 	}
 
-	_galiullin = { 
-		leader_land_manuever = 1
-
+	KRS_vsevol = { #chad general w/ recruiter
+		leader_land_fire = 1
+		global_regiment_recruit_speed = -0.10
 	}
 
-	_northern_route = { 
-		trade_efficiency = 0.05
-		caravan_power = 0.2
-	}
-
-	_bashkir_khan = { 
-		horde_unity = 1
+	KRS_resist_ordo = { #ordo did assassination in lore
+		global_spy_defence = 0.3
 
 	}
 
-	_mountain = { 
-		fire_damage_received = -0.1
-		shock_damage_received = -0.05
+	KRS_all_must_serve = { 
+		global_manpower_modifier = 0.2
+		may_recruit_female_generals = yes
 
 	}
 
-	_tatar_mercenaries = {
-		mercenary_discipline = 0.05
+	KRS_death_to_vyatichi = { #rivalry and war
+		culture_conversion_cost = -0.15
 
+	}
+
+	KRS_patriarch_of_kursk = {
+		global_missionary_strength = 0.01
+		yearly_patriarch_authority = 0.005
 	}
 }
