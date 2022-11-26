@@ -716,6 +716,16 @@ mongolic = {
 			Temülen Börte Mandukhai Samar Zaufishan 
 		}
 	}
+	turko_mongol = {
+		male_names = {
+			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen Güshi Lha-bzang Khara Khula Kho Sengge Tseten 
+			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai Bäki Bayan Dayan Hami Molon Oori 
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlök
+		}
+		female_names = {
+			Hoelun Tamülün Sorghaghtani Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
 	male_names = {
 		Abagha Achigh Aguchu Ajai Ajinai Akhutai Alagh Alchi Alchidai Altan Ambaghai Arkhai Arasen 
 		Babur Badai Bagaridai Bala Barghujin Bartan Batu Bedugun Begter Belgutei Belgunutei Bilge Berke 
@@ -992,22 +1002,6 @@ volga_finn = {
 	}
 }
 
-placeholder_group = {
-	graphical_culture = asiangfx
-	placeholder_culture = {
-		dynasty_names = {
-			placeholder
-		}
-		
-		male_names = {
-			placeholder
-		}
-		
-		female_names = {
-			placeholder
-		}
-	}
-}
 eastern_romance = {
 	graphical_culture = easterngfx
 	romanian = {

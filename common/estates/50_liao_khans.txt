@@ -48,7 +48,7 @@ estate_liao_khans = {
 	contributes_to_curia_treasury = no
 
 	privileges = {
-
+		estate_liao_khans_nomadic_privileges
 	}
 
 	agendas = {

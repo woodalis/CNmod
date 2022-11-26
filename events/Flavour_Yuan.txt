@@ -1,0 +1,21 @@
+
+country_event = {
+	id = yuan_collapse.1
+	title = yuan_collapse.1.t
+	desc = yuan_collapse.1.d
+	picture = BORDER_TENSION_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		tag = YUA
+	}
+	
+	option = {		
+		name = "yuan_collapse.1.a"
+		add_country_modifier = { 
+			name = YUA_yuan_collapse_prelude
+			duration = -1
+		}
+	}
+}

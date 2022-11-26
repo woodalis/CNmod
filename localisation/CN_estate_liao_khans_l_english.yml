@@ -1,0 +1,13 @@
+﻿l_english:
+
+ #khans localization
+ estate_liao_khans:0 "Khans and Tribes"
+ estate_liao_khans_desc:0 "The many nomadic Tribes and Khanates that have sworn allegiance to the Empire are both it's backbone and it's bane. Our control over the steppes depends on maintaining their already questionable loyalty, but their natural proficiency at mounted warfare has been of immense aid to the Empire."
+ estate_liao_khans_ownership:0 "Nomadic Land Ownership"
+ liao_khans_loyalty_modifier:1 "Nomadic Loyalty Equilibrium"
+ liao_khans_influence_modifier:0 "Nomadic Influence"
+ 
+ 
+ #khans privileges
+ estate_liao_khans_nomadic_privileges:0 "Ancestral Rights of the Khans and Federations"
+ estate_liao_khans_nomadic_privileges_desc:0 "For centuries, Central Asian politics have been dominated by the various nomadic khanates that roam the steppes terrorizing the sedentary population. Though the Imperial Government has managed to enforce an end to the raids (inter-tribal wars, however, were not prohibited), we had to grant the Khans a variety of concessions in return. As long as the power of the nomads does not diminish, the Empire cannot effectively administer it's frontiers and hinterlands.\n\n§RNew technological advances, particularly in the field of firearms, may finally give the settled population the upper hand against the nomads! Such an upset is bound to cause unrest, however...§!"

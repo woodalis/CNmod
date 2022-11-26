@@ -1,0 +1,17 @@
+estate_liao_khans = {
+	modifier_definition = {
+		type = loyalty
+		key = liao_khans_loyalty_modifier
+		trigger = {
+			has_estate = estate_liao_khans
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = liao_khans_influence_modifier
+		trigger = {
+			has_estate = estate_liao_khans
+		}
+	}
+}

@@ -5,7 +5,7 @@ controller = LIA
 add_core = LIA
 add_core = TRS
 
-culture = mongol
+culture = turko_mongol
 religion = tengri_pagan_reformed
 capital = "Sozak"
 

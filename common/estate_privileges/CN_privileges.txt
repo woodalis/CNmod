@@ -43,20 +43,24 @@ estate_burghers_china_semu_merchants = { #Muslim Merchants in China
 # LIAO NOMADS #
 ###############
 
-estate_liao_khans_nomadic_privileges = { #unfinished
+estate_liao_khans_nomadic_privileges = { #rights and privileges of the central asian nomads and tribal confederations
 	icon = privilege_raise_host
 	max_absolutism = -10
 	loyalty = 0.10
+	land_share = 0
+	influence = 0.20
+	
 	is_valid = {
 		tag = LIA
 	}
 	can_select = {
-		always = no
 	}
-
+	on_granted = {
+	}
 	can_revoke = {
-		always = no
+		always = no #revoked via event when firearms become widespread
 	}
+	
 	penalties = {
 		global_autonomy = 0.05
 		global_tax_modifier = -0.05
@@ -64,6 +68,7 @@ estate_liao_khans_nomadic_privileges = { #unfinished
 	benefits = {
 		governing_capacity = 100
 	}
+	
 	ai_will_do = {
 		factor = 10
 	}
