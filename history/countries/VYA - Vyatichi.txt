@@ -6,6 +6,9 @@ religion = sunni
 technology_group = eastern
 capital = 4116	# Odoyev
 
+historical_friend = SCY
+historical_rival = KRS
+
 1415.1.1 = {
 	monarch = {
 		name = "Placeholder"

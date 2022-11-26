@@ -8,11 +8,17 @@ religious_school = hanafi_school
 
 primary_culture = arsiyah
 add_accepted_culture = uryssag
+add_accepted_culture = vyatichi
 
 capital = 1754	#Murom
 
 historical_rival = POL
 historical_rival = NOV
+historical_rival = BEZ
+historical_rival = PSK
+historical_rival = LIT
+historical_friend = VYA
+historical_friend = BJA
 
 1405.11.23 = {
 	monarch = {

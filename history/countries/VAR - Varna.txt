@@ -3,8 +3,11 @@ government_rank = 1
 add_government_reform = feudalism_reform
 technology_group = eastern
 primary_culture = bulgarian
+add_accepted_culture = greek
 religion = orthodox
 capital = 159
+historical_friend = EPI
+historical_rival = ROM
 
 1444.6.25 = {
 	monarch = {

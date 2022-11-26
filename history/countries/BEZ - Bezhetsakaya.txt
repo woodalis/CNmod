@@ -6,6 +6,7 @@ religion = orthodox
 technology_group = eastern
 historical_rival = SCY
 historical_friend = NOV
+historical_friend = PSK
 capital = 4117	# Bezhets
 
 1415.1.1 = {

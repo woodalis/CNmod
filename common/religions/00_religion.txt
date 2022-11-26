@@ -17,11 +17,12 @@ christian = {
 	
 	
 	catholic = {
-		color = { 177 177 20 }
+		color = { 167 167 15 }
 		icon = 1
 		allowed_conversion = {
 			reformed
 			protestant
+			waldensian
 		}
 		country = {
 			tolerance_own = 1
@@ -351,7 +352,7 @@ christian = {
 	}
 	
 	hussite = {
-		color = { 144 47 38 }
+		color = { 143 35 30 }
 		icon = 22
 
 		allowed_center_conversion = {
@@ -646,7 +647,7 @@ christian = {
 	}
 
 	orthodox = {
-		color = { 154 110 19 }
+		color = { 155 103 13 }
 		icon = 4
 		country = {
 			stability_cost_modifier = -0.1
@@ -805,7 +806,7 @@ christian = {
 	}
 
 	lollard = {
-		color = { 179 82 188 }
+		color = { 173 68 184 }
 		icon = 31
 		allowed_conversion = {
 			reformed
@@ -850,7 +851,7 @@ christian = {
 	}	
 
 	waldensian = {
-		color = { 83 154 148 }
+		color = { 78 155 148 }
 		icon = 30
 
 		allowed_center_conversion = {
@@ -891,7 +892,7 @@ christian = {
 		flags_with_emblem_percentage = 20
 		flag_emblem_index_range = { 1 4 }
 
-		color = { 178 38 76 }
+		color = { 168 66 123 }
 		icon = 14
 		country = {
 			defensiveness = 0.1
@@ -1449,7 +1450,7 @@ muslim = {
 	}
 	
 	sunni = {
-		color = { 0 153 0 }
+		color = { 5 150 3 }
 		icon = 5
 		country = {
 			cav_to_inf_ratio = 0.10
@@ -1469,7 +1470,7 @@ muslim = {
 	}
 
 	shiite = {
-		color = { 0 204 0 }
+		color = { 10 194 15 }
 		icon = 6
 		country = {
 			heir_chance = 1.0
@@ -1489,7 +1490,7 @@ muslim = {
 	}
 	
 	ibadi = {
-		color = { 0 102 0 }
+		color = { 10 102 0 }
 		icon = 16
 		country = {
 			heir_chance = 1.0
@@ -1519,7 +1520,7 @@ eastern = {
 	flag_emblem_index_range = { 58 80 }
 
 	buddhism = { #Theravada
-		color = { 204 76 0 }
+		color = { 184 66 0 }
 		icon = 24
 		allowed_conversion = {
 			vajrayana
@@ -1550,7 +1551,7 @@ eastern = {
 	}
 	
 	vajrayana = {
-		color = { 204 76 76 }
+		color = { 181 85 85 }
 		icon = 25
 		allowed_conversion = {
 			mahayana
@@ -1581,7 +1582,7 @@ eastern = {
 	}
 	
 	mahayana = {
-		color = { 204 76 127 }
+		color = { 191 76 130 }
 		icon = 23
 		allowed_conversion = {
 			vajrayana
@@ -1612,7 +1613,7 @@ eastern = {
 	}
 
 	confucianism = {
-		color = { 214 229 140 }
+		color = { 194 209 130 }
 		icon = 9
 		country = {
 			tolerance_heretic = 2
@@ -1657,7 +1658,7 @@ dharmic = {
 	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
 
 	hinduism = {
-		color = { 0 204 204 }
+		color = { 5 184 184 }
 		icon = 8
 		allowed_conversion = {
 			sikhism
@@ -2361,7 +2362,7 @@ pagan = {
 		heretic = { BEAR_SPIRIT }	
 	}
 	ukonusko = {
-		color = { 186 100 166 }
+		color = { 94 87 11 }
 		icon = 32
 		country = {
 			defensiveness = 0.1
@@ -2471,7 +2472,7 @@ pagan = {
 	
 	tengri_pagan_reformed = {
 		icon = 27
-		color = { 25 76 217 }
+		color = { 60 110 197 }
 		country = {
 			cav_to_inf_ratio = 0.25
 			global_regiment_cost = -0.2
@@ -2507,7 +2508,7 @@ jewish_group = {
 
 	jewish = {
 		icon = 20
-		color = { 0 156 231 }
+		color = { 28 186 104 }
 		country = {
 			tolerance_own = 2
 			advisor_pool = 1

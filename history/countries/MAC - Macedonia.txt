@@ -6,3 +6,6 @@ religion = orthodox
 technology_group = eastern
 capital = 4780
 fixed_capital = 4780
+
+historical_rival = ATH
+historical_rival = EPI

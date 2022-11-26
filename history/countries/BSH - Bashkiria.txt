@@ -6,3 +6,5 @@ religion = sunni
 technology_group = nomad_group
 capital = 475	# Bashkortostan
 religious_school = hanafi_school
+historical_rival = SCY
+historical_friend = KMK

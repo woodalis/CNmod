@@ -9,6 +9,7 @@ religious_school = hanafi_school
 primary_culture = bjarmian
 
 historical_rival = NOV
+historical_friend = SCY
 
 capital = 1955	#Arkhangelsk/Kaijakar
 

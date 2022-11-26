@@ -5,3 +5,5 @@ technology_group = eastern
 primary_culture = bulgarian
 religion = orthodox
 capital = 1765
+
+historical_rival = SER
