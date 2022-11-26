@@ -179,6 +179,55 @@ BJA_ideas = { #Bjarmaland
 	}
 }
 
+UKO_ideas = { #ukko
+
+    start = {
+		num_accepted_cultures = 3
+		female_advisor_chance = 0.25 #mári
+    }
+    bonus = {
+		fire_damage_received = -0.15
+    }
+    trigger = {
+		tag = UKO
+    }
+
+    free = yes
+
+    UKO_frozen_confederation = { #ukko is a massive frozen hellhole with little to no infrastructure, but we're gonna make it work somehow
+		republican_tradition = 0.5
+		hostile_attrition = 2
+    }
+
+    UKO_ukko = { #the country is literally called "ukko"
+		tolerance_own = 2
+		global_missionary_strength = 0.02
+    }
+
+    UKO_go_east = { #we must find the mythical land of yamalium
+		colonists = 1
+		auto_explore_adjacent_to_colony = yes
+    }
+
+    UKO_icebreakers = { #ships designed to break through ice
+		range = 0.75
+		trade_efficiency = 0.1
+    }
+	
+	UKO_central_heating = { #it's cold here, let's make some fires
+		development_cost = -0.15
+    }
+
+    UKO_hydraulic_empire = { #hydropower
+		global_trade_goods_size_modifier = 0.1
+    }
+
+    UKO_scientific_wonders = { #ukko has really cool technology like khruschchyovkas
+		technology_cost = -0.1
+		build_cost = -0.25
+    }
+}
+
 SUH_ideas = { #Suhraltanubia
 
 	start = {

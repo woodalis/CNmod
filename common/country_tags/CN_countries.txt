@@ -121,8 +121,8 @@ NAM = "countries/Namur.txt"
 LCA = "countries/Lenca.txt"
 
 #Middle East
-SLJ = "countries/Seljuqids.txt"
 AKG = "countries/Akgulids.txt"
+SLJ = "countries/Seljuqids.txt"
 HTM = "countries/Hetumids.txt"
 
 #Mongolia
@@ -134,13 +134,14 @@ HOY = "countries/Hoya.txt"
 STP = "countries/Stolp.txt"
 
 #Russia
+BEZ = "countries/Bezhetskaya.txt"
 BJA = "countries/Bjarmaland.txt"
 SCY = "countries/ScythoRus.txt"
 KMK = "countries/Kalmykia.txt"
-BEZ = "countries/Bezhetskaya.txt"
+KRS = "countries/Kursk.txt"
+UKO = "countries/Ukko.txt"
 VLB = "countries/VolgaBulgaria.txt"
 VYA = "countries/Vyatichi.txt"
-KRS = "countries/Kursk.txt"
 
 #South Germany
 ASC = "countries/Aschaffenburg.txt"

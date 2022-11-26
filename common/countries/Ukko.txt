@@ -1,0 +1,83 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 65 109 175 }
+
+revolutionary_colors = { 1 0 1 } #placeholder
+
+historical_idea_groups = {
+	defensive_ideas
+	humanist_ideas
+	diplomatic_ideas
+	quality_ideas
+	expansion_ideas
+	maritime_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+		"Biatari #1" = 50
+		"Inari #0" = 40
+		"Gimmo #0" = 40
+		"Biantti #0" = 30
+		"Arno #0" = 30
+		"Untamo #0" = 30
+		"Gaarlo #0" = 30
+		"Ale #0" = 20
+		"Wäinämö #0" = 20
+		"Jiari #0" = 20
+		"Miga #0" = 20
+		"Arttu #0" = 20
+		"Dure #0" = 20
+		"Mielat #0" = 20
+		"Indu #0" = 20
+		"Lávrras #0" = 10
+		"Háral #0" = 10
+		"Máidnu #0" = 10
+		"Ápparan #0" = 10
+		"Ámmol #0" = 10
+		"Vide #0" = 10
+		"Hegon #0" = 10
+		"Gondrati #0" = 10
+		"Marku #0" = 10
+		"Priago #0" = 10
+		"Wikto #0" = 10
+		"Josu #0" = 10
+		"Biantele #0" = 10
+		"Masas #0" = 10
+		"Giamosase #0" = 10
+		"Biastaga #0" = 10
+
+		"Annele #0" = -50
+		"Janina #0" = -30
+		"Alegasana #0" = -30
+		"Dárjá #0" = -10
+		"Meartá #0" = -10
+		"Walja #0" = -10
+		"Tamura #0" = -10
+		"Mári #0" = -10
+}
+
+leader_names = {
+	placeholder
+}
+
+ship_names = {
+	placeholder
+}
