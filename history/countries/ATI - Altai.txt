@@ -1,0 +1,10 @@
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+
+religion = tengri_pagan_reformed
+
+primary_culture = altai
+add_accepted_culture = tuvan
+
+capital = 1066 #Altai

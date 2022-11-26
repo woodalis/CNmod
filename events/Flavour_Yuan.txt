@@ -1,6 +1,10 @@
 
+#########################
+# Yuan Disaster Prelude #
+#########################
+
 country_event = {
-	id = yuan_collapse.1
+	id = yuan_collapse.1 #
 	title = yuan_collapse.1.t
 	desc = yuan_collapse.1.d
 	picture = BORDER_TENSION_eventPicture
@@ -17,5 +21,68 @@ country_event = {
 			name = YUA_yuan_collapse_prelude
 			duration = -1
 		}
+	}
+}
+
+country_event = { 
+	id = yuan_collapse.2 #flavor event about chinese revolt in preparation
+	title = yuan_collapse.2.t
+	desc = yuan_collapse.2.d
+	picture = BORDER_TENSION_eventPicture
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	fire_only_once = yes
+	
+	trigger = {
+		has_disaster_progress = {
+			disaster = yuan_collapse
+			value = 20
+		}
+	}
+	
+	option = {
+		name = yuan_collapse.2.a
+	}
+}
+
+###################
+# Disaster Events #
+###################
+
+country_event = { 
+	id = yuan_collapse.10 #disaster begins
+	title = yuan_collapse.10.t
+	desc = yuan_collapse.10.d
+	picture = BORDER_TENSION_eventPicture
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			add_stability = -6
+		}
+	}
+	
+	option = {
+		name = yuan_collapse.10.a
+	}
+}
+
+################
+# Disaster End #
+################
+
+country_event = { 
+	id = yuan_collapse.100
+	title = yuan_collapse.100.t
+	desc = yuan_collapse.100.d
+	picture = BORDER_TENSION_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = yuan_collapse.100.a
 	}
 }

@@ -1,0 +1,46 @@
+#Tuva
+
+graphical_culture = muslimgfx
+
+color = { 99  179  230 }
+
+revolutionary_colors = { 1 0 1 }
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = { #todo
+	"placeholder #0" = 20
+	
+	"placeholder #0" = -1
+}
+
+leader_names = {
+	placeholder
+}
+
+ship_names = {
+	placeholder
+}

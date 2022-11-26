@@ -1,0 +1,44 @@
+
+yuan_collapse = {
+	potential = {
+		NOT = {
+			has_country_flag = yuan_collapse_over
+		}
+		tag = YUA
+	}
+	
+	can_start = {
+		has_any_disaster = no
+	}
+	
+	can_stop = {
+		has_any_disaster = yes
+	}
+	
+	progress = {
+		modifier = {
+			factor = 2
+			tag = YUA
+		}
+		modifier = {
+			factor = 5
+			is_at_war = yes
+		}
+	}
+	
+	can_end = {
+		num_of_rebel_armies = 0
+		NOT = { num_of_rebel_controlled_provinces = 1 }
+		stability = 1
+	}
+	
+	modifier = {
+		global_unrest = 5
+		land_morale = -0.10
+		manpower_recovery_speed = -0.10
+	}
+	
+	on_start = yuan_collapse.10
+	on_end = yuan_collapse.100
+	
+}

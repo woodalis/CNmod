@@ -125,6 +125,10 @@ SLJ = "countries/Seljuqids.txt"
 AKG = "countries/Akgulids.txt"
 HTM = "countries/Hetumids.txt"
 
+#Mongolia
+ATI = "countries/Altai.txt"
+TUV = "countries/Tuva.txt"
+
 #North Germany	
 HOY = "countries/Hoya.txt"
 STP = "countries/Stolp.txt"
