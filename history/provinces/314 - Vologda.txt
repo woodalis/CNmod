@@ -11,8 +11,7 @@ trade_goods = iron
 base_manpower = 2
 capital = "Vologda"
 is_city = yes
-add_core = MOS
-add_core = NOV # Novgorodian claims
+add_core = NOV
 add_core = SCY
 
 discovered_by = eastern

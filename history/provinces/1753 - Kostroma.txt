@@ -11,7 +11,7 @@ trade_goods = cloth
 base_manpower = 3
 capital = "Kostroma"
 is_city = yes
-add_core = MOS
+add_core = NZH
 add_core = SCY
 
 discovered_by = eastern

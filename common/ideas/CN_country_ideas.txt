@@ -548,3 +548,57 @@ XIA_ideas = { #definetly not the xia
 		infantry_power = 0.1
     }
 }
+
+KRS_ideas = { #Kursk
+
+	start = {
+		global_manpower_modifier = 0.1 
+		hostile_attrition = 1 #hard to conquer
+
+	}
+	bonus = {
+		free_mil_policy = 1
+	}
+	trigger = {
+		tag = KRS
+	}
+	
+	free = yes
+
+	_supplant_the_bulgars = { 
+		land_morale = 0.1
+		prestige = 1
+
+	}
+
+	_fort_murtaza = { 
+		fort_maintenance_modifier = -0.10
+		defensiveness = 0.2
+	}
+
+	_galiullin = { 
+		leader_land_manuever = 1
+
+	}
+
+	_northern_route = { 
+		trade_efficiency = 0.05
+		caravan_power = 0.2
+	}
+
+	_bashkir_khan = { 
+		horde_unity = 1
+
+	}
+
+	_mountain = { 
+		fire_damage_received = -0.1
+		shock_damage_received = -0.05
+
+	}
+
+	_tatar_mercenaries = {
+		mercenary_discipline = 0.05
+
+	}
+}

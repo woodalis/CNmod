@@ -2,8 +2,6 @@
 
 owner = BEZ
 controller = BEZ
-add_core = NOV
-add_core = MOS
 add_core = BEZ
 
 culture = russian

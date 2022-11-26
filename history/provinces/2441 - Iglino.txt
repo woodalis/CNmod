@@ -3,6 +3,7 @@
 owner = BSH
 controller = BSH
 add_core = BSH
+add_core = SIB
 capital = "Iglino"
 culture = siberian
 religion = sunni

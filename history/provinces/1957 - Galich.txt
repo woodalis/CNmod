@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 5 #Huge Salt Mine
 base_manpower = 2
 is_city = yes
-add_core = MOS
+add_core = NZH
 add_core = SCY
 
 discovered_by = eastern
