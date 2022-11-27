@@ -1,9 +1,6 @@
 #1041 - Gizhiga
 
-owner = CHV
-controller = CHV
-add_core = CHV
-culture = kamchatkan
+culture = even
 religion = tengri_pagan_reformed
 capital = "Gizhiga"
 trade_goods = fur
@@ -23,13 +20,3 @@ discovered_by = HOD
 discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
-
-1647.1.1 = { discovered_by = RUS } # V. Atlasov
-
-1732.1.1 = {
-	owner = RUS
-	controller = RUS
-	religion = orthodox
-	culture = russian
-} # Conquered by Russia
-1757.1.1 = { add_core = RUS }
