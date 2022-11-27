@@ -2,7 +2,7 @@
 
 owner = CIR
 controller = CIR
-culture = circassian
+culture = alan
 religion = orthodox
 capital = "Dzaudzhikau"
 trade_goods = wool
@@ -17,12 +17,3 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-
-
-1569.1.1 = { owner = GAZ controller = GAZ add_core = GAZ } # Budai-Chopan conquest
-1801.1.18 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = GAZ
-} # Annexed by Russia

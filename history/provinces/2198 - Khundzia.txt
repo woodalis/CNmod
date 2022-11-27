@@ -2,7 +2,7 @@
 
 owner = AVR
 controller = AVR
-culture = dagestani
+culture = chechen
 religion = sunni
 capital = "Khunzah"
 trade_goods = livestock
@@ -18,8 +18,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
-1801.1.18 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-} # Annexed by Russia
+

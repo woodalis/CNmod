@@ -1,12 +1,12 @@
 #2197 - Kabardia
 
-owner = KHZ
-controller = KHZ
+owner = BLK
+controller = BLK
 add_core = KHZ
-add_core = CIR
+add_core = BLK
 
-culture = circassian
-religion = orthodox
+culture = balkar
+religion = tengri_pagan_reformed
 capital = "Nalchik"
 
 trade_goods = wool

@@ -1,0 +1,12 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = nomad_group
+
+religion = sunni
+religious_school = shafii_school
+
+primary_culture = balkar
+
+capital = 2197	#Balkaria
+

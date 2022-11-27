@@ -18,6 +18,7 @@ VAR = "countries/Varna.txt"
 
 #Caucasus
 KHZ = "countries/Khazaria.txt"
+BLK = "countries/Balkaria.txt"
 
 #Central Asia
 LIA = "countries/WesternLiao.txt"

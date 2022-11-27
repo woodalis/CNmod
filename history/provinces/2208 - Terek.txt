@@ -6,7 +6,7 @@ add_core = KHZ
 add_core = GAZ
 add_core = AST
 
-culture = dagestani
+culture = chechen
 religion = sunni
 capital = "Mozdok"
 

@@ -7,8 +7,8 @@ add_core = SME
 add_core = GEO
 add_core = ARM
 
-culture = georgian
-religion = orthodox
+culture = armenian
+religion = coptic
 capital = "Oltu"
 
 trade_goods = livestock
