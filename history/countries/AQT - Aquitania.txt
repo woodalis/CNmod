@@ -11,7 +11,7 @@ capital = 174 	# Bordeaux
 historical_rival = TOU
 historical_rival = BUR
 
-1415.1.1 = {
+1415.01.01 = {
 	monarch = {
 		name = "William XIX"
 		dynasty = "de Poitiers"
@@ -20,6 +20,9 @@ historical_rival = BUR
 		dip = 2
 		mil = 3
 	}
+}
+
+1415.01.01 = {
 	queen = {
 		country_of_origin = CAS
 		name = "Isabella"
@@ -30,6 +33,9 @@ historical_rival = BUR
 		dip = 3
 		mil = 2
 	}
+}
+
+1415.01.01 = {
 	heir = {
 		name = "William"
 		monarch_name = "William XX"

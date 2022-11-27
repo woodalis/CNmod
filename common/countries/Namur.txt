@@ -3,7 +3,7 @@
 
 graphical_culture = westerngfx
 
-color = { 188 75 177 }
+color = { 181 83 171 }
 
 historical_idea_groups = {
 	aristocracy_ideas
