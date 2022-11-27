@@ -1166,6 +1166,7 @@ caspian = {
 		female_names = {
 			placeholder
 		}
+	}
 	lezgin = {
 		dynasty_names = {
 			placeholder
@@ -1176,6 +1177,7 @@ caspian = {
 		female_names = {
 			placeholder
 		}
+	}
 	avar = {
 		dynasty_names = {
 			placeholder
@@ -1327,6 +1329,7 @@ armenic = {
 			Mariyam Mariam Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik Satinik Seta Siran 
 			Sirvart Srpouhi Shoushanig Takouhi Tamar Tamar Vartanoush Vartouhi Vosgi Yeva Zabel Elizabeth 
 		}
+	}
 }
 
 ugric = {	
@@ -1443,6 +1446,7 @@ kartvelian = {
 		male_names = {
 			placeholder
 		}
+	}
 	mingrelian = {
 		dynasty_names = {
 			placeholder
