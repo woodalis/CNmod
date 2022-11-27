@@ -17,12 +17,20 @@ yuan_collapse = {
 	
 	progress = {
 		modifier = {
-			factor = 2
+			factor = 4
 			tag = YUA
 		}
 		modifier = {
 			factor = 5
 			is_at_war = yes
+		}
+		modifier = {
+			num_of_rebel_armies = 1
+			factor = 4
+		}
+		modifier = { 
+			NOT = { stability = 0 } 
+			factor = 5
 		}
 	}
 	

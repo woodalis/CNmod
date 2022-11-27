@@ -1,12 +1,12 @@
 
 YUA_yuan_collapse_prelude = {
-	stability_cost_to_declare_war = 2
+	stability_cost_to_declare_war = 6
 	imperial_mandate = -0.05
 	stability_cost_modifier = 2
 }
 
 WUU_LIA_yuan_collapse_prelude = {
-	stability_cost_to_declare_war = 2
+	stability_cost_to_declare_war = 1
 }
 
 YUA_disrupted_supply_lines = {

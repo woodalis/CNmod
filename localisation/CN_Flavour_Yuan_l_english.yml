@@ -12,10 +12,24 @@
   yuan_collapse.1.d:0 "todo: tl;dr on yuan history, country sucks, revolts and foreign invasion soon"
   yuan_collapse.1.a:0 "The calm before the storm..."
   yuan_collapse.1.b:0 "todo: description"
+  yuan_collapse.1.c:0 "
   
   yuan_collapse.2.t:0 "Peasant Revolt in Zhili"
   yuan_collapse.2.d:0 "todo: peasants hate us and there's a minor revolt in zhili"
-  yuan_collapse.2.a:0 "Crush them, before they spread!"
+  yuan_collapse.2.a:0 "Crush them, before they spread."
+  
+  yuan_collapse.3.t:0 "todo"
+  yuan_collapse.3.d:0 "todo: flavor text about tuva"
+  yuan_collapse.3.a:0 "todo"
+  
+  yuan_collapse.4.t:0 "Oirat-Uyghur Clashes"
+  yuan_collapse.4.d:0 "todo: oirats are fighting uyghurs over land, we have to take a side but the opposing group will be pissed and revolt"
+  yuan_collapse.4.a:0 "todo: blame oirats"
+  yuan_collapse.4.b:0 "todo: blame uyghurs"
+  
+  yuan_collapse.10.t:0 "Beginning of the End"
+  yuan_collapse.10.d:0 "todo: description"
+  yuan_collapse.10.a:0 "todo"
   
   yuan_collapse.20.t:0 "Tuvan Uprising"
   yuan_collapse.20.d:0 "todo: tuvans are revolting, they're not that important but thats also a reason why you might just not wanna bother w/ them"
@@ -31,3 +45,7 @@
   yuan_collapse.30.d:0 "todo: go fourth and destroy the mongols"
   yuan_collapse.30.a:0 "It's time to finish what the Red Turbans started."
   yuan_collapse.30.b:0 "It's time to ride home."
+  
+  yuan_collapse.100.t
+  yuan_collapse.100.d
+  yuan_collapse.100.a

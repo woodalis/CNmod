@@ -16,6 +16,9 @@ MAC = "countries/Macedonia.txt"
 SFY = "countries/Sofia.txt"
 VAR = "countries/Varna.txt"
 
+#Caucasus
+KHZ = "countries/Khazaria.txt"
+
 #Central Asia
 LIA = "countries/WesternLiao.txt"
 LIU = "countries/Liu.txt"

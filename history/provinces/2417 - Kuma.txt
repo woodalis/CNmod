@@ -1,25 +1,22 @@
 #2417 - Kuma
 
-owner = GOL
-controller = GOL
+owner = KHZ
+controller = KHZ
+add_core = KHZ
+
 culture = khazar
-religion = sunni
+religion = jewish
+capital = "Kuma"
+
 hre = no
 base_tax = 2 
 base_production = 2
 trade_goods = iron 
 base_manpower = 2
-capital = "Kuma"
 is_city = yes
-add_core = GOL
-
-
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
-
-
-

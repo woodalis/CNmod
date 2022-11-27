@@ -281,7 +281,6 @@ SCY_ideas = { #Scytho-Rus'
 	start = {
 		cavalry_power = 0.15
 		harsh_treatment_cost = -0.2
-		
 	}
 	bonus = {
 		global_manpower_modifier = 0.1
@@ -295,17 +294,14 @@ SCY_ideas = { #Scytho-Rus'
 	SCY_rushing_army = { #early game horde and in-lore fast expansion
 		cavalry_flanking = 0.5
 		cavalry_cost = -0.05
-		
 	}
 
 	SCY_vassals = { #scytho-rus' had a lot of border vassals (we should probs give them strong duchies of some sort)
 		vassal_forcelimit_bonus = 1
-		
 	}
 
 	SCY_exploitation_of_the_slavs = { #bit of realism
 		global_tax_modifier = 0.1
-		
 	}
 
 	SCY_alim = { #khagan alim
@@ -324,12 +320,10 @@ SCY_ideas = { #Scytho-Rus'
 	SCY_modernizing_an_empire = { 
 		technology_cost = -0.05
 		embracement_cost = -0.1
-
 	}
 
 	SCY_expansion_of_liberties = { 
 		num_accepted_cultures = 1
-
 	}
 }
 
@@ -375,13 +369,11 @@ SLJ_ideas = { #Seljuqids
 	SLJ_lord_of_all_muslims = { 
 		tolerance_own = 2
 		num_accepted_cultures = 1
-
 	}
 
 	SLJ_birlik = { #unity
 		discipline = 0.05
 		all_estate_loyalty_equilibrium = 0.1
-
 	}
 }
 
@@ -403,42 +395,35 @@ AQT_ideas = { #Aquitaine
 
 	AQT_morale = { 
 		land_morale = 0.10
-
 	}
 
 	AQT_trade = { 
 		global_trade_power = 0.1
 		development_cost_modifier = -0.05
-
 	}
 
 	AQT_vassals = { 
 		reduced_liberty_desire = 10
 		accept_vassalization_reasons = 15
 		diplomatic_reputation = 1
-
 	}
 
 	AQT_technology = { 
 		technology_cost = -0.1
-
 	}
 
 	AQT_governing_cost = { 
 		governing_capacity_modifier = 0.1
-
 	}
 
 	AQT_discpline = { 
 		discipline = 0.05
-
 	}
 
 	AQT_tolerance = { 
 		religious_unity = 0.2
 		tolerance_heretic = 2
 		tolerance_own = 1
-
 	}
 
 }
@@ -462,34 +447,28 @@ KMK_ideas = { #Kalmykia
 	KMK_western_heir = { 
 		cavalry_flanking = 0.5
 		cavalry_cost = -0.15
-
 	}
 
 	KMK_peace_with_the_world = { 
 		tolerance_heathen = 1
 		global_unrest = -1
-
 	}
 
 	KMK_dorbet = { 
 		leader_land_manuever = 1
-
 	}
 
 	KMK_battle_of_samara = { 
 		leader_land_shock = 1
-
 	}
 
 	KMK_buddhist_manuscripts = { 
 		technology_cost = -0.05
-
 	}
 
 	KMK_huurl = { 
 		horde_unity = 1
 		legitimacy = 1
-
 	}
 
 	KMK_the_frontier = {
@@ -517,7 +496,6 @@ BSH_ideas = { #Bashkiria
 	BSH_supplant_the_bulgars = { #bulgars historically ruled the Bashkirs
 		land_morale = 0.1
 		prestige = 1
-
 	}
 
 	BSH_fort_murtaza = { #MLB reference lel
@@ -527,7 +505,6 @@ BSH_ideas = { #Bashkiria
 
 	BSH_galiullin = { #chad general
 		leader_land_manuever = 1
-
 	}
 
 	BSH_northern_route = { 
@@ -537,7 +514,6 @@ BSH_ideas = { #Bashkiria
 
 	BSH_bashkir_khan = { #bashkir tribes come together
 		horde_unity = 1
-
 	}
 
 	BSH_mountain = { #urals and folklore
@@ -548,7 +524,6 @@ BSH_ideas = { #Bashkiria
 
 	BSH_tatar_mercenaries = { #bashkirs fought with and against the kazan tatars
 		mercenary_discipline = 0.05
-
 	}
 }
 
@@ -616,7 +591,6 @@ KRS_ideas = { #Kursk
 
 	KRS_rebuild = { #irl Kursk was destroyed by the mongols, gonna use that as inspiration for some Crimea lore
 		build_cost = -0.1
-
 	}
 
 	KRS_dva_kurska = { #playing Lithuania and Scytho-Rus' against eachother
@@ -630,18 +604,15 @@ KRS_ideas = { #Kursk
 
 	KRS_resist_ordo = { #ordo did assassination in lore
 		global_spy_defence = 0.3
-
 	}
 
 	KRS_all_must_serve = { 
 		global_manpower_modifier = 0.2
 		may_recruit_female_generals = yes
-
 	}
 
 	KRS_death_to_vyatichi = { #rivalry and war
 		culture_conversion_cost = -0.15
-
 	}
 
 	KRS_patriarch_of_kursk = {
