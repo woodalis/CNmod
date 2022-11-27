@@ -209,9 +209,9 @@ UKO_ideas = { #ukko
 		auto_explore_adjacent_to_colony = yes
     }
 
-    UKO_icebreakers = { #ships designed to break through ice
-		range = 0.75
-		trade_efficiency = 0.1
+    UKO_new_confederal_army = { #reform the army, make it an actual fighting force
+		artillery_power = 0.1
+		land_maintenance_modifier = -0.1
     }
 	
 	UKO_central_heating = { #it's cold here, let's make some fires
