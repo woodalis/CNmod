@@ -12,6 +12,8 @@ capital = 454	#Samarqand
 
 historical_friend = LIA
 
+set_estate_privilege = estate_dhimmi_guaranteed_autonomy
+
 1405.11.23 = {
 	monarch = {
 		name = "Yunus"

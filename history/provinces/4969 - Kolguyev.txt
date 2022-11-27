@@ -1,5 +1,5 @@
-capital = "PROV_CAP4969"
-culture = wu
+capital = "Bugrino"
+culture = nenets
 religion = ukonusko
 
 trade_goods = unknown

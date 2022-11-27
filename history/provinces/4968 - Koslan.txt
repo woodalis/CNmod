@@ -2,8 +2,8 @@ owner = BJA
 controller = BJA
 add_core = BJA
 
-capital = "PROV_CAP4967"
-culture = bjarmian
+capital = "Koslan"
+culture = komi
 religion = ukonusko
 
 trade_goods = unknown
