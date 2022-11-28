@@ -5,8 +5,8 @@ controller = SLJ
 add_core = SLJ
 add_core = AYD
 
-culture = turkish
-religion = sunni
+culture = greek
+religion = orthodox
 capital = "Aydin"
 
 trade_goods = salt #Major Ottoman Salt Work

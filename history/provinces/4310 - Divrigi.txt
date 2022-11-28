@@ -5,8 +5,8 @@ controller = SLJ
 add_core = SLJ
 add_core = DUL
 
-culture = turkish
-religion = shiite
+culture = armenian
+religion = sunni
 capital = "Divrigi"
 
 trade_goods = wool

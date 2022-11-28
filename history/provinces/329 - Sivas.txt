@@ -6,8 +6,8 @@ add_core = SLJ
 add_core = TUR
 add_core = ERE
 
-culture = turkish
-religion = shiite
+culture = armenian
+religion = sunni
 capital = "Sivas"
 
 trade_goods = livestock

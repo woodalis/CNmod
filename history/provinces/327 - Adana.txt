@@ -5,7 +5,7 @@ controller = HTM
 add_core = HTM
 
 culture = armenian
-religion = sunni
+religion = coptic
 capital = "Adana"
 
 trade_goods = cotton

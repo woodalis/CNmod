@@ -6,8 +6,8 @@ add_core = SLJ
 add_core = KAR
 add_core = TUR
 
-culture = turkish
-religion = sunni
+culture = cappadocian
+religion = orthodox
 capital = "Burdur"
 
 trade_goods = grain

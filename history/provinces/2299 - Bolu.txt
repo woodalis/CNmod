@@ -5,8 +5,8 @@ controller = SLJ
 add_core = SLJ
 add_core = TUR
 
-culture = turkish
-religion = sunni
+culture = pontic_greek
+religion = orthodox
 capital = "Bolu"
 
 trade_goods = fish

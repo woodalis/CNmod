@@ -6,8 +6,8 @@ add_core = SLJ
 add_core = TUR
 add_core = GRM
 
-culture = turkish
-religion = sunni
+culture = greek
+religion = orthodox
 capital = "Denizli"
 
 trade_goods = cloth

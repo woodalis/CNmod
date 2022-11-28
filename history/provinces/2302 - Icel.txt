@@ -5,8 +5,8 @@ controller = SLJ
 add_core = SLJ
 add_core = KAR
 
-culture = turkish
-religion = sunni
+culture = cappadocian
+religion = orthodox
 capital = "Ermenek"
 
 trade_goods = naval_supplies

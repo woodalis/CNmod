@@ -6,8 +6,8 @@ add_core = SLJ
 add_core = MEN
 add_core = TUR
 
-culture = turkish
-religion = sunni
+culture = cappadocian
+religion = orthodox
 capital = "Adalia"
 
 trade_goods = cotton
