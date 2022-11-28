@@ -947,13 +947,12 @@ christian = {
 		}
 
 		country = {
-			global_tax_modifier = 0.1
 			tolerance_heretic = 1
 			defensiveness = 0.1
 		}
 		
 		country_as_secondary = {
-			defensiveness - 0.1
+			defensiveness = 0.1
 		}
 		
 		province = {
@@ -961,7 +960,7 @@ christian = {
 		}
 		hre_heretic_religion = yes
 		
-		heretic = { USORAN}
+		heretic = { USORAN }
 		}
 		
 		#harmonized_modifier = harmonized_humlian
