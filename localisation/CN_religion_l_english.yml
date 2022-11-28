@@ -51,3 +51,16 @@
   nestorian_rebels_name: "$RELIGION$ Zealots"
   nestorian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
   nestorian_rebels_army: "$RELIGION$ Army"
+
+  # Humlian
+  humlian: "Humlian"
+  humlian_religion_desc:0 "Arrising rather quietly in the borderlands of Catholicism and Orthodoxy, the independent Church of Bosnia came into being in the 11th century and expanded throughout the center of the country. Its formation was one formed largely of neglect for the region by the Papacy and a desire to ensure Bosnian independence from Hungarian influence which was being exerted religiously. The church combined elements of Catholicism and Orthodoxy with some inspirations from Bogomilism, though was ultimately a splinter of the Roman Catholic Church in its majority. Several crusades and inquisitions imposed on Bosnia have proven rather ineffective, and the Humlian faith still resides within Bosnia and Herzegovina as the 15th century progresses."
+
+  USORAN: "Usoran"
+
+  humlian_rebels_demand: "Convert $COUNTRYNAME$"
+  humlian_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+  humlian_rebels_title: "Religious"
+  humlian_rebels_name: "$RELIGION$ Zealots"
+  humlian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+  humlian_rebels_army: "$RELIGION$ Army"
