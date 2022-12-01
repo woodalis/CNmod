@@ -157,7 +157,7 @@ BJA_ideas = { #Bjarmaland
 
 	BJA_lineage_of_two_gods = { #The Bjarmians have the power of Allah and Ukko on their side
 		legitimacy = 1
-		manpower_in_true_faith_provinces = 0.15
+		global_manpower_modifier = 0.1
 	}
 
 	BJA_sintmaogeus = { #the birthright (Sintmäogeus) of the Bjarmians
@@ -467,8 +467,8 @@ KMK_ideas = { #Kalmykia
 	}
 
 	KMK_huurl = { 
-		horde_unity = 1
 		legitimacy = 1
+		horde_unity = 1
 	}
 
 	KMK_the_frontier = {
@@ -513,6 +513,7 @@ BSH_ideas = { #Bashkiria
 	}
 
 	BSH_bashkir_khan = { #bashkir tribes come together
+		legitimacy = 1
 		horde_unity = 1
 	}
 
@@ -619,4 +620,101 @@ KRS_ideas = { #Kursk
 		global_missionary_strength = 0.01
 		yearly_patriarch_authority = 0.005
 	}
+}
+
+NOG_ideas = { #Nogai
+
+    start = { #Nogai ideas about expansion
+		shock_damage = 0.10
+		fabricate_claims_cost = -0.25
+    }
+
+    bonus = {
+		discipline = 0.05
+    }
+
+    trigger = {
+		tag = NOG
+    }
+
+    free = yes
+
+    NOG_mongol_slayer = { #Nogai-Cuman revolt was responsible for the downfall of the western mongols
+		prestige = 1
+    }
+
+    NOG_firstborn = { #firstborn kipchak
+		cavalry_power = 0.15
+		core_creation = -0.1
+    }
+
+    NOG_manghit = { #manghit were the turko-mongol elite of the nogai horde
+		num_accepted_cultures = 1
+    }
+
+    NOG_slave_raids = {
+		loot_amount = 0.25
+    }
+
+    NOG_ulus = { #subdivisions of the horde
+		leader_land_shock = 1
+    }
+
+    NOG_emir = { #manghit drew legitimacy from islam, not descendence from genghis
+		legitimacy = 1
+		horde_unity = 1
+		manpower_in_true_faith_provinces = 0.2
+    }
+
+    NOG_yaik_peasants = {
+		global_tax_modifier = 0.1
+    }
+}
+
+VYA_ideas = { #vyatichi
+
+    start = {
+		global_missionary_strength = 0.01 #islamic slavs
+		defensiveness = 0.15
+    }
+
+    bonus = {
+		fire_damage = 0.1
+    }
+    trigger = {
+		tag = VYA
+    }
+
+    free = yes
+
+    VYA_resist = { #unique vyatichi identity
+		culture_conversion_cost = -0.15
+    }
+
+    VYA_slavic_khanate = {
+		cavalry_cost = -0.1
+    }
+
+    VYA_warrior_society = {
+		global_manpower_modifier = 0.2
+    }
+
+    VYA_commit = {
+		diplomatic_reputation = 1
+		improve_relation_modifier = 0.2
+    }
+
+    VYA_our_forest = {
+		movement_speed = 0.1
+		land_attrition = -0.10
+    }
+
+    VYA_danepr_doctrine = {
+		infantry_power = 0.10
+    }
+
+    VYA_jihad = {
+		war_exhaustion = -0.02
+		manpower_recovery_speed = 0.1	
+    }
 }
