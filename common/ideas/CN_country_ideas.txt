@@ -252,13 +252,14 @@ SUH_ideas = { #Suhraltanubia
 		leader_land_shock = 1
 	}
 	
-	SUH_outback_ranchers = { #large landholders in the sparsely populated outback
-		development_cost = -0.1
-	}
-	
 	SUH_el_diab = { #el diab canonically circumnavigates the world, his example inspires a lot of suhraltanubi
 		leader_naval_manuever = 1
 		may_explore = yes
+	}
+	
+	SUH_surfs_up = { #surfin suhraltanub-i-a
+		global_unrest = -1
+		prestige = 1
 	}
 	
 	SUH_polynesian_integration = { #integrate and convert the pacific tribes
