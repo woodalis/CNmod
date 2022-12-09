@@ -280,13 +280,15 @@ finnic = {
 	}
 	vepsian = {
 		male_names = {
-			placeholder
+			Artä Davšoi Gauroi Hilip Jakoi Johor Juša Ladü Matfii Mihal Mikul Ontei Pauloi Šan'ka Savas'jan
+			Taruk Timoi Tišoi Ol'koi Rürik Amos Izhan Vita
 		}
 		female_names = {
-			placeholder
+			Dašu Feša Iroi Natal'ja Natoi Ofim Ogoi Oksä Ol'on Palag Soh'ja Tomoi Ust'jä Uudoi Val'oi Zinaida
+			Raisa Vera Gal'ja Vit'ja Anna Nina
 		}
 		dynasty_names = {
-			placeholder
+			Soutjärvi Lonin Lod'jina Varasta
 		}
 	}
 	izhorian = {
