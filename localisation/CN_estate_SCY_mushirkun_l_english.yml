@@ -1,0 +1,11 @@
+﻿l_english:
+ # mushirkun localization
+ estate_SCY_mushirkun:0 "Mushirkun"
+ estate_SCY_mushirkun_desc:0 "Mushirkun are those who commit the sin of shirk, those who reject monotheism. Scythia's position on the frontier of the dar al-Tawhid has brought under it a small yet significant minority of Buddhists, Ukonuskoists and other polytheists. They live in a delicate balance, having their rights undermined by the conservative Ulema and encroaching Orthodox Christians and only haven't been extinguished due to the power struggle between the Ulema and the Orthodox Church."
+ estate_SCY_mushirkun_ownership:0 "Mushirkun Land Ownership"
+ SCY_mushirkun_loyalty_modifier:1 "Mushirkun Loyalty Equilibrium"
+ SCY_mushirkun_influence_modifier:0 "Mushirkun Influence"
+ 
+ #mushirkun privileges
+ estate_SCY_mushirkun_indefinite_treaties:0 "Indefinite Peace Treaties with the Mushirkun"
+ estate_SCY_mushirkun_indefinite_treaties_desc:0 "We are obligated to show hospitality to and defend the Mushirkun peoples who seek our protection as per the Qur'an. The specific ways in which we are obligated to the Mushirkun are codified and there is little we can do to change this, not without causing a major upheaval of society.\n\n§RTo overturn this privilege could upset more than just the Mushirkun!§"

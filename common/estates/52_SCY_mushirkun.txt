@@ -1,0 +1,77 @@
+estate_SCY_mushirkun = {
+	icon = 13
+	other_religion_group_only = yes
+
+	# If true, country will get estate
+	trigger = {
+		NOT = { has_country_flag = disables_estate_SCY_mushirkun_flag }
+		tag = SCY
+	}
+
+	# These scale with loyalty & power
+	country_modifier_happy = {
+		native_uprising_chance = -0.5
+		native_assimilation = 0.5
+		tolerance_heathen = 2
+	}
+	country_modifier_neutral = {
+		tolerance_heathen = -2
+		global_unrest = 2
+	}	
+	country_modifier_angry = {
+		native_uprising_chance = 0.5
+		native_assimilation = -1
+		tolerance_heathen = -4
+		global_unrest = 4
+	}
+	land_ownership_modifier = {
+		SCY_mushirkun_loyalty_modifier = 0.2
+	}
+
+	# Influence modifiers
+	base_influence = 0
+	influence_modifier = {
+		desc = EST_VAL_RELIGIOUS_MINORITY
+		trigger = {
+			any_owned_province = {
+				NOT = {
+					OR = {
+						religion_group = muslim
+						religion_group = christian
+						religion_group = jewish_group
+						religion_group = zoroastrian_group
+					}
+				}
+			}
+		}
+		influence = 5
+	}
+	influence_modifier = {
+		desc = EST_VAL_RULED_BY_RELIGIOUS_MINORITY
+		trigger = {
+			NOT = { dominant_religion = ROOT }
+			any_owned_province = {
+				NOT = {
+					OR = {
+						religion_group = muslim
+						religion_group = christian
+						religion_group = jewish_group
+						religion_group = zoroastrian_group
+					}
+				}
+			}
+		}
+		influence = 10
+	}
+
+	influence_from_dev_modifier = 0.3
+	
+	privileges = {
+		estate_SCY_mushirkun_indefinite_treaties
+	}
+
+	agendas = {
+	}
+
+	color = { 94 87 11 }
+}

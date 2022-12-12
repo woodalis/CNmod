@@ -1,0 +1,39 @@
+estate_scy_ordus = {
+	icon = 5
+
+	# If true, country will get estate
+	trigger = {
+		tag = SCY
+	}
+
+	# These scale with loyalty & power
+	country_modifier_happy = {
+		cavalry_cost = -0.2
+		cavalry_power = 0.20
+	}
+	country_modifier_neutral = {
+		cavalry_cost = -0.1
+	}
+	country_modifier_angry = {
+		horde_unity = -4
+		cavalry_power = -0.20
+		raze_power_gain = -1
+		global_unrest = 2
+	}
+	land_ownership_modifier = {
+		scy_ordus_loyalty_modifier = 0.2
+	}
+
+	# Influence modifiers
+	base_influence = 25
+
+	influence_from_dev_modifier = 0.5
+
+	privileges = {
+	}
+
+	agendas = {
+	}
+
+	color = { 50 150 50 }
+}

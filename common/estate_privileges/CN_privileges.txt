@@ -73,3 +73,56 @@ estate_liao_khans_nomadic_privileges = { #rights and privileges of the central a
 		factor = 10
 	}
 }
+
+#################
+# SCY MUSHIRKUN #
+#################
+
+estate_SCY_mushirkun_indefinite_treaties = { # dar al ahd type stuff
+	icon = privilege_new_world_mission
+	max_absolutism = -10
+	loyalty = 0.10
+	land_share = 0
+	influence = 0.20
+
+	is_valid = {
+		tag = SCY
+		OR = {
+			any_subject_country = {
+				is_march = yes
+			}
+			vassal = 1
+		}
+	}
+	can_select = {
+		calc_true_if = {
+			amount = 2
+			all_subject_country = {
+				NOT = {
+					OR = {
+						religion_group = muslim
+						religion_group = christian
+						religion_group = jewish_group
+						religion_group = zoroastrian_group
+					}
+				}
+				OR = {
+					is_march = yes
+					is_vassal = yes
+				}
+			}
+		}
+	}
+
+	penalties = {
+		diplomatic_annexation_cost = 2
+	}
+	benefits = {
+		diplomatic_upkeep = 2
+		reduced_liberty_desire_on_same_continent = 10
+	}
+	
+	ai_will_do = {
+		factor = 10
+	}
+}

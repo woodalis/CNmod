@@ -15,3 +15,21 @@ estate_liao_khans = {
 		}
 	}
 }
+
+estate_SCY_mushirkun = {
+	modifier_definition = {
+		type = loyalty
+		key = SCY_mushirkun_loyalty_modifier
+		trigger = {
+			has_estate = estate_SCY_mushirkun_khans
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = SCY_mushirkun_influence_modifier
+		trigger = {
+			has_estate = estate_SCY_mushirkun_khans
+		}
+	}
+}
