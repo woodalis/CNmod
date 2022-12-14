@@ -1,6 +1,6 @@
 #2433 - Kemerovo
 
-culture = ostyaki
+culture = khanty
 religion = tengri_pagan_reformed
 capital = "Vah"
 trade_goods = fur

@@ -1,6 +1,6 @@
 #1074 - Sibir
 
-culture = ostyaki
+culture = khanty
 religion = tengri_pagan_reformed
 capital = "Qashliq"
 trade_goods = fur

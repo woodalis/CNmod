@@ -4,7 +4,7 @@ owner = LIA
 controller = LIA
 add_core = LIA
 
-culture = oirats
+culture = kirgiz
 religion = sunni
 capital = "Urzhar"
 

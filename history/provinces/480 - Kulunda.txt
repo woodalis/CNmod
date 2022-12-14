@@ -3,7 +3,7 @@
 owner = OIR
 controller = OIR
 add_core = OIR
-culture = kirgiz
+culture = oirats
 religion = tengri_pagan_reformed
 capital = "Pegaya Orda"
 trade_goods = fur

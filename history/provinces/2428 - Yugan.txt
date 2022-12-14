@@ -1,6 +1,6 @@
 #2428 - Yugan
 
-culture = ostyaki
+culture = khanty
 religion = tengri_pagan_reformed
 capital = "Yugan"
 trade_goods = fur

@@ -3,7 +3,7 @@
 owner = SIB
 controller = SIB
 add_core = SIB
-culture = ostyaki
+culture = mansi
 religion = ukonusko
 capital = "As"
 trade_goods = fur

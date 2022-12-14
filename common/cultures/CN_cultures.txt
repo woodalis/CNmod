@@ -1216,18 +1216,7 @@ samoyedic = {
 			placeholder
 		}
 	}
-	yurats = {
-		dynasty_names = {
-			placeholder
-		}
-		male_names = {
-			placeholder
-		}
-		female_names = {
-			placeholder
-		}
-	}
-	selkups = {
+	selkup = {
 		dynasty_names = {
 			placeholder
 		}
@@ -1458,11 +1447,24 @@ kartvelian = {
 		}
 		female_names = {
 			placeholder
+		}
 	}
 }
 
 yeniseic = {
 	yeniseian = {
+		dynasty_names = {
+			placeholder
+		}
+		
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
+	yugh = {
 		dynasty_names = {
 			placeholder
 		}

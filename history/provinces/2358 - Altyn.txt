@@ -6,7 +6,7 @@ add_core = NOG
 add_core = KZH
 add_core = SHY
 
-culture = khazak
+culture = turko_mongol
 religion = sunni
 capital = "Altyn"
 

@@ -1,6 +1,6 @@
 #1072 - Obdorsk
 
-culture = samoyed
+culture = nenets
 religion = ukonusko
 capital = "Obdorsk"
 trade_goods = unknown

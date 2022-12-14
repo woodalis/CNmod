@@ -5,7 +5,7 @@ controller = KZH
 add_core = KZH
 add_core = OIR
 
-culture = oirats
+culture = turko_mongol
 religion = sunni
 capital = "Chugachak"
 

@@ -1,6 +1,6 @@
 #2429 - Agan
 
-culture = ostyaki
+culture = khanty
 religion = tengri_pagan_reformed
 capital = "Variegansk"
 trade_goods = fur

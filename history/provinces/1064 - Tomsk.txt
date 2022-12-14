@@ -3,7 +3,7 @@
 owner = OIR
 controller = OIR
 add_core = OIR
-culture = ostyaki
+culture = oirats
 religion = tengri_pagan_reformed
 capital = "Tomsk"
 trade_goods = fur

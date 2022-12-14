@@ -3,7 +3,7 @@ controller = YUA
 add_core = YUA
 add_core = KHA
 
-culture = khalkha
+culture = buryat
 religion = tengri_pagan_reformed
 capital = "Bayan-Uul"
 

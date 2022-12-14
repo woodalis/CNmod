@@ -2,7 +2,7 @@
 
 owner = NOG
 controller = NOG
-culture = turko_mongol
+culture = nogaybak
 religion = sunni
 capital = "Saraychik"
 trade_goods = salt
