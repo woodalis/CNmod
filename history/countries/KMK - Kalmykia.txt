@@ -10,3 +10,13 @@ religion = vajrayana
 primary_culture = kalmyk
 
 capital = 473
+
+1415.1.1 = {
+	monarch = {
+		name = "Wengzi"
+		dynasty = "Khatagi"
+		birth_date = 1347.3.18	
+		adm = 3
+		dip = 2
+		mil = 2
+	}

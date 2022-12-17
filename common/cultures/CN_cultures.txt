@@ -281,14 +281,15 @@ finnic = {
 	vepsian = {
 		male_names = {
 			Artä Davšoi Gauroi Hilip Jakoi Johor Juša Ladü Matfii Mihal Mikul Ontei Pauloi Šan'ka Savas'jan
-			Taruk Timoi Tišoi Ol'koi Rürik Amos Izhan Vita
+			Taruk Timoi Tišoi Ol'koi Rürik Amos Izhan Vita Erkoi Anderoi Artoi Sašu Valäntoi Kiristov Romoi
+			Girigorii Košoi Fed'ja Arkadoi Jaroslov Tezor Keša Zahar Gided Pürä Sed Orvoi Pavoi Jalmar El'ja
 		}
 		female_names = {
 			Dašu Feša Iroi Natal'ja Natoi Ofim Ogoi Oksä Ol'on Palag Soh'ja Tomoi Ust'jä Uudoi Val'oi Zinaida
-			Raisa Vera Gal'ja Vit'ja Anna Nina
+			Raisa Vera Gal'ja Vit'ja Anna Nina 
 		}
 		dynasty_names = {
-			Soutjärvi Lonin Lod'jina Varasta
+			Soutjärvi Lonin Lod'jina Varasta Stukä Pirhoned Mäkela Pilah'ja Karlson Huduned Zalmined Makoned
 		}
 	}
 	izhorian = {

@@ -8,3 +8,14 @@ capital = 475	# Bashkortostan
 religious_school = hanafi_school
 historical_rival = SCY
 historical_friend = KMK
+
+1415.1.1 = {
+	monarch = {
+		name = "Kamaletdin"
+		dynasty = "Yerbola"
+		birth_date = 1379.9.7
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

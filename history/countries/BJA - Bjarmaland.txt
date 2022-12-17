@@ -13,10 +13,11 @@ historical_friend = SCY
 
 capital = 1955	#Arkhangelsk/Kaijakar
 
-1414.11.23 = {
+1415.1.1 = {
 	monarch = {
 		name = "Biatari"
 		dynasty = "Buki"
+		birth_date = 1384.12.21
 		adm = 5
 		dip = 5
 		mil = 3

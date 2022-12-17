@@ -9,7 +9,11 @@ capital = 298	# Kursk
 
 1415.1.1 = {
 	monarch = {
-		name = "Placeholder"
-		adm = 1
-		dip = 1
-		mil = 1
+		name = "Igor II"
+		dynasty = "Rurikovich"
+		birth_date = 1371.6.11
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
