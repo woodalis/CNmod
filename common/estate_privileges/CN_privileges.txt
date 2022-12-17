@@ -74,6 +74,35 @@ estate_liao_khans_nomadic_privileges = { #rights and privileges of the central a
 	}
 }
 
+####################
+# LIAO BUREAUCRACY #
+####################
+
+estate_liao_bureaucracy_understaffed = { #
+	icon = 
+	max_absolutism =
+	loyalty = 
+	land_share =
+	influence =
+	
+	is_valid = {
+	}
+	can_select = {
+	}
+	on_granted = {
+	}
+	can_revoke = {
+	}
+	
+	penalties = {
+	}
+	benefits = {
+	}
+	
+	ai_will_do = {
+	}
+}
+
 #################
 # SCY MUSHIRKUN #
 #################

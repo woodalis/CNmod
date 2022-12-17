@@ -1,0 +1,51 @@
+estate_liao_bureaucracy = {
+	icon = 4
+	color = { 168 171 71 }
+	
+	trigger = {
+		tag = LIA
+	}
+
+	country_modifier_happy = {
+		cavalry_power = 0.2
+	}
+	country_modifier_neutral = {
+		cavalry_power = 0.1
+	}	
+	country_modifier_angry = {
+		cavalry_power = -0.2
+	}
+
+	land_ownership_modifier = {
+		liao_bureaucracy_loyalty_modifier = 0.2
+	}
+
+	base_influence = 10
+	influence_modifier = {
+		desc = ESTATE_BUREAUCRATS_PLACEHOLDER1
+		trigger = {
+			always = no
+		}	
+		influence = 10
+	}
+
+	loyalty_modifier = {
+		desc = ESTATE_BUREAUCRATS_PLACEHOLDER2
+		trigger = {
+			always = no
+		}
+		loyalty = 15
+	}
+	
+	contributes_to_curia_treasury = no
+
+	privileges = {
+		estate_liao_bureaucracy_understaffed
+	}
+
+	agendas = {
+
+	}
+	
+	influence_from_dev_modifier = 1.0
+}

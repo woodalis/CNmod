@@ -1,0 +1,11 @@
+﻿l_english:
+
+ #bureaucracy localization
+ estate_liao_bureaucracy:0 "Imperial Bureaucracy"
+ estate_liao_bureaucracy_desc:0 "todo: loyalty is used to represent the general public's perception and trust of the bureaucratic apparatus instead of the bureaucracy's loyalty to the government, influence measures control of the bureaucrats over the empire's economy: high influence gives economic buffs but also pisses off merchants and needs more bureaucratic upkeep"
+ estate_liao_bureaucracy_ownership:0 "Bureaucratic Land Ownership"
+ liao_bureaucracy_loyalty_modifier:1 "Bureaucratic Trust Equilibrium"
+ liao_bureaucracy_influence_modifier:0 "Bureaucratic Control"
+ 
+ 
+ #bureaucracy privileges

@@ -16,6 +16,24 @@ estate_liao_khans = {
 	}
 }
 
+estate_liao_bureaucracy = {
+	modifier_definition = {
+		type = loyalty
+		key = liao_bureaucracy_loyalty_modifier
+		trigger = {
+			has_estate = estate_liao_bureaucracy
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = liao_bureaucracy_influence_modifier
+		trigger = {
+			has_estate = estate_liao_bureaucracy
+		}
+	}
+}
+
 estate_SCY_mushirkun = {
 	modifier_definition = {
 		type = loyalty
