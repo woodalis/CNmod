@@ -1,12 +1,11 @@
 #2208 - Terek
 
-owner = KHZ
-controller = KHZ
-add_core = KHZ
+owner = AST
+controller = AST
 add_core = GAZ
 add_core = AST
 
-culture = chechen
+culture = kumyk
 religion = sunni
 capital = "Mozdok"
 

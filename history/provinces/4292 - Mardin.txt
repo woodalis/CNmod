@@ -5,8 +5,8 @@ controller = SLJ
 add_core = SLJ
 add_core = AKK
 
-culture = kurdish
-religion = sunni
+culture = armenian
+religion = nestorian
 capital = "Mardin"
 
 trade_goods = wool

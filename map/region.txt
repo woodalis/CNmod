@@ -277,6 +277,7 @@ crimea_region = {
 		crimea_area
 		lower_don_area
 		astrakhan_area
+		majar_area
 		zaporizhia_area
 		yedisan_area
 		azov_area
@@ -361,11 +362,12 @@ mashriq_region = {
 	areas = {
 		syria_area
 		palestine_area
-		al_jazira_area
+		mosul_area
 		iraq_arabi_area
+		shahrizor_area
 		basra_area
 		trans_jordan_area
-		syrian_desert_area
+		phoenicia_area
 		aleppo_area
 	}
 }
@@ -374,9 +376,11 @@ anatolia_region = {
 	areas = {
 		hudavendigar_area
 		aydin_area
+		antalya_area
 		karaman_area
 		rum_area
 		kastamonu_area
+		trebizond_area
 		erzurum_area
 		north_kurdistan_area
 		dulkadir_area
@@ -399,7 +403,6 @@ persia_region = {
 		persian_gulf_coast
 		tabriz_area
 		khuzestan_area
-		shahrizor_area
 		mogostan_area
 	}
 }
@@ -423,6 +426,7 @@ khorasan_region = {
 caucasia_region = {
 	areas = {
 		circassia_area
+		alania_area
 		shirvan_area
 		armenia_area
 		dagestan_area
@@ -444,6 +448,7 @@ arabia_region = {
 		mahra_area
 		hadramut_area
 		bahrain_area
+		hasa_area
 		oman_area
 		pirate_coast_area
 		dhofar_area
@@ -497,6 +502,7 @@ guinea_region = {
 sahel_region = {
 	areas = {
 		darfur_central_sahara_area
+		wadai_area
 		kanem_area
 		bornu_area
 		azbin_area
@@ -515,23 +521,26 @@ sahel_region = {
 
 horn_of_africa_region = {
 	areas = {
-		ajuuran_area
+		geledi_area
+		hobyo_area
 		southern_ethiopia_area
 		central_ethiopia_area
-		ifat_area
+		harar_area
 		tigray_area
 		somaliland_area
+		ifat_area
 		ogaden_area
 		majarteen_area
 		mogadishu_area
 		red_sea_coast_area
+		middle_nubia_area
 		upper_nubia_area
 		sennar_area
 		dongola_area
 		hadiya_area
 		damot_area
 		aussa_area
-		shewa_area
+		eritrea_area
 	}
 }
 

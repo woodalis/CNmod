@@ -6,7 +6,7 @@ add_core = KHZ
 add_core = CIR
 
 culture = circassian
-religion = jewish
+religion = orthodox
 capital = "Adyche"
 
 trade_goods = livestock

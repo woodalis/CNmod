@@ -2,7 +2,7 @@
 
 owner = AVR
 controller = AVR
-culture = chechen
+culture = avar
 religion = sunni
 capital = "Khunzah"
 trade_goods = livestock
