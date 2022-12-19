@@ -531,6 +531,14 @@ kipchak = {
 			placeholder
 		}
 	}
+	karakalpak = {
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
 }
 
 karluk = {
@@ -1803,6 +1811,20 @@ roman_group = {
 		}
 		female_names = {
 			Prima Secunda Tertia Quarta Quinta Septa Septima Octava Nona Decima Undecima Duodecima
+		}
+	}
+}
+
+assyrian_group = {
+	assyrian = {
+		dynasty_names = {
+			placeholder
+		}
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
 		}
 	}
 }

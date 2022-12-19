@@ -8,7 +8,7 @@ add_core = SHY
 add_core = KHI
 add_core = TRS
 
-culture = uzbehk
+culture = karakalpak
 religion = sunni
 capital = "Chimbay"
 

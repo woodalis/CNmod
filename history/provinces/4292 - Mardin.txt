@@ -5,7 +5,7 @@ controller = SLJ
 add_core = SLJ
 add_core = AKK
 
-culture = armenian
+culture = assyrian
 religion = nestorian
 capital = "Mardin"
 
