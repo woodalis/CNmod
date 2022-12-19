@@ -2,7 +2,7 @@
 
 owner = SLJ
 controller = SLJ
-culture = avar
+culture = lak
 religion = sunni
 capital = "Kumukh"
 trade_goods = iron

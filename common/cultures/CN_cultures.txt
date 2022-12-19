@@ -1157,7 +1157,7 @@ siberian_turkic = {
 	}
 }
 
-caspian = {
+caspian = { #northeast caucasian
 	graphical_culture = muslimgfx
 	chechen = { 
 		dynasty_names = {
@@ -1182,6 +1182,28 @@ caspian = {
 		}
 	}
 	avar = {
+		dynasty_names = {
+			placeholder
+		}
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
+	dargin = {
+		dynasty_names = {
+			placeholder
+		}
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
+	lak = {
 		dynasty_names = {
 			placeholder
 		}
@@ -1440,6 +1462,17 @@ kartvelian = {
 		}
 	}
 	mingrelian = {
+		dynasty_names = {
+			placeholder
+		}
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
+	svan = {
 		dynasty_names = {
 			placeholder
 		}

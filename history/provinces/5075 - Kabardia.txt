@@ -6,7 +6,7 @@ add_core = KHZ
 add_core = CIR
 
 culture = circassian
-religion = orthodox
+religion = ukonusko
 capital = "Čerkessk"
 
 trade_goods = iron

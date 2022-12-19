@@ -4,8 +4,8 @@ owner = KHZ
 controller = KHZ
 add_core = KHZ
 
-culture = alan
-religion = orthodox
+culture = chechen
+religion = sunni
 capital = "Tserlona"
 
 trade_goods = iron

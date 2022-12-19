@@ -2,7 +2,7 @@
 
 owner = SLJ
 controller = SLJ
-culture = kumyk
+culture = dargin
 religion = sunni
 capital = "Sambalut"
 trade_goods = fish
