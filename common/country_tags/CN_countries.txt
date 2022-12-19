@@ -13,6 +13,7 @@ GWY = "countries/Gwynedd.txt"
 
 #Balkans
 MAC = "countries/Macedonia.txt"
+PTD = "countries/PatriarchialDomain.txt"
 SFY = "countries/Sofia.txt"
 VAR = "countries/Varna.txt"
 
@@ -116,10 +117,14 @@ PIE = "countries/Piedmont.txt"
 RAV = "countries/Ravenna.txt"
 SAN = "countries/SanMarino.txt"
 TRO = "countries/Treviso.txt"
+WRE = "countries/WesternRomanEmpire.txt"
 
 #Low Countries
 OVE = "countries/Oversitcht.txt"
 NAM = "countries/Namur.txt"
+
+#Maghreb
+SLY = "countries/BanuSulaym.txt"
 
 #Mesoamerica
 LCA = "countries/Lenca.txt"

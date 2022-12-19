@@ -1,8 +1,8 @@
 #356 - Cyrenaica
 
-owner = ITA
-controller = ITA
-add_core = ITA
+owner = SLY
+controller = SLY
+add_core = SLY
 
 culture = al_misr_arabic
 religion = sunni

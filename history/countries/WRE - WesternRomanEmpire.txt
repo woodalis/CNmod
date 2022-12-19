@@ -1,0 +1,10 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+government_rank = 3
+
+primary_culture = roman
+
+religion = catholic
+
+capital = 118 # Rome

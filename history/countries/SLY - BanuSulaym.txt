@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+government_rank = 1
+
+religion = sunni
+religious_school = maliki_school
+
+primary_culture = tunisian
+
+capital = 2451

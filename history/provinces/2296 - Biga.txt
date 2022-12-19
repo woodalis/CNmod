@@ -1,17 +1,19 @@
 #2296 - Biga
 
-owner = BYZ
-controller = BYZ
+owner = PTD
+controller = PTD
+add_core = PTD
+
 culture = greek
 religion = orthodox
 capital = "Biga"
+
 trade_goods = naval_supplies
 hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = BYZ
 
 discovered_by = western
 discovered_by = eastern
