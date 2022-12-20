@@ -5,7 +5,7 @@ controller = SLJ
 add_core = SLJ
 add_core = LRI
 
-culture = luri
+culture = kurdish
 religion = sunni
 capital = "Kirmanshah"
 

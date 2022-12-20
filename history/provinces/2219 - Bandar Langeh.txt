@@ -6,8 +6,8 @@ add_core = SLJ
 add_core = ORM
 add_core = FRS
 
-culture = persian
-religion = sunni
+culture = gulf_arabic
+religion = shiite
 capital = "Bandar Langeh"
 
 trade_goods = spices

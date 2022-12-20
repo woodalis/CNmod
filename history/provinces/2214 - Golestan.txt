@@ -6,8 +6,8 @@ add_core = SLJ
 add_core = KHO
 add_core = TAB
 
-culture = mazandarani
-religion = shiite
+culture = turkmeni
+religion = sunni
 capital = "Asatarabad"
 
 trade_goods = tea

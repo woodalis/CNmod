@@ -5,7 +5,7 @@ controller = LIA
 add_core = LIA
 
 culture = kirgiz
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Urzhar"
 
 trade_goods = salt

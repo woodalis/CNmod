@@ -6,7 +6,7 @@ add_core = SLJ
 add_core = QOM
 add_core = LRI
 
-culture = luri
+culture = persian
 religion = shiite
 capital = "Hamedan"
 

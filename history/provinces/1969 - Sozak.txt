@@ -6,7 +6,7 @@ add_core = LIA
 add_core = TRS
 
 culture = turko_mongol
-religion = tengri_pagan_reformed
+religion = sunni
 capital = "Sozak"
 
 trade_goods = salt
