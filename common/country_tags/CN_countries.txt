@@ -84,6 +84,7 @@ SIN = "countries/Sindhanur.txt"
 TAM = "countries/Tamil.txt"
 UDA = "countries/Udayagiri.txt"
 VAD = "countries/Vadodara.txt"
+XEN = "countries/XenArmy.txt"
 
 #Indochina
 AMR = "countries/Amaravati.txt"

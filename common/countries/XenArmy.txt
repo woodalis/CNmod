@@ -1,0 +1,86 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 200  204  91 }
+
+revolutionary_colors = { 1 0 1 } #placeholder
+
+historical_idea_groups = {
+	offensive_ideas
+	espionage_ideas
+	quality_ideas
+	quantity_ideas
+	administrative_ideas
+	trade_ideas
+	influence_ideas
+	economic_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+		"Tedong #0" = 50
+		"Mertazhao #0" = 40
+		"Ablad #0" = 40
+		"Yushupjang #0" = 40
+		"Satug #0" = 30
+		"Bayurjak #0" = 30
+		"Maomud #0" = 30
+		"Shouyad #0" = 30
+		"Shoyed #0" = 20
+		"Yayangi #0" = 20
+		"Shodun #0" = 20
+		"Zhumad #0" = 20
+		"Ali #0" = 20
+		"Saliyan #0" = 20
+		"Magshad #0" = 20
+		"Tushunbao #0" = 20
+		"Yami #0" = 10
+		"Medao #0" = 10
+		"Abushamad #0" = 10
+		"Shabubek #0" = 10
+		"Bad #0" = 10
+		"Taogajin #0" = 10
+		"Yabuga #0" = 10
+		"Dayan #0" = 10
+		"Shigugetu #0" = 10
+		"Kishiyu #0" = 10
+		"Huang #0" = 10
+		"Min #0" = 10
+		"Yang #0" = 10
+		"Luoyang #0" = 10
+		"Jie #0" = 10
+		"Kun #0" = 10
+
+		"Shaniyao #0" = -50
+		"Sayamad #0" = -30
+		"Kunduzh #0" = -30
+		"Miya #0" = -10
+		"Dunyam #0" = -10
+		"Na #0" = -10
+		"Fang #0" = -10
+}
+
+leader_names = {
+	placeholder
+}
+
+ship_names = {
+	placeholder
+}
