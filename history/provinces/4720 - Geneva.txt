@@ -1,6 +1,6 @@
 owner = PRO
 controller = PRO
-culture = swiss
+culture = arpitan
 religion = waldensian
 capital = "Geneva"
 trade_goods = cloth

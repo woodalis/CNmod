@@ -1,6 +1,6 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
-primary_culture = cosmopolitan_french
+primary_culture = champenois
 religion = catholic
 technology_group = western
 capital = 4952

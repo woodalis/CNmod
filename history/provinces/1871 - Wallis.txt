@@ -2,7 +2,7 @@
 
 owner = SWI
 controller = SWI
-culture = swiss
+culture = arpitan
 religion = waldensian
 capital = "Sion"
 trade_goods = livestock

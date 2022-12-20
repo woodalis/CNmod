@@ -2,7 +2,7 @@
 
 owner = PRO
 controller = PRO
-culture = swiss
+culture = arpitan
 religion = waldensian
 capital = "Lausanne"
 trade_goods = livestock

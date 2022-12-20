@@ -2,6 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 religion = catholic
-primary_culture = occitain
+primary_culture = provencal
 technology_group = western
 capital = 202	# Avignon

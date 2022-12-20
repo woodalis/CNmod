@@ -4,4 +4,6 @@ government_rank = 1
 primary_culture = picard
 religion = catholic
 technology_group = western
-capital = 182
+capital = 89 # picardy
+fixed_capital = 89 # Cannot move capital away from this province & no power cost to move to it
+

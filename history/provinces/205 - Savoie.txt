@@ -2,7 +2,7 @@
 
 owner = PRO
 controller = PRO
-culture = occitain
+culture = arpitan
 religion = waldensian
 hre = yes
 base_tax = 6

@@ -1518,8 +1518,8 @@ french	= {
 	aquitaine = {
 		primary = TOU
 	}
-	burgundian = {
-		primary = BUR
+	champenois = {
+		primary = CHP
 	}
 	occitain = {
 		primary = PRO
@@ -1532,6 +1532,27 @@ french	= {
 	}
 	quebecois = {
 		primary = QUE
+	}
+	auvergnat = {
+		primary = AUV
+	}
+	arpitan = {
+		primary = DAU
+	}
+	picard = {
+		primary = PIC
+	}
+	poitevin = {
+		primary = POU
+	}
+	angevin = {
+		primary = ANJ
+	}
+	burgundian = {
+		primary = BUR
+	}
+	provencal = {
+		primary = PRO
 	}
 	breton = {
 		primary = BRI

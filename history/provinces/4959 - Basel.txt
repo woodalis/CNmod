@@ -2,7 +2,7 @@
 
 owner = BSL
 controller = BSL
-culture = swiss
+culture = burgundian
 religion = catholic
 capital = "Basel"
 trade_goods = glass
