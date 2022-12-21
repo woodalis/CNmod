@@ -89,18 +89,21 @@ country_decisions = {
 				}
 				change_culture = manghit
 			}
-			every_province = {
-				limit = {
-					culture_group = kipchak
-					NOT = { is_core = KIP }
-				}
-				add_permanent_claim = KIP
-			}
 			if = {
 				limit = {
 					NOT = { government_rank = 3 }
 				}
 				set_government_rank = 3
+			}
+			custom_tooltip = KIP_claims
+			hidden_effect = {
+				every_province = {
+					limit = {
+						culture_group = kipchak
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = KIP
+				}
 			}
 		}
 		ai_will_do = {
