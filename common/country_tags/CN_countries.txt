@@ -152,6 +152,7 @@ KRS = "countries/Kursk.txt"
 UKO = "countries/Ukko.txt"
 VLB = "countries/VolgaBulgaria.txt"
 VYA = "countries/Vyatichi.txt"
+KIP = "countries/Kipchak.txt"
 
 #South Germany
 ASC = "countries/Aschaffenburg.txt"

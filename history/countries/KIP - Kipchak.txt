@@ -1,0 +1,9 @@
+government = tribal
+add_government_reform = steppe_horde
+primary_culture = nogaybak
+religion = sunni
+technology_group = nomad_group
+capital = 4687	# Imakia
+religious_school = hanafi_school
+historical_rival = MGE
+historical_rival = YUA

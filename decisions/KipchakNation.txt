@@ -1,0 +1,110 @@
+country_decisions = {
+
+   kipchak_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_kipchak_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { exists = ARB }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			OR = {
+				culture_group = kipchak
+				primary_culture = turko_mongol
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 4687			#Khagan-Kimek and Imekia
+				province_id = 284				#Crimea
+				province_id = 1082			#Kazan
+				province_id = 716				#Tuva
+				province_id = 464				#Astrakhan
+				province_id = 466				#Sarai
+				province_id = 465				#Nogay
+				province_id = 2354			#Shegendyk
+				province_id = 476				#Kypshak
+				province_id = 1075			#Tyumen
+				province_id = 475				#Bashkortostan
+				province_id = 2118			#Urzhar
+			
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			has_reform = steppe_horde
+			owns_core_province = 4687			#Imekia
+			owns_core_province = 464			#Astrakhan
+			owns_core_province = 466			#Sarai
+			owns_core_province = 465			#Nogay
+			owns_core_province = 2354			#Shegendyk
+			owns_core_province = 476			#Kypshak
+			owns_core_province = 1075			#Tyumen
+			owns_core_province = 475			#Bashkortostan
+			owns_core_province = 2118			#Urzhar
+			OR = {
+				owns_core_province = 716		#Tuva
+				owns_core_province = 1082		#Kazan
+				owns_core_province = 284		#Crimea
+			}
+		}
+		effect = {
+			add_prestige = 25
+			set_country_flag = formed_kipchak_flag
+			change_tag = KIP
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					primary_culture = turko_mongol
+				}
+				change_primary_culture = manghit
+			}
+			every_province = {
+				limit = {
+					culture = turko_mongol
+					owned_by = KIP
+					is_core = KIP
+				}
+				change_culture = manghit
+			}
+			every_province = {
+				limit = {
+					culture_group = kipchak
+					NOT = { is_core = KIP }
+				}
+				add_permanent_claim = KIP
+			}
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

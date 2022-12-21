@@ -539,6 +539,14 @@ kipchak = {
 			placeholder
 		}
 	}
+	manghit = {
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
 }
 
 karluk = {
