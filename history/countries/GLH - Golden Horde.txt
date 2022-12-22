@@ -1,6 +1,6 @@
 government = tribal
 add_government_reform = steppe_horde
-primary_culture = placeholder_culture
+primary_culture = oirats
 religion = sunni
 technology_group = nomad_group
-capital = 303	# Saratov
+capital = 2420	# Agyidel

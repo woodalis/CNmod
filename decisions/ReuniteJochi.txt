@@ -1,0 +1,150 @@
+country_decisions = {
+
+   reunite_jochi = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_jochi_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				is_free_or_tributary_trigger = yes
+				ai = no
+			}
+			NOT = { exists = GLH }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			OR = { 
+				tag = KMK
+				tag = OIR
+			}
+			culture_group = mongolic
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 466				#Sarai
+				province_id = 2420			#Agyidel
+				province_id = 473				#Samara
+				province_id = 1965			#Buzuluk
+				province_id = 2358			#Altyn
+				province_id = 1970			#Syghnak
+				province_id = 456				#Turkestan
+				province_id = 1969			#Sozak
+				province_id = 2355			#Narym
+				province_id = 2119			#Chuguchak
+				
+			}				
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			has_reform = steppe_horde
+			owns_core_province = 466			#Sarai
+			owns_core_province = 2420			#Agyidel
+			owns_core_province = 473			#Samara
+			owns_core_province = 1965			#Buzuluk
+			owns_core_province = 2358			#Altyn
+			owns_core_province = 1970			#Syghnak
+			owns_core_province = 456			#Turkestan
+			owns_core_province = 1969			#Sozak
+			owns_core_province = 2355			#Narym
+			owns_core_province = 2119			#Chuguchak
+		}
+		effect = {
+			add_prestige = 25
+			set_country_flag = reunited_jochi_flag
+			change_tag = GLH
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 3 }
+				}
+				set_government_rank = 3
+			}
+			nogai_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			lower_yik_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			astrakhan_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			samara_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			bashkiria_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			ishim_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			kazakhstan_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			syr_darya_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			aqmola_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			balchash_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			yrtesh_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

@@ -32,18 +32,18 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 4687				#Khagan-Kimek and Imekia
+				province_id = 4687			#Khagan-Kimek and Imekia
 				province_id = 284				#Crimea
-				province_id = 1082				#Kazan
+				province_id = 1082			#Kazan
 				province_id = 716				#Tuva
 				province_id = 464				#Astrakhan
 				province_id = 466				#Sarai
 				province_id = 465				#Nogay
-				province_id = 2354				#Shegendyk
+				province_id = 2354			#Shegendyk
 				province_id = 476				#Kypshak
-				province_id = 1075				#Tyumen
+				province_id = 1075			#Tyumen
 				province_id = 475				#Bashkortostan
-				province_id = 2118				#Urzhar
+				province_id = 2118			#Urzhar
 			
 			}
 			OR = {
@@ -122,6 +122,13 @@ country_decisions = {
 					add_permanent_claim = KIP
 				}
 				mongolia_region = {
+					limit = {
+						culture_group = kipchak
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = KIP
+				}
+				caucasia_region = {
 					limit = {
 						culture_group = kipchak
 						NOT = { is_core = ROOT }
