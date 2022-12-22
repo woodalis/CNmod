@@ -1,4 +1,4 @@
-#459 - Taraz
+#459 - Taykonyr
 
 owner = LIA
 controller = LIA
@@ -7,7 +7,7 @@ add_core = KZH
 
 culture = khazak
 religion = sunni
-capital = "Taraz"
+capital = "Taykonyr"
 
 trade_goods = cloth
 hre = no

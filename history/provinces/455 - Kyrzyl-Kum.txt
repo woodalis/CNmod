@@ -7,9 +7,9 @@ add_core = KZH
 add_core = SHY
 add_core = TRS
 
-culture = khazak
+culture = karakalpak
 religion = nestorian
-capital = "Kyzyl Kum"
+capital = "Karabayli"
 
 trade_goods = livestock
 hre = no
