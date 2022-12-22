@@ -1,20 +1,4 @@
-#2417 - Kuma
-
-owner = KHZ
-controller = KHZ
-add_core = KHZ
-
-culture = khazar
-religion = jewish
-capital = "Kuma"
-
-hre = no
-base_tax = 2 
-base_production = 2
-trade_goods = iron 
-base_manpower = 2
-is_city = yes
-
+#2417 - Yaskul
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

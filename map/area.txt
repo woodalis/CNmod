@@ -647,7 +647,7 @@ ostra_svealand_area = { #4
 }
 
 norrland_area = { #4
-	9
+	9 5027 5029
 }
 
 finland_area = { #5
@@ -853,7 +853,7 @@ astrakhan_area = { #3
 }
 
 majar_area = { #4
-	 468 2416 2417 5074
+	 468 2416 5074
 }
 
 lower_don_area = { #4
@@ -869,7 +869,7 @@ samara_area = { #4
 }
 
 lower_yik_area = { #4
-	469 474 2365 2367
+	474 2365 2367
 }
 
 nogai_area = { #5
@@ -3885,11 +3885,11 @@ CN3_area = {
 }
 
 CN_vasterbotten_area = {
-	11 18 5024 5027
+	11 18 5024
 }
 
 CN_norrbotten_area = {
-	4113 5025 5028 5029 5030
+	4113 5025 5028 5030
 }
 
 CN_kemijoki_area = {
