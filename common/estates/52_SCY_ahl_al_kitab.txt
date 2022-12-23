@@ -11,11 +11,10 @@ estate_SCY_ahl_al_kitab = {
 	# These scale with loyalty & power
 	country_modifier_happy = {
 	 	technology_cost = -0.2
-		tolerance_heathen = 2
+		tolerance_heathen = 1
 	}
 	country_modifier_neutral = {
 		tolerance_heathen = -1
-		global_unrest = 2
 	}	
 	country_modifier_angry = {
 	 	technology_cost = 0.1
@@ -60,6 +59,7 @@ estate_SCY_ahl_al_kitab = {
 	influence_from_dev_modifier = 1
 	
 	privileges = {
+		estate_SCY_ahl_al_kitab_indefinite_treaties
 	}
 
 	agendas = {

@@ -12,6 +12,10 @@ add_accepted_culture = vyatichi
 
 capital = 1754	#Murom
 
+set_estate_privilege = estate_SCY_ahl_al_kitab_indefinite_treaties
+set_estate_privilege = estate_SCY_mushirkun_indefinite_treaties
+set_estate_privilege = estate_SCY_mushirkun_autonomy
+
 historical_rival = POL
 historical_rival = NOV
 historical_rival = BEZ

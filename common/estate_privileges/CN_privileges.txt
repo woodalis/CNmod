@@ -78,37 +78,37 @@ estate_liao_khans_nomadic_privileges = { #rights and privileges of the central a
 # LIAO BUREAUCRACY #
 ####################
 
-estate_liao_bureaucracy_understaffed = { #
-	icon = 
-	max_absolutism =
-	loyalty = 
-	land_share =
-	influence =
-	
-	is_valid = {
-	}
-	can_select = {
-	}
-	on_granted = {
-	}
-	can_revoke = {
-	}
-	
-	penalties = {
-	}
-	benefits = {
-	}
-	
-	ai_will_do = {
-	}
-}
+#estate_liao_bureaucracy_understaffed = { #
+#	icon = 
+#	max_absolutism =
+#	loyalty = 
+#	land_share =
+#	influence =
+#	
+#	is_valid = {
+#	}
+#	can_select = {
+#	}
+#	on_granted = {
+#	}
+#	can_revoke = {
+#	}
+#	
+#	penalties = {
+#	}
+#	benefits = {
+#	}
+#	
+#	ai_will_do = {
+#	}
+#}
 
-#################
-# SCY MUSHIRKUN #
-#################
+####################
+# SCY AHL AL KITAB #
+####################
 
-estate_SCY_mushirkun_indefinite_treaties = { # dar al ahd type stuff
-	icon = privilege_new_world_mission
+estate_SCY_ahl_al_kitab_indefinite_treaties = { # dar al ahd type stuff
+	icon = privilege_religious_diplomats
 	max_absolutism = -10
 	loyalty = 0.10
 	land_share = 0
@@ -149,6 +149,134 @@ estate_SCY_mushirkun_indefinite_treaties = { # dar al ahd type stuff
 	benefits = {
 		diplomatic_upkeep = 2
 		reduced_liberty_desire_on_same_continent = 10
+	}
+	
+	ai_will_do = {
+		factor = 10
+	}
+}
+
+#################
+# SCY MUSHIRKUN #
+#################
+
+estate_SCY_mushirkun_indefinite_treaties = { # dar al ahd type stuff
+	icon = privilege_new_world_mission
+	max_absolutism = -5
+	loyalty = 0.10
+	land_share = 0
+	influence = 0.10
+
+	is_valid = {
+		tag = SCY
+		OR = {
+			any_subject_country = {
+				is_march = yes
+			}
+			vassal = 1
+		}
+	}
+	can_select = {
+		calc_true_if = {
+			amount = 1
+			all_subject_country = {
+				NOT = {
+					OR = {
+						religion_group = muslim
+						religion_group = christian
+						religion_group = jewish_group
+						religion_group = zoroastrian_group
+					}
+				}
+				OR = {
+					is_march = yes
+					is_vassal = yes
+				}
+			}
+		}
+	}
+
+	penalties = {
+		diplomatic_annexation_cost = 2
+	}
+	benefits = {
+		diplomatic_upkeep = 1
+		reduced_liberty_desire_on_same_continent = 10
+	}
+	
+	ai_will_do = {
+		factor = 10
+	}
+}
+
+estate_SCY_mushirkun_autonomy = {
+	icon = privilege_decentralized
+	max_absolutism = -5
+	loyalty = 0.15
+	land_share = 0
+	influence = 0.10
+
+	is_valid = {
+		tag = SCY
+	}
+	can_select = {
+	}
+
+	on_granted = {
+		custom_tooltip = estate_SCY_mushirkun_autonomy_effect_tooltip
+	}
+	on_granted_province = {
+		if = {
+			limit = {
+				NOT = {
+					OR = {
+						religion_group = muslim
+						religion_group = christian
+						religion_group = jewish_group
+						religion_group = zoroastrian_group
+					}
+				}
+			}
+			add_province_modifier = {
+				name = estate_SCY_mushirkun_autonomy_privilege_mod
+				duration = -1
+			}
+		}
+		else_if = {
+			limit = {
+				has_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+			}
+			remove_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+		}
+	}
+	on_revoked = {
+		custom_tooltip = estate_SCY_mushirkun_autonomy_revoke_effect_tooltip
+	}
+	on_revoked_province = {
+		if = {
+			limit = {
+				has_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+			}
+			remove_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+		}
+	}
+	on_invalid = {
+		custom_tooltip = estate_SCY_mushirkun_autonomy_revoke_effect_tooltip
+	}
+	on_invalid_province = {
+		if = {
+			limit = {
+				has_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+			}
+			remove_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+		}
+	}
+
+	penalties = {
+		diplomatic_annexation_cost = 2
+	}
+	benefits = {
+		diplomatic_upkeep = 1
 	}
 	
 	ai_will_do = {

@@ -11,17 +11,14 @@ estate_SCY_mushirkun = {
 	# These scale with loyalty & power
 	country_modifier_happy = {
 		native_uprising_chance = -0.5
-		native_assimilation = 0.5
-		tolerance_heathen = 2
+		tolerance_heathen = 1
 	}
 	country_modifier_neutral = {
-		tolerance_heathen = -2
-		global_unrest = 2
+		tolerance_heathen = -1
 	}	
 	country_modifier_angry = {
 		native_uprising_chance = 0.5
-		native_assimilation = -1
-		tolerance_heathen = -4
+		tolerance_heathen = -2
 		global_unrest = 4
 	}
 	land_ownership_modifier = {
@@ -68,6 +65,7 @@ estate_SCY_mushirkun = {
 	
 	privileges = {
 		estate_SCY_mushirkun_indefinite_treaties
+		estate_SCY_mushirkun_autonomy
 	}
 
 	agendas = {

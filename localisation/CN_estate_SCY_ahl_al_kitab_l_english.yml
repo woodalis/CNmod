@@ -1,7 +1,11 @@
 ﻿l_english:
  # ahlalkitab localization
  estate_SCY_ahl_al_kitab:0 "Ahl al-Kitab"
- estate_SCY_ahl_al_kitab_desc:0 "In the Qur'an, the Ahl al-Kitab, or People of the Book, are non-Muslims who have received revelations from Allah in the form of scripture. The peoples explicitly mentioned in the Qur'an are the Jews, Christians and Sabians. In Islamic Jurisprudence tradition, more groups are sometimes considered to be People of the Book, such as Zoroastrians. The Ahl al-Kitab, being part of the monotheistic community, are obligated to be well treated by Muslims, though tensions between communities can and do often reach violence."
+ estate_SCY_ahl_al_kitab_desc:0 "In the Qur'an, the Ahl al-Kitab, or People of the Book, are non-Muslims who have received revelations from Allah in the form of scripture. The peoples explicitly mentioned in the Qur'an are the Jews, Christians and Sabians. In Islamic jurisprudential tradition, more groups are sometimes considered to be People of the Book, such as Zoroastrians. The Ahl al-Kitab, being part of the monotheistic community, are obligated to be well treated by Muslims, though tensions between communities can and do often reach violence."
  estate_SCY_ahl_al_kitab_ownership:0 "Ahl al-Kitab Land Ownership"
  SCY_ahl_al_kitab_loyalty_modifier:1 "Ahl al-Kitab Loyalty Equilibrium"
  SCY_ahl_al_kitab_influence_modifier:0 "Ahl al-Kitab Influence"
+ 
+ #ahlalkitab privileges
+ estate_SCY_ahl_al_kitab_indefinite_treaties:0 "Monotheist community with the Ahl Al Kitab"
+ estate_SCY_ahl_al_kitab_indefinite_treaties_desc:0 "In Christians and especially Jews we find unity in monotheism. Even if misguided, their unshaken belief in Allah shows that they are worthy of protection. Through the Qur'an and by Muhammad's example, our obligations to the Ahl al-Kitab are clear and change could cause much uproar.\n\n§ROverturning this privilege could upset more than just the Ahl al-Kitab!§!"

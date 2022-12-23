@@ -1,0 +1,5 @@
+estate_SCY_mushirkun_autonomy_privilege_mod = {
+	religion = yes
+	min_local_autonomy = 80
+	local_unrest = -4
+}

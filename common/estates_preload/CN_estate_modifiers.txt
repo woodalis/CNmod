@@ -39,7 +39,7 @@ estate_SCY_mushirkun = {
 		type = loyalty
 		key = SCY_mushirkun_loyalty_modifier
 		trigger = {
-			has_estate = estate_SCY_mushirkun_khans
+			has_estate = estate_SCY_mushirkun
 		}
 	}
 
@@ -47,7 +47,25 @@ estate_SCY_mushirkun = {
 		type = influence
 		key = SCY_mushirkun_influence_modifier
 		trigger = {
-			has_estate = estate_SCY_mushirkun_khans
+			has_estate = estate_SCY_mushirkun
+		}
+	}
+}
+
+estate_SCY_ahl_al_kitab = {
+	modifier_definition = {
+		type = loyalty
+		key = SCY_ahl_al_kitab_loyalty_modifier
+		trigger = {
+			has_estate = estate_SCY_ahl_al_kitab
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = SCY_ahl_al_kitab_influence_modifier
+		trigger = {
+			has_estate = estate_SCY_ahl_al_kitab
 		}
 	}
 }
