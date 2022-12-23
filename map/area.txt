@@ -872,8 +872,8 @@ lower_yik_area = { #4
 	474 2365 2367
 }
 
-nogai_area = { #5
-	465 470 471 472 2366
+nogai_area = { #6
+	465 470 471 472 2366 439
 }
 
 ural_area = { #5
@@ -2047,12 +2047,12 @@ ferghana_area = { #3
 	458 460 1967
 }
 
-arys_area = { #3
-	457 2364 2356
+arys_area = { #4
+	457 2364 2356 2363
 }
 
 kyzylkum_area = { #3
-	455 1970 2363
+	455 1970 2352
 }
 
 transoxiana_area = { #3
@@ -2063,7 +2063,7 @@ termez_area = { #3
 	1968 4344 4343
 }
 
-khiva_area = { #5
+khiva_area = { #6
 	440 441 443 1973 2362 2370
 }
 
@@ -2072,8 +2072,8 @@ kabulistan_area = { #5
 	448 451 452 578 2226
 }
 
-transcaspia_area = {
-	437 439 2349 4969 4976
+transcaspia_area = { #4
+	437 2349 4969 4976
 }
 
 mashhad_area = { #5 - Northern Khorasan
@@ -2785,11 +2785,11 @@ balchasj_area = { #5
 }
 
 kazakhstan_area = { #6
-	476 2351 2353 2358 2359 2352
+	476 2351 2353 2358 2359 2361
 }
 
 syr_darya_area = { #3
-	456 1969 2361 4973
+	456 1969 459
 }
 
 yrtesh_area = { #5
@@ -2895,7 +2895,7 @@ uliastai_area = {#3
 
 jetysuu_area = { #5
 	color = { 56 37 169 }
-	459 461 2125 2126 2368
+	461 2125 2126 2368 4973
 }
 
 kashgaria_area = { #5 #Just Kashgar & Yarkand

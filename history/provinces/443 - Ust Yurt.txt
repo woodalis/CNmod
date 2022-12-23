@@ -2,7 +2,7 @@
 
 owner = NOG
 controller = NOG
-culture = karakalpak
+culture = nogaybak
 religion = sunni
 capital = "Aktumsyk"
 trade_goods = livestock

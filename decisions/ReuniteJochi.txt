@@ -76,25 +76,19 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
-			nogai_area = {
-					limit = {
-						NOT = { is_core = ROOT }
-					}
-					add_permanent_claim = GLH
-			}
-			lower_yik_area = {
-					limit = {
-						NOT = { is_core = ROOT }
-					}
-					add_permanent_claim = GLH
-			}
 			astrakhan_area = {
 					limit = {
 						NOT = { is_core = ROOT }
 					}
 					add_permanent_claim = GLH
 			}
-			samara_area = {
+			aqmola_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			balchasj_area = {
 					limit = {
 						NOT = { is_core = ROOT }
 					}
@@ -118,19 +112,31 @@ country_decisions = {
 					}
 					add_permanent_claim = GLH
 			}
+			kyzylkum_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			lower_yik_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			nogai_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
+			samara_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_permanent_claim = GLH
+			}
 			syr_darya_area = {
-					limit = {
-						NOT = { is_core = ROOT }
-					}
-					add_permanent_claim = GLH
-			}
-			aqmola_area = {
-					limit = {
-						NOT = { is_core = ROOT }
-					}
-					add_permanent_claim = GLH
-			}
-			balchash_area = {
 					limit = {
 						NOT = { is_core = ROOT }
 					}
