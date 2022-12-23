@@ -17,6 +17,9 @@ capital = 2125	#Balashagun
 
 set_estate_privilege = estate_liao_khans_nomadic_privileges
 
+khorasan_region = { discover_country = LIA }
+central_asia_region = { discover_country = LIA }
+
 historical_rival = SLJ
 historical_rival = YUA
 historical_friend = LIU

@@ -1,0 +1,98 @@
+
+namespace = xen_tedong
+
+ #Conquests of Xen Tedong
+
+country_event = { #xen's invasion of the kafurids
+	id = xen_tedong.1
+	title = xen_tedong.1.t
+	desc = xen_tedong.1.d
+	picture = HORDE_ON_HORSEBACK_eventPicture
+	
+	mean_time_to_happen = { months = 2 }
+	fire_only_once = yes
+	
+	trigger = { tag = LIA }
+	
+	immediate = { 
+		hidden_effect = { 
+			452 = {
+				cede_province = XEN
+				add_core = XEN
+				change_religion = vajrayana
+				change_culture = uyghur
+			}
+			khorasan_region = { discover_country = XEN }
+			XEN = {
+				define_ruler = {
+					name = "Tedong"
+					dynasty = "Xen"
+					adm = 2
+					dip = 3
+					mil = 6
+					age = 26
+					claim = 100
+				}
+				add_army_tradition = 10
+				add_manpower = 8
+				declare_war = KFR
+			}
+		} 
+	}
+	
+	option = { name = xen_tedong.1.a }
+	
+	option = { 
+		name = xen_tedong.1.b 
+		switch_tag = XEN
+	}
+}
+
+country_event = { #xen victory
+	id = xen_tedong.100
+	title = xen_tedong.100.t
+	desc = xen_tedong.100.d
+	picture = HORDE_ON_HORSEBACK_eventPicture
+	
+	mean_time_to_happen = { days = 10 }
+	trigger = {
+		tag = XEN
+		controls = 506 	#Multan
+		controls = 507 	#Lahore
+		controls = 578 	#Roh
+	}
+	
+	immediate = { 
+		hidden_effect = {
+			inherit = KFR 
+		}
+	}	
+	
+	option = { #go back home
+		name = xen_tedong.100.a
+		switch_tag = LIA
+		hidden_effect = {
+			country_event = {
+				id = xen_tedong.101
+			}
+		}	
+	}
+	
+	option = { #let's go jogging
+		name = xen_tedong.100.b 
+	}
+}
+
+country_event = { #xen gets annexed by the liu
+	id = xen_tedong.101
+	title = xen_tedong.101.t
+	desc = xen_tedong.101.d
+	picture = HORDE_ON_HORSEBACK_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = xen_tedong.101.a
+		LIU = { inherit = XEN }
+	}
+}

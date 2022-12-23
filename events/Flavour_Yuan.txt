@@ -4,7 +4,7 @@
 #########################
 
 country_event = {
-	id = yuan_collapse.1 #
+	id = yuan_collapse.1
 	title = yuan_collapse.1.t
 	desc = yuan_collapse.1.d
 	picture = BORDER_TENSION_eventPicture
