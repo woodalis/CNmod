@@ -1,6 +1,6 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
-primary_culture = champenois
+primary_culture = burgundian
 religion = catholic
 technology_group = western
 capital = 4952

@@ -3,7 +3,7 @@
 owner = WLY
 controller = WLY
 add_core = WLY
-culture = sidamo 
+culture = oromo
 religion = shamanism
 capital = "Irgalem"
 is_city = yes

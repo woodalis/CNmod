@@ -3,7 +3,7 @@
 owner = FLA
 controller = FLA
 capital = "Calais"
-culture = picard
+culture = wallonian
 religion = catholic
 hre = yes
 base_tax = 5 

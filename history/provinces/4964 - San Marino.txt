@@ -2,7 +2,7 @@
 
 owner = SAN
 controller = SAN
-culture = umbrian 
+culture = romagnan
 religion = catholic 
 hre = no 
 base_tax = 6
