@@ -2,7 +2,7 @@
 
 owner = PAP
 controller = PAP
-culture = umbrian 
+culture = romagnan
 religion = catholic 
 hre = no 
 base_tax = 5
