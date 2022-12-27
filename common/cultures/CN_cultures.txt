@@ -95,6 +95,7 @@ walythic = { #muslim oceanians
 }
 
 scythian = { #scythian group
+	
 	graphical_culture = muslimgfx
 
 	dynasty_names = {
