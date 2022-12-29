@@ -437,6 +437,21 @@ on_religion_change_estate_privileges_effect = {
 	if = {
 		limit = {
 			OR = {
+				NOT = { has_estate_privilege = estate_SCY_mushirkun_autonomy }
+				NOT = { religion_group = muslim }
+			}
+			any_owned_province = { has_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod }
+		}
+		every_owned_province = {
+			limit = {
+				has_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+			}
+			remove_province_modifier = estate_SCY_mushirkun_autonomy_privilege_mod
+		}
+	}
+	if = {
+		limit = {
+			OR = {
 				AND = {
 					NOT = { has_estate_privilege = estate_dhimmi_guaranteed_autonomy }
 					NOT = { has_estate_privilege = estate_dhimmi_guarantee_of_traditions }
