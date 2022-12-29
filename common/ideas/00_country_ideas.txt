@@ -7319,43 +7319,6 @@ BRE_ideas = {
 	}
 }
 
-SHL_ideas = {
-	start = {
-		global_manpower_modifier = 0.15
-		global_unrest = -1
-	}
-	bonus = {
-		light_ship_power = 0.15
-	}
-	trigger = {
-		tag = SHL
-	}
-	
-	free = yes
-	
-	limes_saxoniae = {
-		defensiveness = 0.1
-	}
-	between_a_kingdom_and_the_empire = {
-		diplomatic_reputation = 1
-	}
-	holsteins = {
-		stability_cost_modifier = -0.1
-	}
-	kieler_umschlag = {
-		merchants = 1
-	}
-	reunifications_of_holstein = {
-		global_tax_modifier = 0.1
-	}
-	trade_of_two_seas = {
-		global_trade_power = 0.1
-	}
-	danish_protest_pigs = {
-		legitimacy = 1
-	}
-}
-
 HES_ideas = {
 	start = {
 		global_tax_modifier = 0.1

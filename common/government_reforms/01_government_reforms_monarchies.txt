@@ -15,6 +15,20 @@ monarchy_mechanic = {
 
 #Feudalism vs Autocracy:
 
+liao_empire_reform = {
+	icon = asian_scripture
+	allow_normal_conversion = no
+	valid_for_nation_designer = no
+	modifiers = {
+		culture_conversion_cost = 2
+		expand_administration_cost = 2
+	}
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+	}
+}
+
 feudalism_reform = {
 	icon = "castle"
 	allow_normal_conversion = yes

@@ -15,7 +15,7 @@ LIA_ideas = { #Western Liao
 	
     free = yes
     
-    LIA_battle_of_qatwan = { #Battle of Qatwan: Yelü Dashi defeats the Seljuq Army despite being outnumbered by splitting his army and encircling the Seljuqs, nearly capturing the Seljuq Sultan and cementing the Liao's position in Central Asia
+    LIA_journey_to_the_west = { 
 		infantry_power = 0.10
     }
     
@@ -717,5 +717,55 @@ VYA_ideas = { #vyatichi
     VYA_jihad = {
 		war_exhaustion = -0.02
 		manpower_recovery_speed = 0.1	
+    }
+}
+
+SHL_ideas = {
+
+    start = {
+		drill_decay_modifier = -0.15 #standing army
+		navy_tradition = 1 #i hate störtebeker
+    }
+    bonus = {
+		backrow_artillery_damage = 0.1
+    }
+    trigger = {
+		tag = SHL
+    }
+
+    free = yes
+
+    SHL_three_people = { #germans, frisians, danes
+		num_accepted_cultures = 3
+		naval_morale = 0.1
+    }
+
+    SHL_northern_frontier = { #fuck denmark i hate denmark
+		defensiveness = 0.25
+		fort_maintenance_modifier = -0.1
+    }
+
+    SHL_margraviate_that_never_was = { #the burgundians called us a little bitch? they're 10 times more of a little bitch for not doing anything about the reformation and we'll tell them exactly that in this nice letter
+		global_heretic_missionary_strength = 0.025
+		power_projection_from_insults = 0.5
+    }
+
+	SHL_holy_war = { #i love war
+		army_tradition = 0.5
+		manpower_recovery_speed = 0.1
+    }
+
+    SHL_westsiedlung = { #german settlers in avalon
+		colonists = 1
+		range = 0.5
+    }
+
+    SHL_cow = { #for better or for worse, the name holstein will be forever linked to the holstein cow
+		production_efficiency = 0.1
+    }
+
+    SHL_global_missionaries = { #trade and conquest abroad
+		warscore_cost_vs_other_religion = -0.25
+		merchants = 1
     }
 }

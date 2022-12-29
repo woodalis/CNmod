@@ -40,6 +40,7 @@ monarchy = {
 				kalmar_union
 				danish_archkingdom
 				norwegian_parliamentary_monarchy
+				liao_empire_reform
 				#Never again
 				livonian_military_monarchy
 				livonian_naval_monarchy
