@@ -1,0 +1,64 @@
+namespace = nog_flavor
+
+country_event = {
+	id = nog_flavor.1
+	title = nog_flavor.1.title
+	desc = nog_flavor.1.desc
+	picture = CITY_VIEW_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = nog_flavor.1.a	
+		add_adm_power = 50
+		capital = local_development_cost = -0.05
+	}
+	option = {
+		name = nog_flavor.1.b
+		trigger = {
+			owns_core_province = 465
+			NOT = { capital = 465 } #nogay
+		}
+		465 = {
+			move_capital_effect = yes
+			local_development_cost = -0.05
+		}
+		add_adm_power = 20
+	}
+	option = {
+		name = nog_flavor.1.c
+		trigger = {
+			owns_core_province = 2420
+			NOT = { capital = 2420 } #agyidel
+		}
+		2420 = {
+			move_capital_effect = yes
+			local_development_cost = -0.05
+		}
+		add_adm_power = 20
+	}
+	option = {
+		name = nog_flavor.1.d
+		trigger = {
+			owns_core_province = 466
+			NOT = { capital = 466 } #sarai
+		}
+		466 = {
+			move_capital_effect = yes
+			local_development_cost = -0.05
+		}
+		add_adm_power = 20
+	}
+	option = {
+		name = nog_flavor.1.e
+		trigger = {
+			owns_core_province = 1970
+			NOT = { capital = 1970 } #syghnak
+		}
+		1970 = {
+			move_capital_effect = yes
+			local_development_cost = -0.05
+		}
+		add_adm_power = 20
+	}
+}

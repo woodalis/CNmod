@@ -1,0 +1,7 @@
+nog_capital_mod = {
+	build_cost = -0.1
+}
+
+nog_tax = {
+	global_tax_modifier = 0.1
+}
