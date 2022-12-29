@@ -5,7 +5,7 @@ controller = HJS
 add_core = HJS
 add_core = JNP
 
-culture = bihari
+culture = jharkhandi
 religion = hinduism
 capital = "Rohtasgarh"
 

@@ -7,7 +7,7 @@ add_core = DLH
 add_core = SRH
 add_core = MUL
 
-culture = rajput
+culture = panjabi
 religion = hinduism
 capital = "Bhatnair"
 

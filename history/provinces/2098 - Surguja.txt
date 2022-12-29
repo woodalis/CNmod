@@ -7,7 +7,7 @@ add_core = NGP
 add_core = SRG
 add_core = RTT
 
-culture = jharkhandi
+culture = gondi
 religion = hinduism
 capital = "Surguja"
 

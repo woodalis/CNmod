@@ -5,8 +5,8 @@ controller = KSH
 add_core = KSH
 add_core = SRM
 
-culture = kashmiri
-religion = vajrayana
+culture = pahari
+religion = hindu
 capital = "Malaun"
 
 trade_goods = cotton

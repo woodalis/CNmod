@@ -5,7 +5,7 @@ controller = HJS
 add_core = HJS
 add_core = BNG
 
-culture = bengali
+culture = bihari
 religion = hinduism
 capital = "Bhagalpur"
 

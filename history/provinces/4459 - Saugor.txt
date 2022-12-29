@@ -5,7 +5,7 @@ controller = HJS
 add_core = HJS
 add_core = GDW
 
-culture = gondi
+culture = malvi
 religion = hinduism
 capital = "Saugor"
 

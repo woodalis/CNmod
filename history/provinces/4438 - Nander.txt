@@ -5,7 +5,7 @@ controller = BRR
 add_core = BRR
 add_core = TLG
 
-culture = marathi
+culture = telegu
 religion = hinduism
 capital = "Nander"
 

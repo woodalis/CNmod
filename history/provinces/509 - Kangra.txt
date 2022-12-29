@@ -5,7 +5,7 @@ controller = KSH
 add_core = KSH
 add_core = KGR
 
-culture = kashmiri
+culture = pahari
 religion = vajrayana
 capital = "Kangra"
 

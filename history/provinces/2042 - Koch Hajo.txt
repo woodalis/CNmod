@@ -5,7 +5,7 @@ controller = HJS
 add_core = HJS
 add_core = KMT
 
-culture = assamese
+culture = kochi
 religion = hinduism
 capital = "Gauhauti"
 

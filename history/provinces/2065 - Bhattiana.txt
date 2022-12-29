@@ -6,7 +6,7 @@ add_core = DLH
 add_core = SRH
 add_core = MUL
 
-culture = rajput
+culture = kanauji
 religion = hinduism
 capital = "Hisar"
 
