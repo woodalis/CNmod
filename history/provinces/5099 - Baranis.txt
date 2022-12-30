@@ -1,11 +1,11 @@
-#4319 - Isna
+#5099 - Baranis
 
-owner = MAM
-controller = MAM
-add_core = MAM
+owner = MAK
+controller = MAK
+add_core = MAK
 
 culture = al_misr_arabic
-religion = sunni
+religion = coptic
 capital = "Baranis"
 
 trade_goods = livestock

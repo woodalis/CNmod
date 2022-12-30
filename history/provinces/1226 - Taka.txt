@@ -1,10 +1,11 @@
 #1226 - Taka
 
-owner = BEJ
-controller = BEJ
+owner = ETH
+controller = ETH
+add_core = ETH
 add_core = BEJ
 culture = beja 
-religion = sunni
+religion = coptic
 capital = "Qoz Rajab"
 base_manpower = 2
 trade_goods = livestock

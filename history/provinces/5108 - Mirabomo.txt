@@ -1,0 +1,19 @@
+#5108 - Mirabomo
+
+owner = KAF
+controller = KAF
+add_core = KAF
+culture = sidamo 
+religion = coptic
+capital = "Mirabomo"
+is_city = yes
+base_manpower = 1
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 1
+
+discovered_by = east_african
+discovered_by = muslim
+
+

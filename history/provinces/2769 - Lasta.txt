@@ -1,10 +1,10 @@
 #2769 - Lasta
 
-owner = ETH
-controller = ETH
-add_core = ETH
-culture = amhara 
-religion = coptic
+owner = ADA
+controller = ADA
+add_core = ADA
+culture = afar
+religion = sunni
 capital = "Lalibela"
 is_city = yes
 base_manpower = 2

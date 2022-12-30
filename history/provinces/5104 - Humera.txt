@@ -1,14 +1,14 @@
-#2771 - Semien
+#5104 - Humera
 
 owner = BTI
 controller = BTI
 add_core = BTI
 culture = amhara 
 religion = jewish
-capital = "Dabareq"
+capital = "Chilga"
 is_city = yes
-base_manpower = 2
-trade_goods = grain
+base_manpower = 1
+trade_goods = slaves
 hre = no
 base_tax = 1 
 base_production = 1

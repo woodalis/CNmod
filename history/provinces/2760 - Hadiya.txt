@@ -1,7 +1,8 @@
 #2760 - Hadiya
 
-owner = HDY
-controller = HDY
+owner = ADA
+controller = ADA
+add_core = ADA
 add_core = HDY
 culture = sidamo 
 religion = sunni

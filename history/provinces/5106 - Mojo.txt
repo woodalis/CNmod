@@ -1,11 +1,12 @@
-#2768 - Ashenge
+#5106 - Mojo
 
 owner = ADA
 controller = ADA
 add_core = ADA
-culture = afar
+add_core = HAR
+culture = harari
 religion = sunni
-capital = "Manadeley"
+capital = "Mojo"
 is_city = yes
 base_manpower = 1
 trade_goods = livestock

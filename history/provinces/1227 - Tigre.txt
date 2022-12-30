@@ -1,8 +1,7 @@
 #1227 - Tigre
 
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = BTI
+controller = BTI
 add_core = BTI
 culture = tigray 
 religion = coptic #But also significant Jewish minority

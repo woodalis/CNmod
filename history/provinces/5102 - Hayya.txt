@@ -1,17 +1,17 @@
-#2324 - Halaib
+#5102 - Hayya
 
-owner = MAK
-controller = MAK
-add_core = MAK
+owner = ALO
+controller = ALO
+add_core = ALO
 add_core = BEJ
 culture = beja
 religion = coptic
-capital = "Halaib"
+capital = "Haiya"
 is_city = yes
 base_manpower = 1
-trade_goods = slaves
+trade_goods = grain
 hre = no
-base_tax = 1 
+base_tax = 2
 base_production = 1
 discovered_by = muslim
 discovered_by = ottoman

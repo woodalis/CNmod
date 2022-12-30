@@ -1,11 +1,11 @@
 #1225 - Butana
 
-owner = ALO
-controller = ALO
+owner = ETH
+controller = ETH
 add_core = ALO
-add_core = ABB
+add_core = ETH
 culture = nubian 
-religion = sunni
+religion = coptic
 capital = "Qarri"
 base_manpower = 1
 base_tax = 1 

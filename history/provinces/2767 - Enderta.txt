@@ -1,8 +1,8 @@
 #2767 - Enderta
 
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = ADA
+controller = ADA
+add_core = ADA
 culture = tigray 
 religion = coptic
 capital = "Antalo"
