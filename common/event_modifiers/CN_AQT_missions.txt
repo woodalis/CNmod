@@ -1,0 +1,3 @@
+aquitania_resurgence = {
+	prestige = 0.5
+}
