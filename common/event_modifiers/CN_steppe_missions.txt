@@ -6,3 +6,17 @@ capital_development = {
 legitimized_capital = {
 	local_development_cost = -0.05
 }
+
+ambition_proclaimed = {
+	war_exhaustion = -0.10
+}
+
+war_in_the_steppe = {
+	land_maintenance_modifier = -0.10
+	general_cost = -0.2
+}
+
+capture_of_astrakhan = {
+	land_morale = 0.10
+	raze_power_gain = 0.2
+}

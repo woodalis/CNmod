@@ -51,3 +51,162 @@ nog_development = {
 		}
 	}
 }
+
+nog_might = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		tag = NOG
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = no
+
+	nog_proclaim_ambition = {
+		icon = mission_unite_home_region
+		required_missions = { } #none
+
+		trigger = {
+			any_rival_country = { is_great_power = yes } # one of your rivals must be a great power 
+		}
+				
+		effect = {
+			dip_power = 50
+			add_country_modifier = {
+				name = ambition_proclaimed
+				duration = 5475
+			}
+		}
+	}
+
+	nog_prove_might = {
+		icon = mission_break_the_tatar_yoke
+		required_missions = {
+			nog_proclaim_ambition
+		}
+			
+		trigger = { 
+			power_projection = 75
+		}
+
+		effect = {
+			add_country_modifier = { 
+				name = war_in_the_steppe
+				duration = 7300
+			}
+		}
+	}
+}
+
+nog_primary_conquest = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = NOG
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+
+	nog_prepare = {
+		icon = mission_build_up_to_force_limit
+		required_missions = { } #none
+
+		trigger = {
+			army_size_percentage = 1
+		}
+				
+		effect = {
+			aqmola_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+				}
+				add_claim = NOG
+			}
+			balchasj_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+				}
+				add_claim = NOG
+			}
+			bashkiria_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = NOG
+			}
+		}
+	}
+
+	nog_subjugate_kazakhs = {
+		icon = mission_cossack_cavalry
+		required_missions = {
+			nog_prepare
+		}
+
+		provinces_to_highlight = {
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+			OR = {
+				area = aqmola_area
+				area = balchasj_area
+				area = kazakhstan_area
+			}
+		}
+			
+		trigger = { 
+			aqmola_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			balchasj_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			kazakhstan_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+
+		effect = {
+			astrakhan_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = NOG
+			}
+			add_country_modifier = {
+				name = expansionist_country
+				duration = 5475
+			}
+		}
+	}
+	
+	nog_capture_astrakhan = {
+		icon = mission_steppe_warriors
+		required_missions = {
+			nog_subjugate_kazakhs
+		}
+
+		provinces_to_highlight = {
+			province_id = 464 #Astrakan
+		}
+			
+		trigger = { 
+			owns_core_province = 464 #Astrakhan
+		}
+
+		effect = {
+			ishim_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+				}
+				add_permanent_claim = NOG
+			}
+			add_country_modifier = {
+				name = capture_of_astrakhan
+				duration = 5475
+			}
+		}
+	}
+}
