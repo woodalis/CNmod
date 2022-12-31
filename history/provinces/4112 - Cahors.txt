@@ -12,6 +12,7 @@ base_production = 3
 trade_goods = wine
 base_manpower = 3
 add_core = TOU
+add_core = AQT
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

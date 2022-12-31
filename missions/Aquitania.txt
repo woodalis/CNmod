@@ -1,0 +1,98 @@
+aquitainia_conquer = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = AQT
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = no
+
+	aqt_control_borderlands = {
+		icon = mission_have_two_subjects
+		required_missions = {  }
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+			OR = {
+				province_id = 4386 #poitou
+				province_id = 190 #bourbonnais
+			}	
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+			
+		}
+		trigger = {
+			OR = {
+				owns_core_province = 4386 #poitou
+				owns_core_province = 190 #bourbonnais
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "aquitania_resurgence"
+				duration = 3650
+			}
+			custom_tooltip = AQT_EXPAND
+			tooltip = {
+				add_years_of_income = 1.0
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						owns_core_province = 4386 #poitou
+						owns_core_province = 190 #bourbonnais
+					}
+					add_years_of_income = 2.0
+				}
+			}
+		}
+		ai_weight = {
+			factor = 500
+		}
+	}
+
+	aqt_occitania_conquer = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_control_borderlands }
+		position = 2
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+			owned_by = TOU
+		}
+		trigger = {
+			NOT = { exists = TOU }
+		}
+		effect = {
+			add_dip_power = 100
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+}
+
+aquitainia_religion = {
+	slot = 2
+	generic = no
+	ai = yes
+}
+
+aquitainia_placeholder1 = {
+	slot = 3
+	generic = no
+	ai = yes
+}
+
+aquitainia_placeholder2 = {
+	slot = 4
+	generic = no
+	ai = yes
+}
+
+aquitainia_placeholder3 = {
+	slot = 5
+	generic = no
+	ai = yes
+}
