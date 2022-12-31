@@ -11,7 +11,13 @@ country_event = {
 	option = {
 		name = nog_flavor.1.a	
 		add_adm_power = 50
-		capital = local_development_cost = -0.05
+		capital_scope = {
+			add_province_modifier = { 
+				name = legitimized_capital 
+				duration = 5475
+			}
+		ai_chance = { factor = 70 }
+		}
 	}
 	option = {
 		name = nog_flavor.1.b
@@ -21,9 +27,13 @@ country_event = {
 		}
 		465 = {
 			move_capital_effect = yes
-			local_development_cost = -0.05
+			add_province_modifier = { 
+				name = legitimized_capital 
+				duration = 5475
+			}
 		}
 		add_adm_power = 20
+		ai_chance = { factor = 10 }
 	}
 	option = {
 		name = nog_flavor.1.c
@@ -33,7 +43,10 @@ country_event = {
 		}
 		2420 = {
 			move_capital_effect = yes
-			local_development_cost = -0.05
+			add_province_modifier = { 
+				name = legitimized_capital 
+				duration = 5475
+			}
 		}
 		add_adm_power = 20
 	}
@@ -45,9 +58,13 @@ country_event = {
 		}
 		466 = {
 			move_capital_effect = yes
-			local_development_cost = -0.05
+			add_province_modifier = { 
+				name = legitimized_capital 
+				duration = 5475
+			}
 		}
 		add_adm_power = 20
+		ai_chance = { factor = 10 }
 	}
 	option = {
 		name = nog_flavor.1.e
@@ -57,8 +74,12 @@ country_event = {
 		}
 		1970 = {
 			move_capital_effect = yes
-			local_development_cost = -0.05
+			add_province_modifier = { 
+				name = legitimized_capital 
+				duration = 5475
+			}
 		}
 		add_adm_power = 20
+		ai_chance = { factor = 10 }
 	}
 }

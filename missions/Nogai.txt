@@ -27,7 +27,7 @@ nog_development = {
 		effect = {
 			country_event = { id = nog_flavor.1 }
 			add_country_modifier = {
-				name = nog_capital_mod
+				name = capital_development
 				duration = 5475
 			}
 		}
@@ -45,7 +45,7 @@ nog_development = {
 
 		effect = {
 			add_country_modifier = { 
-				name = nog_tax
+				name = growing_economy
 				duration = 5475
 			}
 		}

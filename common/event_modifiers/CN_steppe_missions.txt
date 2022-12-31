@@ -1,7 +1,8 @@
-nog_capital_mod = {
-	build_cost = -0.1
+capital_development = {
+	global_autonomy = -0.05
+	development_cost = -0.05
 }
 
-nog_tax = {
-	global_tax_modifier = 0.1
+legitimized_capital = {
+	local_development_cost = -0.05
 }
