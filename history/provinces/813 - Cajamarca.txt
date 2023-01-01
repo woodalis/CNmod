@@ -1,7 +1,7 @@
 #813 - Cajamarca
 
-owner = CHM
-controller = CHM
+owner = TCY
+controller = TCY
 culture = inca
 religion = inti
 capital = "Cajamarca"
@@ -11,12 +11,12 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = CHM
+add_core = TCY
 add_core = CJA
 
 discovered_by = south_american
 discovered_by = andean
-discovered_by = CHM
+discovered_by = TCY
 
 1467.1.1 = {
 	owner = INC

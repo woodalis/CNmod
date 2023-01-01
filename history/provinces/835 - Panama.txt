@@ -1,8 +1,8 @@
 #835 - Panama 
 
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 discovered_by = south_american
 discovered_by = mesoamerican
 religion = mesoamerican_religion

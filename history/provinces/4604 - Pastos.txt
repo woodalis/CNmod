@@ -4,9 +4,9 @@ discovered_by = south_american
 discovered_by = andean
 discovered_by = MCA
 
-add_core = CHM
-owner = CHM
-controller = CHM
+add_core = TCY
+owner = TCY
+controller = TCY
 culture = guajiro
 is_city = yes
 religion = inti

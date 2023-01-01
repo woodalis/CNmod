@@ -1,7 +1,7 @@
 # - Esmeraldas
 
-owner = CHM
-controller = CHM
+owner = TCY
+controller = TCY
 culture = cara
 religion = inti
 capital = "Esmeraldas"
@@ -11,7 +11,7 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-add_core = CHM
+add_core = TCY
 add_core = QTO
 
 discovered_by = andean

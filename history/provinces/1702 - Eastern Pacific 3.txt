@@ -3,6 +3,6 @@
 
 
 discovered_by = INC
-discovered_by = CHM
+discovered_by = TCY
 1528.1.1 = { discovered_by = SPA }
 

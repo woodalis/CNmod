@@ -2569,3 +2569,19 @@ armenic = {
 		}
 	}
 }
+
+norse_avalonian = {
+	graphical_culture = northamericagfx
+	vinlandic = {
+		primary = VIN
+		dynasty_names = {
+			placeholder
+		}
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
+}
