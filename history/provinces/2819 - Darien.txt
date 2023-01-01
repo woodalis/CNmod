@@ -1,8 +1,8 @@
 # - Darien 
 
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 culture = muisca
 discovered_by = MCA
 discovered_by = south_american

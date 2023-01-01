@@ -1,7 +1,7 @@
 #819 - Guayaquil
 
-owner = CHM
-controller = CHM
+owner = TCY
+controller = TCY
 culture = cara
 
 discovered_by = andean
@@ -14,7 +14,7 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 3
-add_core = CHM
+add_core = TCY
 add_core = QTO
 extra_cost = 10
 

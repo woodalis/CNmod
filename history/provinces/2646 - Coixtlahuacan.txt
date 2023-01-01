@@ -1,9 +1,9 @@
 # No previous file for Coixtlahuacan
 
 culture = mixtec
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 add_core = COI
 is_city = yes
 religion = nahuatl

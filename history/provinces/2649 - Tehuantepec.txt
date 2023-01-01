@@ -1,9 +1,9 @@
 # No previous file for Tehuantepec
 
 culture = zapotek
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 add_core = ZAP
 is_city = yes
 religion = nahuatl

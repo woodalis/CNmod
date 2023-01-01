@@ -1,8 +1,8 @@
 # - Popayan
 
-add_core = CHM
-owner = CHM
-controller = CHM
+add_core = TCY
+owner = TCY
+controller = TCY
 culture = muisca
 is_city = yes
 religion = inti

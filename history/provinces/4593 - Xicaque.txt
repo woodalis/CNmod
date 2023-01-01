@@ -1,9 +1,9 @@
 # No previous file for Xicaque
 
 culture = lenca
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 add_core = LCA
 is_city = yes
 religion = mesoamerican_religion

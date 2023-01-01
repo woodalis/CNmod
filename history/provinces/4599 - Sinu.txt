@@ -1,9 +1,9 @@
 # No previous file for Sinu
 
 culture = guajiro
-add_core = CHM
-owner = CHM
-controller = CHM
+add_core = TCY
+owner = TCY
+controller = TCY
 discovered_by = andean
 discovered_by = south_american
 discovered_by = MCA

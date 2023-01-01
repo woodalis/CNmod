@@ -1,9 +1,9 @@
 # No previous file for Chortli
 
-owner = CHM
-controller = CHM
+owner = TCY
+controller = TCY
 is_city = yes
-add_core = CHM
+add_core = TCY
 add_core = CHT
 culture = highland_mayan
 religion = mesoamerican_religion

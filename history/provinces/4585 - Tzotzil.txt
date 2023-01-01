@@ -2,9 +2,9 @@
 
 
 culture = lacandon
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 add_core = LAC
 is_city = yes
 religion = mesoamerican_religion

@@ -1,0 +1,10 @@
+government = native
+add_government_reform = native_clan_council_reform
+government_rank = 1
+technology_group = south_american
+
+religion = animism
+
+primary_culture = guarani
+
+capital = 812

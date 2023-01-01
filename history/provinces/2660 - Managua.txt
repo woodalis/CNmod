@@ -1,8 +1,8 @@
 # No previous file for Managua
 
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 culture = miskito
 religion = mesoamerican_religion
 capital = "Managua"

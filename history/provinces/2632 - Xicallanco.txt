@@ -1,9 +1,9 @@
 # No previous file for Xicallanco
 
 culture = chontales
-owner = CHM
-controller = CHM
-add_core = CHM
+owner = TCY
+controller = TCY
+add_core = TCY
 add_core = YOK
 is_city = yes
 religion = mesoamerican_religion

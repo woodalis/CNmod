@@ -17,6 +17,9 @@ PTD = "countries/PatriarchialDomain.txt"
 SFY = "countries/Sofia.txt"
 VAR = "countries/Varna.txt"
 
+#Canada
+VIN = "countries/Vinland.txt"
+
 #Caucasus
 KHZ = "countries/Khazaria.txt"
 BLK = "countries/Balkaria.txt"
@@ -142,6 +145,9 @@ TUV = "countries/Tuva.txt"
 #North Germany	
 HOY = "countries/Hoya.txt"
 STP = "countries/Stolp.txt"
+
+#Peru
+TCY = "countries/Tacaynamics.txt"
 
 #Russia
 BEZ = "countries/Bezhetskaya.txt"
