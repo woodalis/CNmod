@@ -4,7 +4,7 @@ owner = SKK
 controller = SKK
 add_core = SKK
 
-culture = nepali
+culture = rongkup
 religion = vajrayana
 capital = "Yuksom"
 

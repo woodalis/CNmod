@@ -1,4 +1,4 @@
-#4264 - Tetyushi
+#4264 - Suar
 
 owner = SCY
 controller = SCY
@@ -7,7 +7,7 @@ add_core = VLB
 
 culture = bulgar
 religion = sunni
-capital = "Tetyushi"
+capital = "Suar"
 
 trade_goods = grain
 hre = no

@@ -1,11 +1,10 @@
 #4492 - Doti
 
-owner = BHI
-controller = BHI
-add_core = BHI
+owner = DTI
+controller = DTI
 add_core = DTI
 
-culture = nepali
+culture = khas
 religion = hinduism
 capital = "Doti"
 

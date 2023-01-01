@@ -3,9 +3,8 @@
 owner = BHI
 controller = BHI
 add_core = BHI
-add_core = GRK
 
-culture = nepali
+culture = magar
 religion = hinduism
 capital = "Palpa"
 

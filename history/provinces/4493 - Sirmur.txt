@@ -1,12 +1,11 @@
 #4493 - Sirmur
 
-owner = KSH
-controller = KSH
-add_core = KSH
+owner = SRM
+controller = SRM
 add_core = SRM
 
-culture = pahari
-religion = hindu
+culture = himachali
+religion = hinduism
 capital = "Malaun"
 
 trade_goods = cotton

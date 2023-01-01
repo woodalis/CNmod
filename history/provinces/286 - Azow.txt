@@ -9,11 +9,9 @@ base_tax = 3
 base_production = 3
 trade_goods = slaves
 base_manpower = 3
-capital = "Tana"
+capital = "Tanais"
 is_city = yes
 add_core = ATH
-
-
 
 discovered_by = western
 discovered_by = eastern

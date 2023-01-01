@@ -1,11 +1,10 @@
 #2071 - Limbuwan
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = LWA
+controller = LWA
 add_core = LWA
 
-culture = nepali
+culture = limbu
 religion = vajrayana
 capital = "Phedap"
 

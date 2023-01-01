@@ -1,11 +1,10 @@
 #2069 - Kumaon
 
-owner = DLH
-controller = DLH
-add_core = DLH
+owner = KMN
+controller = KMN
 add_core = KMN
 
-culture = pahari
+culture = kumaoni
 religion = hinduism
 capital = "Champawat"
 

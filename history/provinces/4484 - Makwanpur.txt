@@ -5,7 +5,7 @@ controller = KTU
 add_core = KTU
 add_core = MKP
 
-culture = nepali
+culture = tamang
 religion = hinduism
 capital = "Makwanpur"
 

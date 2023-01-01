@@ -5,7 +5,7 @@ controller = PHA
 add_core = PHA
 add_core = UTS
 
-culture = tibetan
+culture = kyirong_yolmo
 religion = vajrayana
 capital = "Gyirong"
 

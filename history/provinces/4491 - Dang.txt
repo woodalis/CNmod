@@ -1,11 +1,10 @@
 #4491 - Dang
 
-owner = BHI
-controller = BHI
-add_core = BHI
+owner = DNG
+controller = DNG
 add_core = DNG
 
-culture = nepali
+culture = tharu
 religion = hinduism
 capital = "Dang"
 

@@ -1,13 +1,12 @@
-#554 - Baisi Rajya
+#554 - Bardiya
 
-owner = BHI
-controller = BHI
-add_core = BHI
+owner = JML
+controller = JML
 add_core = JML
 
-culture = nepali
+culture = tharu
 religion = hinduism
-capital = "Jumbla"
+capital = "Gulariya"
 
 trade_goods = wool
 hre = no

@@ -1,11 +1,10 @@
 #4484 - Morang
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = LWA
+controller = LWA
 add_core = LWA
 
-culture = nepali
+culture = maithili
 religion = vajrayana
 capital = "Rangeli"
 

@@ -1,13 +1,12 @@
-#2070 - Chaubisi Rayja
+#2070 - Lamjung
 
 owner = BHI
 controller = BHI
 add_core = BHI
-add_core = GRK
 
-culture = nepali
+culture = gurung
 religion = hinduism
-capital = "Ghurka"
+capital = "Besisahar"
 
 trade_goods = naval_supplies
 hre = no

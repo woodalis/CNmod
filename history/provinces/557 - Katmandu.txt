@@ -1,12 +1,12 @@
-#557 - Katmandu
+#557 - Khwopa
 
 owner = KTU
 controller = KTU
 add_core = KTU
 
-culture = nepali
+culture = nepami
 religion = hinduism
-capital = "Kathmandu"
+capital = "Khwopa"
 
 trade_goods = incense
 hre = no

@@ -1,11 +1,10 @@
 #511 - Garhwal
 
-owner = DLH
-controller = DLH
-add_core = DLH
+owner = GHR
+controller = GHR
 add_core = GHR
 
-culture = pahari
+culture = garhwali
 religion = hinduism
 capital = "Devalgarh"
 
