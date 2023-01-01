@@ -1,11 +1,11 @@
 #5125 - Temal
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = NPL
+controller = NPL
+add_core = NPL
 
 culture = tamang
-religion = hinduism
+religion = vajrayana
 capital = "Temal"
 
 trade_goods = grain

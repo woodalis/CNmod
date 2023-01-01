@@ -1,11 +1,11 @@
 #5130 - Patan
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = NPL
+controller = NPL
+add_core = NPL
 
 culture = nepami
-religion = hinduism
+religion = vajrayana
 capital = "Patan"
 
 trade_goods = livestock

@@ -1,11 +1,11 @@
 #5126 - Chaudandi
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = NPL
+controller = NPL
+add_core = NPL
 
 culture = rai
-religion = hinduism
+religion = mundhum
 capital = "Chaudandi"
 
 trade_goods = grain

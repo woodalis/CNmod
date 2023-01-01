@@ -64,3 +64,16 @@
   humlian_rebels_name: "$RELIGION$ Zealots"
   humlian_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
   humlian_rebels_army: "$RELIGION$ Army"
+  
+  # Kirat Mundhum
+  mundhum: "Kirat Mundhum"
+  mundhum_religion_desc:0 "Kirat Mundhum is a term for the ethnic religions of the Kirat peoples. All of these religions have their own similar religious texts, named Mundhum in Yakthung, Dum in Rai and etc. For the Rai, the supreme deities are Sumnima and Paruhang. For the Yakthung, there is one supreme deity, Tagera Ningwaphuma, who can manifest on earth as Yuma or Theba. All Kirati people share much mythology and all worship Birupakshya, whose idol in Yambu is said to have been erected by ancient Kirati kings who ruled the Nepali Valley. Submerged within stone yet slowly emerging, it is said that the end of the world will occur once the idol raises from the ground. Buddhist and Hindu influences on Kirat Mundhum are strong, though the religion still retains its own identity."
+
+  YUMAISM: "Yumaism"
+
+  mundhum_rebels_demand: "Convert $COUNTRYNAME$"
+  mundhum_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+  mundhum_rebels_title: "Religious"
+  mundhum_rebels_name: "$RELIGION$ Zealots"
+  mundhum_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+  mundhum_rebels_army: "$RELIGION$ Army"

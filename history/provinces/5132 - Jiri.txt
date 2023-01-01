@@ -1,11 +1,11 @@
 #5132 - Jiri
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = NPL
+controller = NPL
+add_core = NPL
 
 culture = kyirong_yolmo
-religion = hinduism
+religion = vajrayana
 capital = "Simraungadh"
 
 trade_goods = livestock

@@ -5,8 +5,8 @@ controller = LWA
 add_core = LWA
 
 culture = limbu
-religion = hinduism
-capital = "Ilam"
+religion = mundhum
+capital = "Phakphok"
 
 trade_goods = livestock
 hre = no

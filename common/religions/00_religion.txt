@@ -2425,6 +2425,23 @@ pagan = {
 		
 		heretic = { JOMALINUSKO }
 	}
+	mundhum = {
+		color = { 242 189 43 }
+		icon = 35
+		country = {
+			tolerance_own = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_own = 2
+			loot_amount = 0.25
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		
+		heretic = { YUMAISM }
+	}
 	inti = {
 		color = { 64 115 115 }
 		icon = 18

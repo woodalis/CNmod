@@ -1,12 +1,12 @@
-#5124 - Madhesh
+#5124 - Rajbiraj
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = NPL
+controller = NPL
+add_core = NPL
 
 culture = maithili
 religion = hinduism
-capital = "Yambu"
+capital = "Rajbiraj"
 
 trade_goods = grain
 hre = no

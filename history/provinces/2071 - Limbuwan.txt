@@ -1,11 +1,11 @@
-#2071 - Limbuwan
+#2071 - Dhankuta
 
 owner = LWA
 controller = LWA
 add_core = LWA
 
 culture = limbu
-religion = vajrayana
+religion = mundhum
 capital = "Phedap"
 
 trade_goods = wool

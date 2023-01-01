@@ -1,4 +1,4 @@
-#5129 - Saga
+#5129 - Kyakyaru
 
 owner = PHA
 controller = PHA
@@ -7,7 +7,7 @@ add_core = UTS
 
 culture = tibetan
 religion = vajrayana
-capital = "Saga"
+capital = "Kyakyaru"
 
 trade_goods = livestock
 hre = no

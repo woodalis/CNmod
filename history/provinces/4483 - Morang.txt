@@ -5,7 +5,7 @@ controller = LWA
 add_core = LWA
 
 culture = maithili
-religion = vajrayana
+religion = hinduism
 capital = "Rangeli"
 
 trade_goods = wool

@@ -2187,8 +2187,8 @@ east_bengal_area = { #5
 	564 568 2046 4474 4478
 }
 
-north_bengal_area = { #4
-	562 563 2045 4479
+north_bengal_area = { #5
+	562 563 2045 4479 5135
 }
 
 tripura_area = { #4
@@ -2358,16 +2358,16 @@ himalayan_hills_area = { #4
 	509 511 2069 4493
 }
 
-nepal_area = { #4
-	557 2071 4483 4484
+nepal_area = { #5
+	557 5123 5125 5130 5132
 }
 
-baisi_rajya_area = { #5
-	2070 4491 4492 554 4485
+baisi_rajya_area = { #3
+	4492 5118 5119
 }
 
-bhutan_area = {
-	565 4481 4482
+bhutan_area = { # 4
+	565 4481 4482 5127
 }
 
 kashmir_area = { #5
@@ -2935,8 +2935,8 @@ kham_area = { #5
 	678 2131 2132 2133 2135 
 }
 
-utsang_area = { #4
-	676 4514 4515 4518
+utsang_area = { #5
+	676 4514 4515 4518 5129
 }
 
 ngari_area = { #3
@@ -3910,4 +3910,20 @@ CN_korsholm_area = {
 
 CN_white_karelia_area = {
 	1776 4152 5034
+}
+
+CN_kirat_area = {
+	2071 5126 5133 5134
+}
+
+CN_chaubisi_rajya_area = {
+	2070 5120 5121 5122 5128
+}
+
+CN_terai_area = {
+	554 4484 4485 4491
+}
+
+CN_madhesh_area = {
+	4483 5124 5131
 }

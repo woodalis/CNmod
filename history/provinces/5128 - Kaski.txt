@@ -5,7 +5,7 @@ controller = JML
 add_core = JML
 
 culture = magar
-religion = hinduism
+religion = vajrayana
 capital = "Pokhara"
 
 trade_goods = livestock

@@ -5,7 +5,7 @@ controller = BHI
 add_core = BHI
 
 culture = gurung
-religion = hinduism
+religion = vajrayana
 capital = "Besisahar"
 
 trade_goods = naval_supplies

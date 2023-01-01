@@ -1,11 +1,11 @@
 #5123 - Yambu
 
-owner = KTU
-controller = KTU
-add_core = KTU
+owner = NPL
+controller = NPL
+add_core = NPL
 
 culture = nepami
-religion = hinduism
+religion = buddhism
 capital = "Yambu"
 
 trade_goods = grain
