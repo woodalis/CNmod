@@ -77,22 +77,42 @@ aquitainia_religion = {
 	slot = 2
 	generic = no
 	ai = yes
+	potential = {
+		tag = AQT
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = no
 }
 
 aquitainia_placeholder1 = {
 	slot = 3
 	generic = no
 	ai = yes
+	potential = {
+		tag = AQT
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = no
 }
 
 aquitainia_placeholder2 = {
 	slot = 4
 	generic = no
 	ai = yes
+	potential = {
+		tag = AQT
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = no
 }
 
 aquitainia_placeholder3 = {
 	slot = 5
 	generic = no
 	ai = yes
+	potential = {
+		tag = AQT
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = no
 }
