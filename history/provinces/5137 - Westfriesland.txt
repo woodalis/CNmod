@@ -1,0 +1,21 @@
+#5137 - Westfriesland
+
+owner = HOL
+controller = HOL
+add_core = HOL
+
+culture = frisian
+religion = catholic
+capital = "Alkmaar"
+
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
