@@ -375,8 +375,8 @@ wallonia_area = { #5
 	91 93 94 1866 4958
 }
 
-holland_area = { #5
-	96 97 98 4383 4997
+holland_area = { #6
+	96 97 98 4383 4997 5137
 }
 
 flanders_area = { #3
@@ -1078,7 +1078,7 @@ weser_area = { #4
 }
 
 holstein_area = { #3
-	13 1775 4141 
+	13 1775 4141 5136
 }
 
 lower_saxony_area = { #4

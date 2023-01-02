@@ -143,6 +143,7 @@ ATI = "countries/Altai.txt"
 TUV = "countries/Tuva.txt"
 
 #North Germany	
+FRL = "countries/FrisianLands.txt"
 HOY = "countries/Hoya.txt"
 STP = "countries/Stolp.txt"
 
