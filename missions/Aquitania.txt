@@ -71,9 +71,138 @@ aquitainia_conquer = {
 			factor = 1000
 		}
 	}
+
+	aqt_marca_hispanica = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_occitania_conquer }
+		position = 3
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_aragon = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_marca_hispanica }
+		position = 4
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_iberia = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_aragon aqt_branching_mission_2 }
+		position = 5
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_cleansed_heathens = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_iberia }
+		position = 6
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_one_standard = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 9
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_revitalization_culture = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_one_standard }
+		position = 10
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_art_influence = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_revitalization_culture }
+		position = 11
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_engineered_precision = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_art_influence }
+		position = 12
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
 }
 
-aquitainia_religion = {
+aquitainia_hce = {
 	slot = 2
 	generic = no
 	ai = yes
@@ -82,9 +211,218 @@ aquitainia_religion = {
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = no
+
+	aqt_allies_empire = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 2
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_branching_mission_1 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_allies_empire } 
+		position = 3
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_branching_mission_2 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_branching_mission_1 } 
+		position = 4
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_branching_mission_3 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_branching_mission_2 } 
+		position = 5
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_branching_mission_4 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_branching_mission_3 } 
+		position = 6
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_branching_mission_5 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_branching_mission_4 } 
+		position = 7
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_expand_bordeaux = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 9
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_control_trade = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_expand_bordeaux }
+		position = 10
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_reform_government = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_control_trade }
+		position = 11
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_bordeaux_toulon = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_reform_government }
+		position = 12
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_canal_mission = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_bordeaux_toulon aqt_engineered_precision }
+		position = 13
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_industralize_realm = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_canal_mission }
+		position = 14
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_found_new_armagnac = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_solidify_col_holdings }
+		position = 16
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
 }
 
-aquitainia_placeholder1 = {
+aquitainia_dynastic = {
 	slot = 3
 	generic = no
 	ai = yes
@@ -93,9 +431,187 @@ aquitainia_placeholder1 = {
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = no
+
+	aqt_religious_league = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 1
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_angevin_throne = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_precedent_glory }
+		position = 3
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+	
+	aqt_normand_obstacle = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_angevin_throne }
+		position = 4
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_established_ties = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_normand_obstacle }
+		position = 5
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_export_dynasty = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_established_ties }
+		position = 6
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_establish_new_aquitania = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_discover_avalon }
+		position = 14
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_solidify_col_holdings = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_establish_new_aquitania }
+		position = 15
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_fall_aztecs = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_solidify_col_holdings }
+		position = 16
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_colonial_legacy = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_fall_aztecs }
+		position = 16
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
 }
 
-aquitainia_placeholder2 = {
+#franca_italy = {
+#	slot = 3
+#	generic = no
+#	ai = yes
+#	potential = {
+#		tag = AQT
+#		NOT = { map_setup = map_setup_random }
+#	}
+#	has_country_shield = no
+#}
+
+#franca_francia = {
+#	slot = 4
+#	generic = no
+#	ai = yes
+#	potential = {
+#		tag = AQT
+#		NOT = { map_setup = map_setup_random }
+#	}
+#	has_country_shield = no
+#}
+
+#franca_lothair = {
+#	slot = 5
+#	generic = no
+#	ai = yes
+#	potential = {
+#		tag = AQT
+#		NOT = { map_setup = map_setup_random }
+#	}
+#	has_country_shield = no
+#}
+
+aquitainia_centralize = {
 	slot = 4
 	generic = no
 	ai = yes
@@ -104,9 +620,170 @@ aquitainia_placeholder2 = {
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = no
+
+	aqt_develop_gascony = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 1
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_precedent_glory = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_religious_league aqt_develop_gascony aqt_port_bordeaux }
+		position = 2
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_challenge_bretons = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_precedent_glory }
+		position = 3
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_seize_provence = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_challenge_bretons }
+		position = 4
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_toulon_dockyards = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_seize_provence }
+		position = 5
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_reorganize_feudalism = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_established_ties aqt_toulon_dockyards aqt_champagne }
+		position = 6
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_centralize_feudalism = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_reorganize_feudalism }
+		position = 7
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_discover_avalon = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 13
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_carib_branching_mission_1 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_world_branching_mission_1 } 
+		position = 15
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_carib_branching_mission_2 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_carib_branching_mission_1 } 
+		position = 16
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
 }
 
-aquitainia_placeholder3 = {
+aquitainia_enemies = {
 	slot = 5
 	generic = no
 	ai = yes
@@ -115,4 +792,181 @@ aquitainia_placeholder3 = {
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = no
+
+	aqt_port_bordeaux = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 1
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_nemesis_paris = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_precedent_glory }
+		position = 3
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_burgundy_destruction = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_nemesis_paris }
+		position = 4
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_champagne = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_burgundy_destruction }
+		position = 5
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_seven_provinces = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { }
+		position = 6
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_four_regions = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_seven_provinces }
+		position = 7
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_franca = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_centralize_feudalism aqt_four_regions }
+		position = 8
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_world_branching_mission_1 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_discover_avalon } 
+		position = 14
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_world_branching_mission_2 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_world_branching_mission_1 } 
+		position = 15
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_world_branching_mission_3 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_world_branching_mission_2 } 
+		position = 16
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+
+	aqt_world_branching_mission_4 = {
+		icon = mission_locked_mission
+		required_missions = { aqt_world_branching_mission_3 } 
+		position = 17
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			if = { 
+			}
+		}
+		effect = {
+		}
+	}
+	
 }
