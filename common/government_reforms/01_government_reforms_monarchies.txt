@@ -18,6 +18,9 @@ monarchy_mechanic = {
 liao_empire_reform = {
 	icon = asian_scripture
 	allow_normal_conversion = no
+	potential = { tag = LIA }
+	lock_level_when_selected = yes
+	maintain_dynasty = yes
 	valid_for_nation_designer = no
 	modifiers = {
 		culture_conversion_cost = 2
