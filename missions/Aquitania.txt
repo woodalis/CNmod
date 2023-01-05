@@ -34,6 +34,24 @@ aquitainia_conquer = {
 				name = "aquitania_resurgence"
 				duration = 3650
 			}
+			languedoc_area = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_core = ROOT
+			}
+			4945 = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_core = ROOT
+			}
+			4946 = {
+					limit = {
+						NOT = { is_core = ROOT }
+					}
+					add_core = ROOT
+			}
 			custom_tooltip = AQT_EXPAND
 			tooltip = {
 				add_years_of_income = 1.0
@@ -65,7 +83,21 @@ aquitainia_conquer = {
 			NOT = { exists = TOU }
 		}
 		effect = {
-			add_dip_power = 100
+			country_event = { id = flavor_aqt.1 }
+			tarragona_area = { 
+				limit = { 
+					NOT = { owned_by = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT 
+			}
+			catalonia_area = { 
+				limit = { 
+					NOT = { owned_by = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT 
+			}
 		}
 		ai_weight = {
 			factor = 1000
@@ -78,13 +110,34 @@ aquitainia_conquer = {
 		position = 3
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
+			OR = {
+				area = catalonia_area
+				area = tarragona_area
+			}	
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
 		}
 		trigger = {
+			catalonia_area = { type = all	country_or_non_sovereign_subject_holds = ROOT }
+			tarragona_area = { type = all	country_or_non_sovereign_subject_holds = ROOT }
 		}
 		effect = {
+			add_country_modifier = {
+				name = "aquitania_imperative"
+				duration = 3650
+			}
+			aragon_area = { 
+				limit = { 
+					NOT = { owned_by = ROOT } 
+					NOT = { is_core = ROOT } 
+				}
+				add_permanent_claim = ROOT 
+			}
 		}
 		ai_weight = {
-			factor = 1000
+			factor = 1500
 		}
 	}
 
@@ -94,10 +147,74 @@ aquitainia_conquer = {
 		position = 4
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
+			OR = {
+				area = aragon_area
+			}	
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
 		}
 		trigger = {
+			aragon_area = { type = all	country_or_non_sovereign_subject_holds = ROOT }
 		}
 		effect = {
+			if = {
+				limit = {
+					exists = CAS
+					valid_for_personal_unions_trigger = yes
+					CAS = {
+						valid_for_personal_unions_trigger = yes
+					}
+				}
+				add_casus_belli = {
+					type = cb_restore_personal_union
+					months = 300
+					target = CAS
+				}
+			}
+			else = {
+				castille_area = {
+					limit = {
+						NOT = { is_core = root }
+						NOT = { is_permanent_claim = root }
+					}
+					add_permanent_claim = root
+				}
+				valladolid_area = {
+					limit = {
+						NOT = { is_core = root }
+						NOT = { is_permanent_claim = root }
+					}
+					add_permanent_claim = root
+				}
+				burgos_area = {
+					limit = {
+						NOT = { is_core = root }
+						NOT = { is_permanent_claim = root }
+					}
+					add_permanent_claim = root
+				}
+				209 = {
+					limit = {
+						NOT = { is_core = root }
+						NOT = { is_permanent_claim = root }
+					}
+					add_permanent_claim = root
+				}
+				2754 = {
+					limit = {
+						NOT = { is_core = root }
+						NOT = { is_permanent_claim = root }
+					}
+					add_permanent_claim = root
+				}
+				add_casus_belli = {
+					type = cb_restore_personal_union
+					months = 300
+					target = POR
+				}
+			}
 		}
 		ai_weight = {
 			factor = 1000
@@ -106,14 +223,52 @@ aquitainia_conquer = {
 
 	aqt_iberia = {
 		icon = mission_establish_high_seas_navy
-		required_missions = { aqt_aragon aqt_branching_mission_2 }
+		required_missions = { aqt_aragon }
 		position = 5
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
+			region = iberia_region
+			ROOT = {
+				NOT = {
+					num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 20
+						region = iberia_region
+					}
+				}
+			}
+			NOT = { country_or_non_sovereign_subject_holds = root }
 		}
 		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 20
+						region = iberia_region
+			}
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+						value = 5
+						region = iberia_region
+						AND = { religion = ROOT }
+			}
+			OR = {
+				has_country_flag = aqt_heresy_complete
+				has_country_flag = aqt_catholic_complete
+			}
 		}
 		effect = {
+			iberia_region = {
+					limit = {
+						NOT = { is_core = root }
+						NOT = { is_permanent_claim = root }
+					}
+					add_permanent_claim = root
+			}
+			add_casus_belli = {
+					type = cb_crusade
+					months = 300
+					target = ADU
+			}
+			custom_tooltip = AQT_MISSIONARIES
+			set_country_flag = iberia_holy_mission
+
 		}
 		ai_weight = {
 			factor = 1000
@@ -126,10 +281,21 @@ aquitainia_conquer = {
 		position = 6
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
+			OR = {
+				region = iberia_region
+			}	
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+				NOT = { religion = ROOT }
+			}
 		}
 		trigger = {
+			iberia_region = { type = all	country_or_non_sovereign_subject_holds = ROOT religion = ROOT }
 		}
 		effect = {
+			country_event = { id = flavor_aqt.3 }
+			add_prestige = 50
 		}
 		ai_weight = {
 			factor = 1000
@@ -220,13 +386,57 @@ aquitainia_hce = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = building_alliances.aqt
+				num_of_allies = 2
+				calc_true_if = {
+					all_ally = { is_elector = yes has_opinion = { who = ROOT value = 150 } }
+					amount = 2
+				}
+			}
 		}
 		effect = {
+			add_country_modifier = {
+				name = "aquitania_buldwark"
+				duration = 7300
+			}
+			custom_tooltip = AQT_ALLIANCES
+			tooltip = {
+				add_country_modifier = {
+						name = "aquitania_allies"
+						duration = 3650
+				}
+			}
+			hidden_effect = {
+				if = {
+					limit = {
+						any_ally = { tag = MLO }
+						any_ally = { tag = BOH }
+					}
+					add_country_modifier = {
+						name = "aquitania_allies"
+						duration = 3650
+					}
+				}
+			}
 		}
 		ai_weight = {
 			factor = 1000
 		}
 	}
+}
+
+aquitainia_hce_locked = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = AQT
+		NOT = { map_setup = map_setup_random }
+		NOT = { has_country_flag = aqt_heresy_path }
+		NOT = { has_country_flag = aqt_catholic_path }
+	}
+	has_country_shield = no
 
 	aqt_branching_mission_1 = {
 		icon = mission_locked_mission
@@ -307,6 +517,209 @@ aquitainia_hce = {
 		effect = {
 		}
 	}
+}
+
+aquitania_heresy = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = AQT
+		AND = {
+			has_country_flag = aqt_heresy_path
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+
+	aqt_stand_alone = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_allies_empire }
+		position = 3
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+			ROOT = { is_rival = emperor }
+			emperor = { NOT = { has_opinion = { who = ROOT value = -100 } } }
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_catholic_heretic = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_stand_alone }
+		position = 4
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+			set_country_flag = aqt_heresy_complete
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_rejoice_reformation = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_catholic_heretic }
+		position = 5
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_hold_destiny = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_rejoice_reformation }
+		position = 6
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_capet_line = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_hold_destiny }
+		position = 7
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+}
+
+aquitania_catholic = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = AQT
+		AND = {
+			has_country_flag = aqt_catholic_path
+		}
+		NOT = { map_setup = map_setup_random }
+	}
+
+	aqt_voice_heard = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_allies_empire }
+		position = 3
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_respect_emperor = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_voice_heard }
+		position = 4
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+			set_country_flag = aqt_catholic_complete
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_warrior_catholic = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_respect_emperor }
+		position = 5
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_sing_praise = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_warrior_catholic }
+		position = 6
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+	aqt_charlemagnes_legacy = {
+		icon = mission_establish_high_seas_navy
+		required_missions = { aqt_sing_praise }
+		position = 7
+		completed_by = 1444.1.1
+		provinces_to_highlight = {
+		}
+		trigger = {
+		}
+		effect = {
+		}
+		ai_weight = {
+			factor = 1000
+		}
+	}
+
+}
+
+aquitainia_development = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = AQT
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = no
 
 	aqt_expand_bordeaux = {
 		icon = mission_establish_high_seas_navy
@@ -419,7 +832,6 @@ aquitainia_hce = {
 			factor = 1000
 		}
 	}
-
 }
 
 aquitainia_dynastic = {
@@ -639,7 +1051,7 @@ aquitainia_centralize = {
 
 	aqt_precedent_glory = {
 		icon = mission_establish_high_seas_navy
-		required_missions = { aqt_religious_league aqt_develop_gascony aqt_port_bordeaux }
+		required_missions = { aqt_religious_league aqt_develop_gascony aqt_bordeaux_trade }
 		position = 2
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
@@ -793,7 +1205,7 @@ aquitainia_enemies = {
 	}
 	has_country_shield = no
 
-	aqt_port_bordeaux = {
+	aqt_bordeaux_trade = {
 		icon = mission_establish_high_seas_navy
 		required_missions = { }
 		position = 1

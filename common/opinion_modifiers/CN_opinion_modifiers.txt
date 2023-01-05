@@ -1,0 +1,9 @@
+annexed_elector = {
+	opinion = -50
+}
+aqt_angrier_cordoba = {
+	opinion = -100
+}
+aqt_angry_cordoba = {
+	opinion = -50
+}

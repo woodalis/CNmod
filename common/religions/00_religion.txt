@@ -886,6 +886,36 @@ christian = {
 		#harmonized_modifier = harmonized_waldensian
 		
 	}
+
+	capetism = {
+		color = { 44 89 112 }
+		icon = 36
+
+		allowed_center_conversion = {
+			catholic
+		}
+
+		country = {
+			warscore_cost_vs_other_religion = -0.25
+			unjustified_demands = -0.1
+		}
+		
+		country_as_secondary = {
+			embracement_cost = -0.1
+		}
+		
+		province = {
+			local_missionary_strength = -0.03
+		}
+		hre_heretic_religion = yes
+		
+		heretic = { DISSENTER }
+		
+		will_get_center = {
+			always = no
+		}
+		
+	}
 	
 	coptic = {
 	

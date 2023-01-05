@@ -1,4 +1,6 @@
 
+namespace = yuan_flavour
+
 #########################
 # Yuan Disaster Prelude #
 #########################

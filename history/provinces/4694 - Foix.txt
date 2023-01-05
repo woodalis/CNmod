@@ -11,6 +11,7 @@ trade_goods = wool
 base_manpower = 2
 add_core = TOU
 add_core = AQT
+add_core = FOI
 
 discovered_by = eastern
 discovered_by = western

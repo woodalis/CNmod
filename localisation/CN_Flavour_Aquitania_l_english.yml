@@ -1,3 +1,26 @@
 ﻿l_english:
+#Events
+flavor_aqt.1.title:0 "Remainder of our Rivals"
+flavor_aqt.1.desc:0 "todo"
+flavor_aqt.1.a:0 "Split Languedoc into two vassals"
+flavor_aqt.1.b:0 "Annex the entirety of Languedoc"
+flavor_aqt.3.title:0 "Culture of the Muslims"
+flavor_aqt.3.desc:0 "todo"
+flavor_aqt.3.a:0 "Tolerate the Cordovans"
+flavor_aqt.3.b:0 "Force the Cordovans to convert "
+flavor_aqt.3.c:0 "Exile the Cordovans"
+
+#Missions Effects
  aquitania_resurgence:0 "Aquitaine Resurgence"
  AQT_EXPAND:0 "If we complete this mission while owning BOTH Bas-Poitou and Bourbonnais, we will also recieve:"
+ aquitania_imperative:0 "Aquitaine Imperative"
+ AQT_MISSIONARIES:0 "All provinces in the Iberia region upon being under Aquitaine, will gain +2% local missionary strength with the effect lasting 30 years upon activation of the mission"
+ iberia_pious:0 "Conversion of Iberia"
+ iberia_pious_tooltip:0 "We have the right of way, for our faith is justified to cleanse Iberia of heretics and heresy."
+ cordovan_tolerated:0 "Tolerated the Cordovans"
+ cordovan_converted:0 "Converted the Cordovans"
+ cordovan_exiled:0 "Exiled the Cordovans"
+ building_alliances.aqt:0 "At least §Y2§! countries:\nAre electors \nAlliance with §Y[Root.GetName]§!.\nHave at least §Y150§! opinion of §Y[Root.GetName]§!."
+ AQT_ALLIANCES:0 "If Milan and Bohemia are allies of Aquitania, then additionally recieve:"
+ aquitania_buldwark:0 "Bulwark Alliances"
+ aquitania_allies:0 "Strategic Alliances"

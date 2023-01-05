@@ -77,3 +77,16 @@
   mundhum_rebels_name: "$RELIGION$ Zealots"
   mundhum_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
   mundhum_rebels_army: "$RELIGION$ Army"
+
+  #Capetism
+  capetism: "Capetism"
+  capetism_religion_desc: "Largely influenced as a result of Gallicianist doctrine, the King of Aquitaine had distanced his country by rejecting Papal authority, thus being branded as heresy by adherents of the Roman Church. The religion places greater importance of the individual for belief over the religious structure where, to the nobility of Aquitaine, it is clear to them that the mainstream Church values had been lost to corruption. It is up to the true believers of God's will to spread the rightful truth, starting from Aquitaine to the rest of the Christian world."
+
+  DISSENTER: "Dissenter"
+
+  capetism_rebels_demand: "Convert $COUNTRYNAME$"
+  capetism_rebels_demand_desc: "The religious rebels fight for the $RELIGION$ religion. They demand that we recognize its supremacy or at the very least cease our efforts to convert them and let them worship in peace."
+  capetism_rebels_title: "Religious"
+  capetism_rebels_name: "$RELIGION$ Zealots"
+  capetism_rebels_desc: "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers."
+  capetism_rebels_army: "$RELIGION$ Army"
