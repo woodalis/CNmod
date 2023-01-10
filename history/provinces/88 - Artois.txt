@@ -3,6 +3,7 @@
 owner = FLA
 controller = FLA
 add_core = FLA
+add_core = PIC
 capital = "Arras"
 is_city = yes
 culture = wallonian

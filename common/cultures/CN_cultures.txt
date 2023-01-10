@@ -655,6 +655,17 @@ oghuz = {
 			Handan Alime Kösem Hüma 
 		}
 	}
+	qashqai = {
+		dynasty_names = {
+			placeholder
+		}
+		male_names = {
+			placeholder
+		}
+		female_names = {
+			placeholder
+		}
+	}
 }
 
 mongolic = {

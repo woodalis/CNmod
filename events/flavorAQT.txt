@@ -91,7 +91,7 @@ country_event = {
 				}
 				add_province_modifier = {
 					name = iberia_pious
-    				duration = -1  
+    				duration = 10950
     				desc = iberia_pious_tooltip
 				}
 			}
@@ -192,7 +192,7 @@ country_event = {
 	}
 }
 
-#Chose between the Heresy or Catholic Path
+#Choose between the Heresy or Catholic Path
 country_event = { 
 	id = flavor_aqt.4
 	title =  flavor_aqt.4.t
@@ -222,6 +222,71 @@ country_event = {
 		swap_non_generic_missions = yes
 		ai_chance = {
 			factor = 50
+		}
+	}
+}
+
+# Hidden Event for Cynical Plays
+country_event = {
+	id = flavor_aqt.5
+	title = "flavor_aqt.5.title"
+	desc = "flavor_aqt.5.desc"
+	picture = BATTLE_eventPicture
+	
+	hidden = yes
+
+	trigger = {
+		has_country_flag = aqt_ws_heretics
+		NOT = { had_country_flag = { flag = aqt_ws_heretics days = 10950 } }
+		any_war_enemy_country = {
+		}
+	}
+
+	option = {
+		name = "flavor_aqt.5.a"
+		ai_chance = { factor = 100 }
+			limit = { 
+				any_war_enemy_country = {
+					religion = lollard
+					religion = hussite
+					religion = waldensian
+					tag = emperor
+				}
+			}
+			add_country_modifier = {
+				name = aquitania_cynical_plays
+    			duration = -1
+    			desc = aquitania_cynical_plays_tooltip
+			}
+	}
+	option = {
+		name = "flavor_aqt.5.b"
+		ai_chance = { factor = 100 }
+			remove_country_modifier = aquitania_cynical_plays
+	}
+}
+
+# Aquitania converts to Capetism
+country_event = {
+	id = flavor_aqt.6
+	title = "flavor_aqt.6.title"
+	desc = "flavor_aqt.6.desc"
+	picture = BATTLE_eventPicture
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "flavor_aqt.6.a"
+		ai_chance = { factor = 100 }
+		ROOT = { 
+			change_religion = capet
+		}
+		capital_scope = {
+			change_religion = capet
+		}
+		add_country_modifier = {
+			name = aquitania_recent_conversion
+			duration = 1825
 		}
 	}
 }

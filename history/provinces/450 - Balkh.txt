@@ -5,7 +5,7 @@ controller = SLJ
 add_core = SLJ
 add_core = AFG
 
-culture = afghani
+culture = tajik
 religion = sunni
 capital = "Balkh"
 

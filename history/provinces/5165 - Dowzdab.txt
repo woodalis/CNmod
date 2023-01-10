@@ -1,0 +1,23 @@
+#5165 - Dowzdab
+
+owner = BAL
+controller = BAL
+add_core = BAL
+add_core = SIS
+
+culture = baluchi
+religion = shiite
+capital = "Dowzdab"
+
+trade_goods = silk
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+fort_15th = yes #Bam Citadel

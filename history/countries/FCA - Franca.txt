@@ -1,0 +1,46 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+elector = yes
+technology_group = western
+primary_culture = gascon
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+capital = 174 	# Bordeaux
+
+1415.01.01 = {
+	monarch = {
+		name = "William XIX"
+		dynasty = "de Poitiers"
+		birth_date = 1387.12.15
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1415.01.01 = {
+	queen = {
+		country_of_origin = CAS
+		name = "Isabella"
+		dynasty = "von Trastámara"
+		birth_date = 1393.3.16
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1415.01.01 = {
+	heir = {
+		name = "William"
+		monarch_name = "William XX"
+		dynasty = "de Poitiers"
+		birth_date = 1413.11.13
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}

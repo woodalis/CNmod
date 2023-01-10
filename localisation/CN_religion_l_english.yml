@@ -79,8 +79,10 @@
   mundhum_rebels_army: "$RELIGION$ Army"
 
   #Capetism
-  capetism: "Capetism"
-  capetism_religion_desc: "Largely influenced as a result of Gallicianist doctrine, the King of Aquitaine had distanced his country by rejecting Papal authority, thus being branded as heresy by adherents of the Roman Church. The religion places greater importance of the individual for belief over the religious structure where, to the nobility of Aquitaine, it is clear to them that the mainstream Church values had been lost to corruption. It is up to the true believers of God's will to spread the rightful truth, starting from Aquitaine to the rest of the Christian world."
+  capet: "Capet"
+  capet_religion_desc: "Largely influenced as a result of Gallicianist doctrine, the King of Aquitaine had distanced his country by rejecting Papal authority, thus being branded as heresy by adherents of the Roman Church. The religion places greater importance of the individual for belief over the religious structure where, to the nobility of Aquitaine, it is clear to them that the mainstream Church values had been lost to corruption. It is up to the true believers of God's will to spread the rightful truth, starting from Aquitaine to the rest of the Christian world."
+
+  capet_center_of_reformation:0 "Center of Reformation"
 
   DISSENTER: "Dissenter"
 

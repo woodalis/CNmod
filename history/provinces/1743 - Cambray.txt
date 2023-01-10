@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = PIC
-controller = PIC
+owner = HAI
+controller = HAI
 capital = "Cambray"
 is_city = yes
 culture = wallonian
@@ -15,7 +15,7 @@ base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 2
-add_core = PIC
+add_core = HAI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

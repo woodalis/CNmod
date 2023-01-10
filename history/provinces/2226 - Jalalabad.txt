@@ -5,7 +5,7 @@ controller = KFR
 add_core = KFR
 add_core = AFG
 
-culture = afghani
+culture = pashto
 religion = sunni
 capital = "Jalalabad"
 

@@ -76,6 +76,7 @@ italy_region = {
 		venetia_area
 		lombardy_area
 		piedmont_area
+		coastal_tuscany_area
 		tuscany_area
 		liguria_area
 		corsica_sardinia_area
@@ -87,6 +88,7 @@ italy_region = {
 		romagna_area
 		fruili_area
 		central_italy_area
+		abruzzo_area
 		lazio_area
 		po_valley_area
 		western_sicily_area
@@ -341,7 +343,7 @@ maghreb_region = {
 		tunisia_area
 		djerba_area
 		kabylia_area
-		algiers_area
+		tekna_area
 		hautes_plaines_area
 		north_saharan_area
 		tafilalt_area
@@ -401,7 +403,10 @@ persia_region = {
 		isfahan_area
 		kerman_area
 		persian_gulf_coast
-		tabriz_area
+		south_azerbaijan_area
+		urmia_area
+		gilak_area
+		qashqaistan_area
 		khuzestan_area
 		mogostan_area
 	}
@@ -413,7 +418,8 @@ khorasan_region = {
 		balkh_area
 		kabulistan_area
 		ghor_area
-		sistan_area
+		kandahar_area
+		west_makran_area
 		makran_area
 		kalat_area
 		birjand_area
@@ -616,6 +622,7 @@ kongo_region = {
 central_asia_region = {
 	areas = {
 		nogai_area
+		aktobe_area
 		transcaspia_area
 		transoxiana_area
 		kazakhstan_area
@@ -758,6 +765,7 @@ hindusthan_region = {
 		baisi_rajya_area
 		bundelkhand_area
 		sind_sagar_area
+		peshawar_area
 	}
 	monsoon = {
 		00.07.01

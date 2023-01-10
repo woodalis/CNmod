@@ -5,8 +5,8 @@ controller = SLJ
 add_core = SLJ
 add_core = AFG
 
-culture = afghani
-religion = sunni
+culture = hazara
+religion = shiite
 capital = "Ahangaran"
 
 trade_goods = wool

@@ -5,14 +5,14 @@ controller = KFR
 add_core = KFR
 add_core = AFG
 
-culture = afghani
+culture = tajik
 religion = sunni
 capital = "Kunduz"
 
 trade_goods = cotton
 hre = no
-base_tax = 1 
-base_production = 1
+base_tax = 2
+base_production = 3
 base_manpower = 2
 is_city = yes
 

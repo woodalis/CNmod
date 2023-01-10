@@ -1,0 +1,27 @@
+namespace = hce_event
+
+#Waldensian Spread
+#country_event = {
+	id = hce_event.1
+	title = "hce_event.1.title"
+	desc = "hce_event.1.desc"
+	picture = HRE_eventPicture
+	
+	major = yes
+	major_trigger = {
+		is_part_of_hre = yes
+		NOT = {
+			is_year = 1490
+		}
+	}
+	option = {
+		name = "flavor_aqt.1.a"
+		ai_chance = { factor = 70 }
+
+	}
+	option = {
+		name = "flavor_aqt.1.b"
+		ai_chance = { factor = 30 }
+
+	}
+}

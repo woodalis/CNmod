@@ -288,8 +288,8 @@ brittany_area = { #5
 	169 170 171 172 4384
 }
 
-normandy_area = { #4
-	167 168 1879 4385
+normandy_area = { #5
+	167 168 1879 4385 5138
 }
 
 provence_area = { #5
@@ -300,8 +300,8 @@ poitou_area = { #4
 	180 4111 4386 4387
 }
 
-guyenne_area = { #4
-	194 198 4112 174
+guyenne_area = { #5
+	194 198 4112 174 5140
 }
 
 pyrenees_area = { #5
@@ -334,8 +334,8 @@ savoy_dauphine_area = { #5 Savoy and Dauphiné, Upper Burgundy
 	203 204 205 4719 4720
 }
 
-lorraine_area = { #4
-	188 189 4766 4953
+lorraine_area = { #5
+	187 188 189 4766 4953
 }
 
 picardy_area = { #5
@@ -347,7 +347,7 @@ ile_de_france_area = { #4
 }
 
 champagne_area = { #3
-	181 186 187 
+	181 186 5139
 }
 
 south_champagne_area = { #4
@@ -482,28 +482,32 @@ macaronesia_area = { #3
 # Italy					 			   #
 ########################################
 
-venetia_area = { #4
-	108 112 1774 4729
+venetia_area = { #5
+	108 112 1774 4729 5144
 }
 
-fruili_area = { #2
-	111 4965
+fruili_area = { #3
+	111 4965 5145
 }
 lombardy_area = { #5
-	104 1862 2981 4728 4740 2979
+	104 2981 4728 2979 5143
 }
 
-po_valley_area = { #3
+po_valley_area = { #4
 	color = { 205 190 47 }
-	109 4739 107
+	109 1862 4739 107
 }
 
 piedmont_area = { #5
 	103 1875 4727 4961 4987
 }
 
-tuscany_area = { #5
-	115 116 117 2978 2980
+coastal_tuscany_area = { #3
+	115 2980 5147
+}
+
+tuscany_area = { #4
+	116 117 2978 5146
 }
 
 liguria_area = { #5
@@ -533,8 +537,8 @@ lazio_area = { #5 Lazio-Umbria
 calabria_area = { #4 (+Lucania)
 	123 1934 2984 4981
 }
-apulia_area = { #5
-	122 1933 2985 4733 4982
+apulia_area = { #4
+	122 1933 2985 4982
 }
 
 romagna_area = { #3
@@ -546,8 +550,12 @@ emilia_area = { #3
 	105 106 4963
 }
 
-central_italy_area = { #5
-	119 120 2977 4964 4984
+central_italy_area = { #4
+	119 2977 4964 5148
+}
+
+abruzzo_area = { #3
+	120 4733 4984
 }
 
 ########################################
@@ -848,8 +856,8 @@ beloozero_area = { #3
 	312 4259 4261
 }
 
-astrakhan_area = { #3
-	464 466 5073
+astrakhan_area = { #4
+	464 466 5073 5115
 }
 
 majar_area = { #4
@@ -860,8 +868,8 @@ lower_don_area = { #4
 	288 467 1971 2409
 }
 
-kazan_area = { #3
-	1082 2422 4264
+kazan_area = { #5
+	1082 2422 4264 5116 5117
 }
 
 samara_area = { #4
@@ -872,8 +880,12 @@ lower_yik_area = { #4
 	474 2365 2367
 }
 
-nogai_area = { #6
-	465 470 471 472 2366 439
+nogai_area = { #3
+	439 465 5113
+}
+
+aktobe_area = { #5
+	470 471 472 2366 5114
 }
 
 ural_area = { #5
@@ -1488,52 +1500,52 @@ djerba_area = { #3
 	353 2453 2954
 }
 
-algiers_area = { #3
-	336 2465 4562
+tekna_area = { #3
+	5152 5153 5154
 }
 
-barbary_coast_area = { #3
-	337 2461 338
+barbary_coast_area = { #4
+	337 2461 338 4562
 }
 
 kabylia_area = { #3
 	339 340 1882 
 }
 
-hautes_plaines_area = { #3
-	2459 2462 2463 
+hautes_plaines_area = { #5
+	336 2458 2459 2462 2463 
 }
 
-ouled_nail_area = { #3
-	350 351 2458
+ouled_nail_area = { #2
+	350 351
 }
 
 north_saharan_area = { #5
 	352 2450 2456 2457 2472
 }
 
-tafilalt_area = { #3
-	346 349 2460
+tafilalt_area = { #4
+	346 349 2460 2465
 }
 
-sus_area = { #4
-	348 2464 2466 4568
+sus_area = { #5
+	348 2464 2466 5150 5151
 }
 
 southern_morocco_area = { #3
 	347 1110 2470 
 }
 
-western_morocco_area = { #3
-	342 345 2469 4564
+western_morocco_area = { #5
+	345 2469 4563 4564 5149
 }
 
-marrekesh_area = { #3
-	343 344 2467 2468
+marrekesh_area = { #5
+	343 344 2467 2468 4568
 }
 
 northern_morocco_area = { #5
-	334 335 1751 4563 4561
+	334 335 342 1751 4561
 }
 
 ########################################
@@ -2031,12 +2043,16 @@ south_african_plateau_area = { #5
 # Greater Persia		               #
 ########################################
 
-makran_area = { #5
-	434 575 2231 2232 2233
+makran_area = { #3
+	575 2231 2232
 }
 
-sistan_area = { #4
-	435 2224 2229 2230
+west_makran_area = { #3
+	434 2233 5165
+}
+
+kandahar_area = { #4
+	447 2229 2230 5169
 }
 
 kalat_area = { #3
@@ -2067,30 +2083,30 @@ khiva_area = { #6
 	440 441 443 1973 2362 2370
 }
 
-kabulistan_area = { #5
+kabulistan_area = { #4
 	color = { 96 219 58 }
-	448 451 452 578 2226
+	448 451 2226 5171
 }
 
 transcaspia_area = { #4
 	437 2349 4969 4976
 }
 
-mashhad_area = { #5 - Northern Khorasan
-	2214 2221 2235 2236 4326 
+mashhad_area = { #5
+	2221 2235 2236 4325 4326 
 }
 
-herat_area = {	#3 - Eastern Khorasan
-	446 4324 4325 
+herat_area = {	#3
+	446 2224 5166 
 }
 
-birjand_area = { #3 - Western Khorasan
-	436 4334 4336 
+birjand_area = { #5
+	435 436 4324 4334 4336 
 }
 
-ghor_area = { #3
+ghor_area = { #4
 	color = { 191 176 53 }
-	447 449 2225
+	449 2225 5167 5168
 }
 
 merv_area = { #3
@@ -2098,12 +2114,12 @@ merv_area = { #3
 	444 445 2350
 }
 
-balkh_area = { #3
-	450 2227 2228
+balkh_area = { #5
+	450 452 2227 2228 5170
 }
 
-kerman_area = { #4
-	432 2220 2234 4345
+kerman_area = { #5
+	432 2220 2234 4345 5163
 }
 
 persian_gulf_coast = { #4
@@ -2115,39 +2131,55 @@ mogostan_area = { #3
 }
 
 farsistan_area = { #4
-	2218 4329 4330 4331
+	2218 4171 4329 4330
+}
+
+qashqaistan_area = { #3
+	4331 5161 5162
 }
 
 iraq_e_ajam_area = { #5
 	427 428 2213 2216 4337
 }
 
-azerbaijan_area = { #5 #Southern Azerbaijan
-	424 2212 2215 4300 4338
+azerbaijan_area = { #5
+	416 424 2207 4300 5155
 }
 
-isfahan_area = { #3
-	429 433 2222 4335 4171
+isfahan_area = { #5
+	429 433 2222 4335 5160
 }
 
-tabriz_area = { #4 Central Azerbaijan
-	416 2206 2207 4304
+south_azerbaijan_area = { #3
+	2212 2215 4338
 }
 
-tabarestan_area = { #5
-	417 426 4339 4340 4341
+urmia_area = { #3
+	2206 4304 5156
+}
+
+tabarestan_area = { #4
+	426 2214 4341 5157
+}
+
+gilak_area = { #3
+	417 4339 4340
 }
 
 ########################################
 # India  		                       #
 ########################################
 
-sirhind_area = {	#4
+sirhind_area = { #4
 	510 2065 4411 4463
 }
 
 sind_sagar_area = { #3
-	2077 2078 4511
+	2077 4511 5174
+}
+
+peshawar_area = { #4
+	578 2078 5172 5173
 }
 
 oudh_area = { #5
@@ -2162,8 +2194,8 @@ purvanchal_area = { #4
 	555 2055 2095 4490
 }
 
-upper_doab_area = { #3
-	522 2060 2062
+upper_doab_area = { #4
+	522 2060 2062 5175
 }
 
 lower_doab_area = { #4

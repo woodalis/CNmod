@@ -6,7 +6,7 @@ add_core = MRK
 
 culture = moroccan
 religion = sunni
-capital = "Mazzagan"
+capital = "Mazagan"
 
 trade_goods = grain
 hre = no

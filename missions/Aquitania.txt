@@ -249,8 +249,14 @@ aquitainia_conquer = {
 						AND = { religion = ROOT }
 			}
 			OR = {
-				has_country_flag = aqt_heresy_complete
-				has_country_flag = aqt_catholic_complete
+				custom_trigger_tooltip = {
+					tooltip = aqt_iberia_requirement_heresy
+					has_country_flag = aqt_heresy_complete
+				}
+				custom_trigger_tooltip = {
+					tooltip = aqt_iberia_requirement_catholic
+					has_country_flag = aqt_catholic_complete
+				}
 			}
 		}
 		effect = {
@@ -543,6 +549,14 @@ aquitania_heresy = {
 			emperor = { NOT = { has_opinion = { who = ROOT value = -100 } } }
 		}
 		effect = {
+			set_country_flag = aqt_ws_heretics
+			custom_tooltip = aqt_ws_heretics_tt
+			tooltip = {
+				add_country_modifier = {
+						name = "aquitania_cynical_plays"
+						duration = 10950
+				}
+			}
 		}
 		ai_weight = {
 			factor = 1000
@@ -555,10 +569,15 @@ aquitania_heresy = {
 		position = 4
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
+			owned_by = BOH
 		}
 		trigger = {
+			AQT = {
+  			preferred_emperor = BOH
+		}
 		}
 		effect = {
+			country_event = {  id = flavor_aqt.6 }
 			set_country_flag = aqt_heresy_complete
 		}
 		ai_weight = {
@@ -574,8 +593,16 @@ aquitania_heresy = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			OR = {
+				is_great_power = yes
+				total_development = 350
+			}
 		}
 		effect = {
+			add_country_modifier = {
+				name = aquitania_self_dependence
+				duration = 5475
+			}
 		}
 		ai_weight = {
 			factor = 1000
@@ -590,8 +617,12 @@ aquitania_heresy = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			church_power = 50
 		}
 		effect = {
+			capital_scope = {
+				add_reform_center = capet
+			}
 		}
 		ai_weight = {
 			factor = 1000
@@ -604,10 +635,20 @@ aquitania_heresy = {
 		position = 7
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
+			any_owned_province = {
+				NOT = { religion = capet }
+			}
 		}
 		trigger = {
+			is_religion_enabled = capet
+			religion = capet
+			religious_unity = 1
 		}
 		effect = {
+			add_country_modifier = {
+				name = aquitania_capetist_agenda
+				duration = -1
+			}
 		}
 		ai_weight = {
 			factor = 1000
@@ -850,8 +891,17 @@ aquitainia_dynastic = {
 		position = 1
 		completed_by = 1444.1.1
 		provinces_to_highlight = {
+			tag = NAV
+			tag = TOI
+			tag = ONG
 		}
 		trigger = {
+			calc_true_if = {
+				amount = 3
+				NAV = { has_opinion = { who = ROOT value = 150 } }
+				TOI = { has_opinion = { who = ROOT value = 150 } }
+				ONG = { has_opinion = { who = ROOT value = 150 } }
+			}
 		}
 		effect = {
 		}

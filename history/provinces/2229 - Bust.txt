@@ -6,7 +6,7 @@ add_core = AFG
 add_core = SIS
 add_core = KHO
 
-culture = afghani
+culture = pashto
 religion = sunni
 capital = "Bust"
 

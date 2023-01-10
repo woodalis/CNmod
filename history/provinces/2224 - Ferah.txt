@@ -7,7 +7,7 @@ add_core = SIS
 add_core = AFG
 add_core = KHO
 
-culture = khorasani
+culture = tajik
 religion = sunni
 capital = "Ferah"
 

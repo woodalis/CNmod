@@ -6,7 +6,7 @@ add_core = SLJ
 add_core = QAR
 add_core = TBR
 
-culture = azerbaijani
+culture = kurdish
 religion = sunni
 capital = "Khoy"
 

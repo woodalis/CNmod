@@ -1,10 +1,11 @@
 #2225 - Bamyan
 
-owner = AFG
-controller = AFG
+owner = SLJ
+controller = SLJ
+add_core = SLJ
 add_core = AFG
 
-culture = afghani
+culture = hazara
 religion = shiite
 capital = "Bamyan"
 

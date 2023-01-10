@@ -6,7 +6,7 @@ add_core = KFR
 add_core = MUL
 add_core = PUN
 
-culture = panjabi
+culture = pashto
 religion = sunni
 capital = "Bannu"
 

@@ -1,7 +1,7 @@
 # 4766 - Verdun
 
-owner = LOR
-controller = LOR
+owner = VDN
+controller = VDN
 capital = "Verdun"
 is_city = yes
 culture = burgundian
@@ -11,8 +11,7 @@ base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 3
-add_core = LOR
-add_core = BAR
+add_core = VDN
 fort_15th = yes
 
 discovered_by = eastern

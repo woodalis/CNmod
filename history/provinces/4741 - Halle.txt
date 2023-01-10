@@ -2,7 +2,7 @@
 
 owner = BRA
 controller = BRA
-add_core = RBA
+add_core = BRA
 add_core = MAG
 culture = saxon
 religion = catholic

@@ -6,7 +6,7 @@ add_core = SLJ
 add_core = BPI
 add_core = ARL
 
-culture = azerbaijani
+culture = mazandarani
 religion = shiite
 capital = "Astara"
 

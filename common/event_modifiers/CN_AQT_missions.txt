@@ -34,3 +34,20 @@ aquitania_buldwark = {
 aquitania_allies = {
 	ae_impact = -0.1
 }
+
+aquitania_cynical_plays = {
+	province_warscore_cost = -0.25
+}
+
+aquitania_recent_conversion = {
+	global_heretic_missionary_strength = -0.03
+}
+
+aquitania_self_dependence = {
+	administrative_efficiency = 0.05
+}
+
+aquitania_capetist_agenda = {
+	missionaries = 1
+	global_missionary_strength = 0.01
+}
